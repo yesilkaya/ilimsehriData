@@ -1,0 +1,42 @@
+[
+  {
+    "companyName": "Turabi Tur",
+    "name": "Meşhed Ziyareti",
+    "img": "https://hekimane.com/wp-content/uploads/2025/08/turabi-tur.jpg",
+    "imgList": [
+      "https://i.pinimg.com/1200x/20/a9/f3/20a9f3004919f029cb4bd49492c2c4cb.jpg",
+      "https://i.pinimg.com/736x/30/fd/58/30fd58598cab92d897ff51817ef62cee.jpg",
+      "https://i.pinimg.com/736x/94/b8/20/94b820a37649abceda0b73c289c68136.jpg"
+    ],
+    "price": "$680",
+    "location": "Meşhed, İran",
+    "details": "✈️ Ulaşım ...",
+    "transportation": "airplane"
+  },
+  {
+    "companyName": "Çiçek Turizm",
+    "name": "Kerbela Ziyareti",
+    "img": "https://i.pinimg.com/736x/eb/3d/10/eb3d105e4c69e145fbe9cdc430661c25.jpg",
+    "imgList": [
+      "https://i.pinimg.com/736x/79/d1/09/79d109e89504395be3cc37c8bb5e2dd4.jpg",
+      "https://i.pinimg.com/1200x/40/28/4e/40284e00fe2c36bd02497278b68e178c.jpg"
+    ],
+    "price": "$420",
+    "location": "Kerbela, Irak",
+    "details": "Pellentesque in ipsum id orci porta dapibus...",
+    "transportation": "bus"
+  },
+  {
+    "companyName": "Sena Turizm",
+    "name": "Umre Ziyareti",
+    "img": "https://i.pinimg.com/736x/81/c6/b1/81c6b1c054d134dd7e09d087582b11d0.jpg",
+    "imgList": [
+      "https://i.pinimg.com/1200x/6a/4f/4f/6a4f4f629be73e2561064d756f53c6dc.jpg",
+      "https://i.pinimg.com/1200x/5a/4d/e7/5a4de70c447668d5161feedc627c7a1b.jpg"
+    ],
+    "price": "$80/gece",
+    "location": "Mekke, Suudi Arabistan",
+    "details": "Mauris blandit aliquet elit...",
+    "transportation": "airplane"
+  }
+]
