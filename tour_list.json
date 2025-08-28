@@ -27,7 +27,7 @@
     "start_date": "7 Kasım",
     "end_date": "20 Kasım",
     "travel_time": "14 Gün",
-    "move_from": ["İstanbul"],
+    "move_from": ["İstanbul","Anadolu"],
     "img": "https://hekimane.com/wp-content/uploads/2025/08/intizar_tur.jpg",
     "imgList": [
       "https://i.pinimg.com/736x/79/d1/09/79d109e89504395be3cc37c8bb5e2dd4.jpg",
