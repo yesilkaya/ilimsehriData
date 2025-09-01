@@ -19,27 +19,26 @@
     "details": "✈️ **Ulaşım**\nTurumuz İstanbul ve Anadolu’dan otobüs ile başlayacak. İran'a giriş yaptıktan sonra Kum şehrine doğru devam edeceğiz.\n\n🕌 **Kum Ziyaretleri**\nKum’da 3 gün boyunca Hz. Masume Türbesi başta olmak üzere önemli ziyaret yerlerini göreceğiz. Hz. Masume Selamullahi Aleyha haremi, Cemkeran Mescidi, Beytulnur, 40 Kesik Başlar, Musa Mübarek, Zeyd ziyaretleri yapılacak.\n\nKum'daki konaklamamız hareme yürüme mesafesinde olan bir otelde yapılacaktır.\n\n🚆 **Trenle Meşhed Yolculuğu**\nKum’daki ziyaretlerimizin ardından tren yolculuğu ile Meşhed’e geçiyoruz.\n\n🕌 **Meşhed Ziyaretleri**\nMeşhed’de 3 gün boyunca  İmam Rıza Aleyhisselam haremi, Yasir ve Nasir, Ebasalt veya Gademgah ziyaretleri gerçekleştirilecek.\n\nMeşhed’deki konaklamamız hareme yürüme mesafesinde olan bir otelde olacaktır.\n\n🍽️ **Tura Dahil Olan Hizmetler**\n- Uçak, tren ve şehir içi transferler\n- Rehberlik, dua ve mersiye programları\n- Otellerde konaklama (Kum ve Meşhed)\n- Her gün sabah, öğle ve akşam yemekleri\n\nSiz değerli misafirlerimizin rahatlığı için tüm ulaşım ve yemekler programımıza dahildir.",
     "transportation": "bus"
   },
-  {
+{
   "companyName": "Kamer Tur",
   "owner_name": "Berkay Yeşilkaya",
   "maddah_name": "Berkay Yeşilkaya",
   "travel_name": "Manevi Yolculuk",
   "start_date": "7 Kasım",
-  "end_date": “14 Kasım",
+  "end_date": "14 Kasım",
   "travel_time": "8 Gün",
-  "move_from": ["İstanbul", “İzmir", “Ankara"],
+  "move_from": ["İstanbul", "İzmir", "Ankara"],
   "img": "https://i.pinimg.com/736x/fc/9e/22/fc9e2249ad9945e193c04ac6edb4f25a.jpg",
   "imgList": [
     "https://i.pinimg.com/1200x/6a/4f/4f/6a4f4f629be73e2561064d756f53c6dc.jpg",
     "https://i.pinimg.com/1200x/5a/4d/e7/5a4de70c447668d5161feedc627c7a1b.jpg"
   ],
-  "price": [
-    "$650",
-  ],
+  "price": ["$650"],
   "location": "Kum, Meşhed ve Tahran - İran",
   "details": "✈️ **Ulaşım**\nKamer Tur ile yolculuğunuz uçakla İstanbul, İzmir, Ankara’dan; otobüsle İstanbul ve Iğdır güzergahlarından başlayacaktır. Yolculuk Doğubeyazıt Gürbulak sınır kapısından İran'a giriş ile devam edecektir.\n\n🌙 **Kum Ziyaretleri**\n- Hz. Masume (sa) türbesi\n- Cemkeran Mescidi\n- Beytunnur\n- 40 Kesik Başlar\n- Hz. Mubergah (as)\n- Hz. Sekine (sa)\n- Hz. Ahmed (as) ve nice imamzadeler\n\n🕌 **Meşhed Ziyaretleri**\n- İmam Rıza (as)\n- Aba Selt\n- Hz. Yasir ve Nasır (as)\n- Hace Murat\n- Kademgah\n- Müze\n\n🏙️ **Tahran Ziyaretleri**\n- Şah Abdulazim\n- İmam Humeyni (ra)\n- Şehitlik\n\n🍽️ **Konaklama**\nKum’da 2 gece 3 gün boyunca Hz. Masume (sa) türbesine yakın, açık büfe ve temiz konaklama yerlerinde kalınacaktır.",
   "transportation": "airplane"
-},
+}
+,
   {
     "companyName": "İntizar Tur",
     "owner_name": "Özcan Atabey",
