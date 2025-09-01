@@ -23,19 +23,20 @@
   "companyName": "Kamer Tur",
   "owner_name": "Berkay Yeşilkaya",
   "maddah_name": "Berkay Yeşilkaya",
-  "travel_name": "Manevi Yolculuk",
+  "travel_name": "Meşhed Ziyareti",
   "start_date": "7 Kasım",
   "start_date": "14 Kasım",
   "travel_time": "8 Gün",
   "move_from": ["İstanbul", "İzmir", "Ankara"],
   "img": "https://i.pinimg.com/736x/fc/9e/22/fc9e2249ad9945e193c04ac6edb4f25a.jpg",
   "imgList": [
-    "https://i.pinimg.com/1200x/6a/4f/4f/6a4f4f629be73e2561064d756f53c6dc.jpg",
-    "https://i.pinimg.com/1200x/5a/4d/e7/5a4de70c447668d5161feedc627c7a1b.jpg"
+    "https://i.pinimg.com/736x/94/b8/20/94b820a37649abceda0b73c289c68136.jpg",
+    "https://i.pinimg.com/1200x/20/a9/f3/20a9f3004919f029cb4bd49492c2c4cb.jpg",
+    "https://i.pinimg.com/736x/30/fd/58/30fd58598cab92d897ff51817ef62cee.jpg"
   ],
   "price": ["$650"],
   "location": "Kum, Meşhed ve Tahran - İran",
-  "details": "✈️ **Ulaşım**\nKamer Tur ile yolculuğunuz uçakla İstanbul, İzmir, Ankara’dan; otobüsle İstanbul ve Iğdır güzergahlarından başlayacaktır. Yolculuk Doğubeyazıt Gürbulak sınır kapısından İran'a giriş ile devam edecektir.\n\n🌙 **Kum Ziyaretleri**\n- Hz. Masume (sa) türbesi\n- Cemkeran Mescidi\n- Beytunnur\n- 40 Kesik Başlar\n- Hz. Mubergah (as)\n- Hz. Sekine (sa)\n- Hz. Ahmed (as) ve nice imamzadeler\n\n🕌 **Meşhed Ziyaretleri**\n- İmam Rıza (as)\n- Aba Selt\n- Hz. Yasir ve Nasır (as)\n- Hace Murat\n- Kademgah\n- Müze\n\n🏙️ **Tahran Ziyaretleri**\n- Şah Abdulazim\n- İmam Humeyni (ra)\n- Şehitlik\n\n🍽️ **Konaklama**\nKum’da 2 gece 3 gün boyunca Hz. Masume (sa) türbesine yakın, açık büfe ve temiz konaklama yerlerinde kalınacaktır.",
+  "details": "✈️ **Ulaşım**\nKamer Tur ile yolculuğunuz uçakla İstanbul, İzmir, Ankara’dan başlayacaktır.\n\n🌙 **Kum Ziyaretleri**\n- Hz. Masume (sa) türbesi\n- Cemkeran Mescidi\n- Beytunnur\n- 40 Kesik Başlar\n- Hz. Mubergah (as)\n- Hz. Sekine (sa)\n- Hz. Ahmed (as) ve nice imamzadeler\n\n🕌 **Meşhed Ziyaretleri**\n- İmam Rıza (as)\n- Aba Selt\n- Hz. Yasir ve Nasır (as)\n- Hace Murat\n- Kademgah\n- Müze\n\n🏙️ **Tahran Ziyaretleri**\n- Şah Abdulazim\n- İmam Humeyni (ra)\n- Şehitlik\n\n🍽️ **Konaklama**\nKum’da 2 gece 3 gün boyunca Hz. Masume (sa) türbesine yakın, açık büfe ve temiz konaklama yerlerinde kalınacaktır.",
   "transportation": "airplane"
 }
 ,
@@ -58,6 +59,27 @@
     "details": "✈️ **Ulaşım**\nTurumuz İstanbul Havalimanı’ndan başlayacak.\n\nIrak'a iniş yaptıktan sonra Kerbela, Necef ve Kazımeyn ziyaretleri gerçekleştirilecek. 1 hafta Irak'ta konakladıktan sonra İran'a doğru yola çıkacak ve Tahran'a indikten sonra otobüslerle Kum şehrine doğru devam edeceğiz.\n\n🕌 **Kum Ziyaretleri**\nKum’da 3 gün boyunca Hz. Masume Türbesi başta olmak üzere önemli ziyaret yerlerini göreceğiz. Konaklamamız haremlere yürüme mesafesinde olan bir otelde yapılacaktır.\n\n🚆 **Trenle Meşhed Yolculuğu**\nKum’daki ziyaretlerimizin ardından tren yolculuğu ile Meşhed’e geçiyoruz.\n\n🕌 **Meşhed Ziyaretleri**\nMeşhed’de 3 gün boyunca İmam Rıza Türbesi’ni ziyaret edecek, ayrıca bazı imamzade türbelerine uğrayacağız. Meşhed’deki konaklamamız **Suruj Otel**’de olacak.\n\n🍽️ **Tura Dahil Olan Hizmetler**\n- Uçak, tren ve şehir içi transferler\n- Rehberlik, dua ve mersiye programları\n- Otellerde konaklama (Kum ve Meşhed)\n- Her gün sabah, öğle ve akşam yemekleri",
     "transportation": "airplane"
   },
+  {
+  "companyName": "Kamer Tur",
+  "owner_name": "Berkay Yeşilkaya",
+  "maddah_name": "Berkay Yeşilkaya",
+  "travel_name": "Meşhed Ziyareti",
+  "start_date": "16 Kasım",
+  "start_date": "26 Kasım",
+  "travel_time": "10-12 Gün",
+  "move_from": ["İstanbul","Iğdır"],
+  "img": "https://i.pinimg.com/736x/fc/9e/22/fc9e2249ad9945e193c04ac6edb4f25a.jpg",
+  "imgList": [
+    "https://i.pinimg.com/736x/94/b8/20/94b820a37649abceda0b73c289c68136.jpg",
+    "https://i.pinimg.com/1200x/20/a9/f3/20a9f3004919f029cb4bd49492c2c4cb.jpg",
+    "https://i.pinimg.com/736x/30/fd/58/30fd58598cab92d897ff51817ef62cee.jpg"
+  ],
+  "price": ["$300","$250"],
+  "location": "Kum, Meşhed ve Tahran - İran",
+  "details": "✈️ **Ulaşım**\nKamer Tur ile yolculuğunuz otobüsle İstanbul ve Iğdır'dan başlayacaktır.\n\n🌙 **Kum Ziyaretleri**\n- Hz. Masume (sa) türbesi\n- Cemkeran Mescidi\n- Beytunnur\n- 40 Kesik Başlar\n- Hz. Mubergah (as)\n- Hz. Sekine (sa)\n- Hz. Ahmed (as) ve nice imamzadeler\n\n🕌 **Meşhed Ziyaretleri**\n- İmam Rıza (as)\n- Aba Selt\n- Hz. Yasir ve Nasır (as)\n- Hace Murat\n- Kademgah\n- Müze\n\n🏙️ **Tahran Ziyaretleri**\n- Şah Abdulazim\n- İmam Humeyni (ra)\n- Şehitlik\n\n🍽️ **Konaklama**\nKum’da 2 gece 3 gün boyunca Hz. Masume (sa) türbesine yakın, açık büfe ve temiz konaklama yerlerinde kalınacaktır.",
+  "transportation": "bus"
+}
+,
   {
     "companyName": "Turabi Tur",
     "owner_name": "Özcan Atabey",
