@@ -20,6 +20,27 @@
     "transportation": "bus"
   },
   {
+  "companyName": "Kamer Tur",
+  "owner_name": "Berkay Yeşilkaya",
+  "maddah_name": "Berkay Yeşilkaya",
+  "travel_name": "Manevi Yolculuk",
+  "start_date": "7 Kasım",
+  "end_date": “14 Kasım",
+  "travel_time": "8 Gün",
+  "move_from": ["İstanbul", “İzmir", “Ankara"],
+  "img": "https://i.pinimg.com/736x/fc/9e/22/fc9e2249ad9945e193c04ac6edb4f25a.jpg",
+  "imgList": [
+    "https://i.pinimg.com/1200x/6a/4f/4f/6a4f4f629be73e2561064d756f53c6dc.jpg",
+    "https://i.pinimg.com/1200x/5a/4d/e7/5a4de70c447668d5161feedc627c7a1b.jpg"
+  ],
+  "price": [
+    "$650",
+  ],
+  "location": "Kum, Meşhed ve Tahran - İran",
+  "details": "✈️ **Ulaşım**\nKamer Tur ile yolculuğunuz uçakla İstanbul, İzmir, Ankara’dan; otobüsle İstanbul ve Iğdır güzergahlarından başlayacaktır. Yolculuk Doğubeyazıt Gürbulak sınır kapısından İran'a giriş ile devam edecektir.\n\n🌙 **Kum Ziyaretleri**\n- Hz. Masume (sa) türbesi\n- Cemkeran Mescidi\n- Beytunnur\n- 40 Kesik Başlar\n- Hz. Mubergah (as)\n- Hz. Sekine (sa)\n- Hz. Ahmed (as) ve nice imamzadeler\n\n🕌 **Meşhed Ziyaretleri**\n- İmam Rıza (as)\n- Aba Selt\n- Hz. Yasir ve Nasır (as)\n- Hace Murat\n- Kademgah\n- Müze\n\n🏙️ **Tahran Ziyaretleri**\n- Şah Abdulazim\n- İmam Humeyni (ra)\n- Şehitlik\n\n🍽️ **Konaklama**\nKum’da 2 gece 3 gün boyunca Hz. Masume (sa) türbesine yakın, açık büfe ve temiz konaklama yerlerinde kalınacaktır.",
+  "transportation": "airplane"
+},
+  {
     "companyName": "İntizar Tur",
     "owner_name": "Özcan Atabey",
     "maddah_name": "Özcan Atabey",
