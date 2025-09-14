@@ -60,7 +60,9 @@
   { "start": 172, "end": 176, "ready": true, "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/bakara-172-176.html" },
   { "start": 177, "end": 177, "ready": true, "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/bakara-177.html" },
   { "start": 178, "end": 179, "ready": true, "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/bakara-178-179.html" },
-  { "start": 180, "end": 182, "ready": true, "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/bakara-180-182.html" }
+  { "start": 180, "end": 182, "ready": true, "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/bakara-180-182.html" },
+  { "start": 183, "end": 286, "ready": false, "url": null }
+
 ]
   }
 ]
