@@ -3,8 +3,7 @@
   "surahId": 1,
   "ranges": [
     {"start": 1,"end": 5,"ready": true,"url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/fatiha_1_5.html"},
-    {"start": 6,"end": 7,"ready": true, "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/fatiha_6_7.html"},
-    {"start": 6,"end": 7,"ready": true, "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/fatiha-1-57.html"}
+    {"start": 6,"end": 7,"ready": true, "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/fatiha_6_7.html"}
   ]
   },
   {
