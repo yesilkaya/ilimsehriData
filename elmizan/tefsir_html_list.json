@@ -53,8 +53,66 @@
   { "start": 180, "end": 182, "ready": true, "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/bakara-180-182.html" },
   { "start": 183, "end": 185, "ready": true, "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/Bakara-183-185.html" },
   { "start": 186, "end": 186, "ready": true, "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/bakara-186.html" },
-  { "start": 187, "end": 286, "ready": false, "url": null }
-
+  {
+    "start": 244,
+    "end": 252,
+    "ready": true,
+    "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/bakara-244-252.html"
+  },
+  {
+    "start": 253,
+    "end": 254,
+    "ready": true,
+    "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/bakara-253-254.html"
+  },
+  {
+    "start": 255,
+    "end": 255,
+    "ready": true,
+    "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/bakara-255.html"
+  },
+  {
+    "start": 256,
+    "end": 257,
+    "ready": true,
+    "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/bakara-256-257.html"
+  },
+  {
+    "start": 258,
+    "end": 260,
+    "ready": true,
+    "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/bakara-258-260.html"
+  },
+  {
+    "start": 261,
+    "end": 274,
+    "ready": true,
+    "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/bakara-261-274.html"
+  },
+  {
+    "start": 275,
+    "end": 281,
+    "ready": true,
+    "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/bakara-275-281.html"
+  },
+  {
+    "start": 282,
+    "end": 283,
+    "ready": true,
+    "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/bakara-282-283.html"
+  },
+  {
+    "start": 284,
+    "end": 284,
+    "ready": true,
+    "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/bakara-284.html"
+  },
+  {
+    "start": 285,
+    "end": 286,
+    "ready": true,
+    "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/bakara-285-286.html"
+  }
 ]
   }
 ]
