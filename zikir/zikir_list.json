@@ -1,0 +1,17 @@
+[
+  {
+    "id": "online_1",
+    "baslik": "Esma-ül Hüsna",
+    "bolumler": [
+      {"ad": "Ya Allah", "hedefSayi": 100},
+      {"ad": "Ya Rahman", "hedefSayi": 100}
+    ]
+  },
+  {
+    "id": "online_2",
+    "baslik": "Salavat-ı Şerife",
+    "bolumler": [
+      {"ad": "Allahümme salli ala seyyidina Muhammed", "hedefSayi": 100}
+    ]
+  }
+]
