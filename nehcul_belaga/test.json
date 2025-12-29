@@ -1,0 +1,61 @@
+{
+  "id": "nb_full_001",
+  "title": "Nehcu'l Belâga",
+  "author": "Hz. Ali (r.a)",
+  "coverUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Nahj_al-Balagha_-_Copy_of_Muhammad_bin_Ahmad_Natanzi_-_11th_century_AH_-_03.jpg/800px-Nahj_al-Balagha_-_Copy_of_Muhammad_bin_Ahmad_Natanzi_-_11th_century_AH_-_03.jpg",
+  "sections": [
+    {
+      "id": "sec_hutbeler",
+      "title": "Hutbeler",
+      "chapters": [
+        {
+          "id": "hutbe_1",
+          "title": "1. Hutbe: Yerin ve Göğün Yaratılışı",
+          "durationSeconds": 320,
+          "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+          "textContent": "<h1>1. Hutbe</h1><p><strong>Hamd Allah'a mahsustur ki,</strong> konuşanlar O'nu layıkıyla övemez, sayanlar nimetlerini sayıp bitiremez, çaba sarf edenler O'nun hakkını eda edemez.</p><br><p>Himmetlerin en yücesi O'nu idrak edemez, zekaların en derini O'na erişemez. O'nun sıfatlarının bir sınırı, mevcut bir niteliği, saylı bir zamanı ve uzatılmış bir süresi yoktur.</p><h2>Yaratılış Hakkında</h2><p>Mahlukatı kudretiyle yarattı, rüzgarları rahmetiyle estirdi ve sallanan yeryüzünü kayalarla pekiştirdi.</p><p>Dinin evveli O'nu tanımaktır. O'nu tanımanın kemali O'nu tasdik etmektir. O'nu tasdik etmenin kemali O'nu birlemektir (Tevhid).</p>"
+        },
+        {
+          "id": "hutbe_3",
+          "title": "3. Hutbe: Şıkşıkiye Hutbesi",
+          "durationSeconds": 450,
+          "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+          "textContent": "<h1>Şıkşıkiye Hutbesi</h1><p>Andolsun Allah'a ki, falan kimse (hilafeti) bir gömlek gibi giyindi. Oysa benim hilafet için, değirmen taşının mili gibi olduğumu biliyordu.</p><p>Sel benden akar, hiçbir kuş benim uçtuğum yere uçamazdı. Ben de hilafetle arama bir perde çektim ve ondan yüz çevirdim.</p><br><p>Düşündüm; kesilmiş elimle hamle mi edeyim, yoksa bu kapkaranlık körlüğe sabır mı edeyim? Öyle bir körlük ki; yetişkinleri kocatır, çocuğu ihtiyarlatır, mümin ise Rabbine kavuşuncaya kadar onda zahmet çeker.</p>"
+        }
+      ]
+    },
+    {
+      "id": "sec_mektuplar",
+      "title": "Mektuplar",
+      "chapters": [
+        {
+          "id": "mektup_53",
+          "title": "53. Mektup: Malik Eşter'e Emirname",
+          "durationSeconds": 600,
+          "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+          "textContent": "<h1>Malik Eşter'e Emirname</h1><p>Bu, Allah'ın kulu Emirü'l Müminin Ali'nin, Malik b. Haris el-Eşter'i Mısır'a vali tayin ettiği zaman ona verdiği emirdir.</p><h2>Halka Karşı Davranış</h2><p>İnsanlara karşı kalbinde sevgi, merhamet ve lütuf hisleri besle. Onlara karşı yiyeceklerini ganimet bilen yırtıcı bir canavar gibi olma.</p><p><strong>Çünkü insanlar iki sınıftır:</strong><br>Ya dinde kardeşin,<br>Ya da yaratılışta eşindir.</p>"
+        }
+      ]
+    },
+    {
+      "id": "sec_hikmetler",
+      "title": "Hikmetli Sözler",
+      "chapters": [
+        {
+          "id": "hikmet_1",
+          "title": "Hikmet 1",
+          "durationSeconds": 45,
+          "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
+          "textContent": "<p><strong>Hazreti Ali (a.s) buyurdu ki:</strong></p><blockquote>Fitne olduğu zaman deve yavrusu gibi ol; ne binilecek sırtı olsun, ne de sağılacak memesi.</blockquote>"
+        },
+        {
+          "id": "hikmet_10",
+          "title": "Hikmet 10",
+          "durationSeconds": 30,
+          "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3",
+          "textContent": "<p><strong>Hazreti Ali (a.s) buyurdu ki:</strong></p><blockquote>İnsanlarla öyle geçinin ki; öldüğünüzde size ağlasınlar, sağ kaldığınızda size özlem duysunlar.</blockquote>"
+        }
+      ]
+    }
+  ]
+}
