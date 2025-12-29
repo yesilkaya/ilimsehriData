@@ -13,13 +13,14 @@
           "title": "1. Hutbe: Yerin ve Göğün Yaratılışı",
           "durationSeconds": 320,
           "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
-          "textUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/nehcul_belaga/hutbeler/hutbe-1.html"},
+          "textUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/nehcul_belaga/hutbeler/hutbe-1.html"
+        },
         {
           "id": "hutbe_3",
-          "title": "3. Hutbe: Şıkşıkiye Hutbesi",
+          "title": "2. Hutbe: Şıkşıkiye Hutbesi",
           "durationSeconds": 450,
           "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
-          "textUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/nehcul_belaga/hutbeler/hutbe-2.html"},
+          "textUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/nehcul_belaga/hutbeler/hutbe-2.html"
         }
       ]
     },
@@ -32,7 +33,7 @@
           "title": "53. Mektup: Malik Eşter'e Emirname",
           "durationSeconds": 600,
           "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
-          "textUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/nehcul_belaga/hutbeler/hutbe-2.html"},
+          "textUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/nehcul_belaga/mektuplar/mektup-53.html"
         }
       ]
     },
@@ -45,14 +46,14 @@
           "title": "Hikmet 1",
           "durationSeconds": 45,
           "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
-          "textUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/nehcul_belaga/hutbeler/hutbe-2.html"},
+          "textUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/nehcul_belaga/hikmetler/hikmet-1.html"
         },
         {
           "id": "hikmet_10",
           "title": "Hikmet 10",
           "durationSeconds": 30,
           "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3",
-          "textUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/nehcul_belaga/hutbeler/hutbe-2.html"},
+          "textUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/nehcul_belaga/hikmetler/hikmet-10.html"
         }
       ]
     }
