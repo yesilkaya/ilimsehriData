@@ -13,14 +13,13 @@
           "title": "1. Hutbe: Yerin ve Göğün Yaratılışı",
           "durationSeconds": 320,
           "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
-          "textContent": "<h1>1. Hutbe</h1><p><strong>Hamd Allah'a mahsustur ki,</strong> konuşanlar O'nu layıkıyla övemez, sayanlar nimetlerini sayıp bitiremez, çaba sarf edenler O'nun hakkını eda edemez.</p><br><p>Himmetlerin en yücesi O'nu idrak edemez, zekaların en derini O'na erişemez. O'nun sıfatlarının bir sınırı, mevcut bir niteliği, saylı bir zamanı ve uzatılmış bir süresi yoktur.</p><h2>Yaratılış Hakkında</h2><p>Mahlukatı kudretiyle yarattı, rüzgarları rahmetiyle estirdi ve sallanan yeryüzünü kayalarla pekiştirdi.</p><p>Dinin evveli O'nu tanımaktır. O'nu tanımanın kemali O'nu tasdik etmektir. O'nu tasdik etmenin kemali O'nu birlemektir (Tevhid).</p>"
-        },
+          "textUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/nehcul_belaga/hutbeler/hutbe-1.html"},
         {
           "id": "hutbe_3",
           "title": "3. Hutbe: Şıkşıkiye Hutbesi",
           "durationSeconds": 450,
           "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
-          "textContent": "<h1>Şıkşıkiye Hutbesi</h1><p>Andolsun Allah'a ki, falan kimse (hilafeti) bir gömlek gibi giyindi. Oysa benim hilafet için, değirmen taşının mili gibi olduğumu biliyordu.</p><p>Sel benden akar, hiçbir kuş benim uçtuğum yere uçamazdı. Ben de hilafetle arama bir perde çektim ve ondan yüz çevirdim.</p><br><p>Düşündüm; kesilmiş elimle hamle mi edeyim, yoksa bu kapkaranlık körlüğe sabır mı edeyim? Öyle bir körlük ki; yetişkinleri kocatır, çocuğu ihtiyarlatır, mümin ise Rabbine kavuşuncaya kadar onda zahmet çeker.</p>"
+          "textUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/nehcul_belaga/hutbeler/hutbe-2.html"},
         }
       ]
     },
