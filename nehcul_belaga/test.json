@@ -21,7 +21,18 @@
             "title": "2. Hutbe: Şıkşıkiye Hutbesi",
             "durationSeconds": 450,
             "audioUrl": "https://github.com/yesilkaya/ilimsehriData/raw/refs/heads/main/nehcul_belaga/hutbe_sesleri/02.HUTBE.mp3",
-            "textUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/nehcul_belaga/hutbeler/hutbe-2.html"
+          },
+          {
+            "id": "hutbe_3",
+            "audioUrl": "https://github.com/yesilkaya/ilimsehriData/raw/refs/heads/main/nehcul_belaga/hutbe_sesleri/02.HUTBE.mp3",
+          },
+          {
+            "id": "hutbe_4",
+            "audioUrl": "https://github.com/yesilkaya/ilimsehriData/raw/refs/heads/main/nehcul_belaga/hutbe_sesleri/02.HUTBE.mp3",
+          },
+          {
+            "id": "hutbe_5",
+            "audioUrl": "https://github.com/yesilkaya/ilimsehriData/raw/refs/heads/main/nehcul_belaga/hutbe_sesleri/02.HUTBE.mp3",
           }
         ]
       },
