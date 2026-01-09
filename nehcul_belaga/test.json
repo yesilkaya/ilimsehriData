@@ -9,11 +9,21 @@
         "id": "sec_hutbeler",
         "title": "Hutbeler",
         "chapters": [
-          {   "id": "hutbe_1"},
-          {   "id": "hutbe_2"},
-          {   "id": "hutbe_3"},
-          {   "id": "hutbe_4"},
-          {   "id": "hutbe_5"},
+          {   "id": "hutbe_1",
+              "textUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/nehcul_belaga/hutbeler/Hutbe.1.html"
+          },
+          {   "id": "hutbe_2",
+              "textUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/nehcul_belaga/hutbeler/Hutbe.2.html"
+          },
+          {   "id": "hutbe_3",
+              "textUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/nehcul_belaga/hutbeler/Hutbe.3.html"
+          },
+          {   "id": "hutbe_4",
+              "textUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/nehcul_belaga/hutbeler/Hutbe.4.html"
+          },
+          {   "id": "hutbe_5",
+              "textUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/nehcul_belaga/hutbeler/Hutbe.5.html"
+          },
           {   "id": "hutbe_6"},
           {   "id": "hutbe_7"},
           {   "id": "hutbe_8"},
