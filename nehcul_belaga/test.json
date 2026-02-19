@@ -296,26 +296,5 @@
         ]
       }
     ]
-  },
-  {
-    "id": "ss_full_002",
-    "title": "Sahife-i Seccadiye",
-    "author": "İmam Zeynelabidin (a.s)",
-    "coverUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/kitaplar/hzMehdiSorular.jpeg",
-    "sections": [
-      {
-        "id": "sec_dualar",
-        "title": "Dualar",
-        "chapters": [
-          {
-            "id": "dua_1",
-            "title": "1. Dua: Hamd ve Sena",
-            "durationSeconds": 240,
-            "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
-            "textUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/nehcul_belaga/hutbeler/hutbe-1.html"
-          }
-        ]
-      }
-    ]
   }
 ]
