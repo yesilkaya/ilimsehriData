@@ -1,17 +1,58 @@
 [
   {
-    "id": "online_1",
-    "baslik": "Esma-ül Hüsna",
+    "id": "ehlibeyt_zikir_1",
+    "baslik": "Salavat",
     "bolumler": [
-      {"ad": "Ya Allah", "hedefSayi": 100},
-      {"ad": "Ya Rahman", "hedefSayi": 100}
+      {"ad": "Allahümme salli ala Muhammedin ve Âl-i Muhammed", "hedefSayi": 100}
     ]
   },
   {
-    "id": "online_2",
-    "baslik": "Salavat-ı Şerife",
+    "id": "ehlibeyt_zikir_2",
+    "baslik": "Şükür”,
     "bolumler": [
-      {"ad": "Allahümme salli ala seyyidina Muhammed", "hedefSayi": 100}
+      {"ad": "El-hamdu lillahi rabb'il- alemine kesiren ala kulli hal", "hedefSayi": 360}
+    ]
+  },
+  {
+    "id": "ehlibeyt_zikir_3",
+    "baslik": "İstiğfar Zikri",
+    "bolumler": [
+      {"ad": "Esteğfirullah", "hedefSayi": 70}
+    ]
+  },
+  {
+    "id": "ehlibeyt_zikir_4",
+    "baslik": "Tevbe Zikri",
+    "bolumler": [
+      {"ad": "Etubu ilellah", "hedefSayi": 70}
+    ]
+  },
+  {
+    "id": "ehlibeyt_zikir_5",
+    "baslik": "Tesbih Zikri",
+    "bolumler": [
+      {"ad": "Subhanellah", "hedefSayi": 100}
+    ]
+  },
+  {
+    "id": "ehlibeyt_zikir_6",
+    "baslik": "Hamd Zikri",
+    "bolumler": [
+      {"ad": "El-hamdu lillah", "hedefSayi": 100}
+    ]
+  },
+  {
+    "id": "ehlibeyt_zikir_7",
+    "baslik": "Tevhid Zikri",
+    "bolumler": [
+      {"ad": "La ilahe illallah", "hedefSayi": 100}
+    ]
+  },
+  {
+    "id": "ehlibeyt_zikir_8",
+    "baslik": "Tekbir Zikri",
+    "bolumler": [
+      {"ad": "Allah-u ekber", "hedefSayi": 100}
     ]
   }
 ]
