@@ -137,9 +137,10 @@
       { "start": 44, "end": 58, "ready": true, "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/nisa-44-58.html" },
       { "start": 59, "end": 70, "ready": true, "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/nisa-59-70.html" },
       { "start": 71, "end": 76, "ready": true, "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/nisa-71-76.html" },
-      { "start": 77, "end": 80, "ready": true, "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/nisa-77-80.html" }
+      { "start": 77, "end": 80, "ready": true, "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/nisa-77-80.html" },
+      { "start": 77, "end": 80, "ready": true, "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/nisa-81-84.html" }
 
-      { "start": 77, "end": 176, "ready": false, "url": null }
+      { "start": 85, "end": 176, "ready": false, "url": null }
     ]
   }
 ]
