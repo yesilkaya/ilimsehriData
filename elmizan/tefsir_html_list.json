@@ -153,5 +153,21 @@
       { "start": 170, "end": 175, "ready": true, "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/Nisa-170-175.html" },
       { "start": 176, "end": 176, "ready": true, "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/Nisa-176.html" }
     ]
-  }
+  },
+  {
+  "surahId": 5,
+  "ranges": [
+    { "start": 1, "end": 3, "ready": true, "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/Maide-1-3.html" },
+    { "start": 4, "end": 5, "ready": true, "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/Maide-4-5.html" },
+    { "start": 6, "end": 7, "ready": true, "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/Maide-6-7.html" },
+    { "start": 8, "end": 14, "ready": true, "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/Maide-8-14.html" },
+    { "start": 15, "end": 19, "ready": true, "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/Maide-15-19.html" },
+    { "start": 20, "end": 26, "ready": true, "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/Maide-20-26.html" },
+    { "start": 27, "end": 32, "ready": true, "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/Maide-27-32.html" },
+    { "start": 33, "end": 40, "ready": true, "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/Maide-33-40.html" },
+    { "start": 41, "end": 50, "ready": true, "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/Maide-41-50.html" },
+    { "start": 51, "end": 54, "ready": true, "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/Maide-51-54.html" },
+    { "start": 55, "end": 120, "ready": false, "url": null }
+  ]
+}
 ]
