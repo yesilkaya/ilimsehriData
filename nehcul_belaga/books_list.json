@@ -822,7 +822,9 @@
     "basePath": "nehcul_belaga",
     "sections": [
       { "id": "sec_dualar", "title": "Dualar", "audioFolder": "sahife_sesleri", "textFolder": "sahife_turkce", "chapters": [
-        { "id": "01.DUA" },
+        { "id": "01.DUA",
+          "title": "Allah'a Hamd ve Sena İle İlgili Duası"
+        },
         { "id": "02.DUA" },
         { "id": "03.DUA" },
         { "id": "04.DUA" },
