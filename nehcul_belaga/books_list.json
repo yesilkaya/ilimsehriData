@@ -883,7 +883,7 @@
     "id": "dualar_001",
     "title": "Dualar",
     "author": "Çeşitli",
-    "coverUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/nehcul_belaga/nehcul-belaga.jpg",
+    "coverUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/nehcul_belaga/dualar.jpeg",
     "basePath": "nehcul_belaga",
     "sections": [
       { "id": "sec_dualar", "title": "Dualar", "audioFolder": "dua_sesleri", "chapters": [
@@ -936,8 +936,8 @@
         { "id": "47.İMAM HASAN ASKERİ-NİN ZİYARETİ" },
         { "id": "48.VARİS ZİYARETİ" },
         { "id": "49.ZİYARETLERDEN SONRA OKUNAN DUA" },
-        { "id": "50.KAZIMEYN İMAMLARI ZİYARETİ - İMAM MUSA KAZIM VE İMAM MUHAMMED TAKİ (DÜŞÜK KALİTE)" },
-        { "id": "51.SAMERRA İMAMLARININ ZİYARETİ - İMAM ALİ NAKİ VE İMAM HASAN ASKERİ (DÜŞÜK KALİTE)" },
+        { "id": "50.KAZIMEYN İMAMLARI ZİYARETİ" },
+        { "id": "51.SAMERRA İMAMLARININ ZİYARETİ" },
         { "id": "52.TÖVBE EDENLERİN MÜNACATI" },
         { "id": "53.KORKANLARIN MÜNACATI" },
         { "id": "54.ÜMİT EDENLERİN MÜNACATI" },
