@@ -9,2423 +9,818 @@
         "id": "sec_hutbeler",
         "title": "Hutbeler",
         "chapters": [
-          {
-            "id": "hutbe_1",
-            "textUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/nehcul_belaga/hutbeler/Hutbe.1.html"
-          },
-          {
-            "id": "hutbe_2",
-            "textUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/nehcul_belaga/hutbeler/Hutbe.2.html"
-          },
-          {
-            "id": "hutbe_3",
-            "textUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/nehcul_belaga/hutbeler/Hutbe.3.html"
-          },
-          {
-            "id": "hutbe_4",
-            "textUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/nehcul_belaga/hutbeler/Hutbe.4.html"
-          },
-          {
-            "id": "hutbe_5",
-            "textUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/nehcul_belaga/hutbeler/Hutbe.5.html"
-          },
-          {
-            "id": "hutbe_6"
-          },
-          {
-            "id": "hutbe_7"
-          },
-          {
-            "id": "hutbe_8"
-          },
-          {
-            "id": "hutbe_9"
-          },
-          {
-            "id": "hutbe_10"
-          },
-          {
-            "id": "hutbe_11"
-          },
-          {
-            "id": "hutbe_12"
-          },
-          {
-            "id": "hutbe_13"
-          },
-          {
-            "id": "hutbe_14"
-          },
-          {
-            "id": "hutbe_15"
-          },
-          {
-            "id": "hutbe_16"
-          },
-          {
-            "id": "hutbe_17"
-          },
-          {
-            "id": "hutbe_18"
-          },
-          {
-            "id": "hutbe_19"
-          },
-          {
-            "id": "hutbe_20"
-          },
-          {
-            "id": "hutbe_21"
-          },
-          {
-            "id": "hutbe_22"
-          },
-          {
-            "id": "hutbe_23"
-          },
-          {
-            "id": "hutbe_24"
-          },
-          {
-            "id": "hutbe_25"
-          },
-          {
-            "id": "hutbe_26"
-          },
-          {
-            "id": "hutbe_27"
-          },
-          {
-            "id": "hutbe_28"
-          },
-          {
-            "id": "hutbe_29"
-          },
-          {
-            "id": "hutbe_30"
-          },
-          {
-            "id": "hutbe_31"
-          },
-          {
-            "id": "hutbe_32"
-          },
-          {
-            "id": "hutbe_33"
-          },
-          {
-            "id": "hutbe_34"
-          },
-          {
-            "id": "hutbe_35"
-          },
-          {
-            "id": "hutbe_36"
-          },
-          {
-            "id": "hutbe_37"
-          },
-          {
-            "id": "hutbe_38"
-          },
-          {
-            "id": "hutbe_39"
-          },
-          {
-            "id": "hutbe_40"
-          },
-          {
-            "id": "hutbe_41"
-          },
-          {
-            "id": "hutbe_42"
-          },
-          {
-            "id": "hutbe_43"
-          },
-          {
-            "id": "hutbe_44"
-          },
-          {
-            "id": "hutbe_45"
-          },
-          {
-            "id": "hutbe_46"
-          },
-          {
-            "id": "hutbe_47"
-          },
-          {
-            "id": "hutbe_48"
-          },
-          {
-            "id": "hutbe_49"
-          },
-          {
-            "id": "hutbe_50"
-          },
-          {
-            "id": "hutbe_51"
-          },
-          {
-            "id": "hutbe_52"
-          },
-          {
-            "id": "hutbe_53"
-          },
-          {
-            "id": "hutbe_54"
-          },
-          {
-            "id": "hutbe_55"
-          },
-          {
-            "id": "hutbe_56"
-          },
-          {
-            "id": "hutbe_57"
-          },
-          {
-            "id": "hutbe_58"
-          },
-          {
-            "id": "hutbe_59"
-          },
-          {
-            "id": "hutbe_60"
-          },
-          {
-            "id": "hutbe_61"
-          },
-          {
-            "id": "hutbe_62"
-          },
-          {
-            "id": "hutbe_63"
-          },
-          {
-            "id": "hutbe_64"
-          },
-          {
-            "id": "hutbe_65"
-          },
-          {
-            "id": "hutbe_66"
-          },
-          {
-            "id": "hutbe_67"
-          },
-          {
-            "id": "hutbe_68"
-          },
-          {
-            "id": "hutbe_69"
-          },
-          {
-            "id": "hutbe_70"
-          },
-          {
-            "id": "hutbe_71"
-          },
-          {
-            "id": "hutbe_72"
-          },
-          {
-            "id": "hutbe_73"
-          },
-          {
-            "id": "hutbe_74"
-          },
-          {
-            "id": "hutbe_75"
-          },
-          {
-            "id": "hutbe_76"
-          },
-          {
-            "id": "hutbe_77"
-          },
-          {
-            "id": "hutbe_78"
-          },
-          {
-            "id": "hutbe_79"
-          },
-          {
-            "id": "hutbe_80"
-          },
-          {
-            "id": "hutbe_81"
-          },
-          {
-            "id": "hutbe_82"
-          },
-          {
-            "id": "hutbe_83"
-          },
-          {
-            "id": "hutbe_84"
-          },
-          {
-            "id": "hutbe_85"
-          },
-          {
-            "id": "hutbe_86"
-          },
-          {
-            "id": "hutbe_87"
-          },
-          {
-            "id": "hutbe_88"
-          },
-          {
-            "id": "hutbe_89"
-          },
-          {
-            "id": "hutbe_90"
-          },
-          {
-            "id": "hutbe_91"
-          },
-          {
-            "id": "hutbe_92"
-          },
-          {
-            "id": "hutbe_93"
-          },
-          {
-            "id": "hutbe_94"
-          },
-          {
-            "id": "hutbe_95"
-          },
-          {
-            "id": "hutbe_96"
-          },
-          {
-            "id": "hutbe_97"
-          },
-          {
-            "id": "hutbe_98"
-          },
-          {
-            "id": "hutbe_99"
-          },
-          {
-            "id": "hutbe_100"
-          },
-          {
-            "id": "hutbe_101"
-          },
-          {
-            "id": "hutbe_102"
-          },
-          {
-            "id": "hutbe_103"
-          },
-          {
-            "id": "hutbe_104"
-          },
-          {
-            "id": "hutbe_105"
-          },
-          {
-            "id": "hutbe_106"
-          },
-          {
-            "id": "hutbe_107"
-          },
-          {
-            "id": "hutbe_108"
-          },
-          {
-            "id": "hutbe_109"
-          },
-          {
-            "id": "hutbe_110"
-          },
-          {
-            "id": "hutbe_111"
-          },
-          {
-            "id": "hutbe_112"
-          },
-          {
-            "id": "hutbe_113"
-          },
-          {
-            "id": "hutbe_114"
-          },
-          {
-            "id": "hutbe_115"
-          },
-          {
-            "id": "hutbe_116"
-          },
-          {
-            "id": "hutbe_117"
-          },
-          {
-            "id": "hutbe_118"
-          },
-          {
-            "id": "hutbe_119"
-          },
-          {
-            "id": "hutbe_120"
-          },
-          {
-            "id": "hutbe_121"
-          },
-          {
-            "id": "hutbe_122"
-          },
-          {
-            "id": "hutbe_123"
-          },
-          {
-            "id": "hutbe_124"
-          },
-          {
-            "id": "hutbe_125"
-          },
-          {
-            "id": "hutbe_126"
-          },
-          {
-            "id": "hutbe_127"
-          },
-          {
-            "id": "hutbe_128"
-          },
-          {
-            "id": "hutbe_129"
-          },
-          {
-            "id": "hutbe_130"
-          },
-          {
-            "id": "hutbe_131"
-          },
-          {
-            "id": "hutbe_132"
-          },
-          {
-            "id": "hutbe_133"
-          },
-          {
-            "id": "hutbe_134"
-          },
-          {
-            "id": "hutbe_135"
-          },
-          {
-            "id": "hutbe_136"
-          },
-          {
-            "id": "hutbe_137"
-          },
-          {
-            "id": "hutbe_138"
-          },
-          {
-            "id": "hutbe_139"
-          },
-          {
-            "id": "hutbe_140"
-          },
-          {
-            "id": "hutbe_141"
-          },
-          {
-            "id": "hutbe_142"
-          },
-          {
-            "id": "hutbe_143"
-          },
-          {
-            "id": "hutbe_144"
-          },
-          {
-            "id": "hutbe_145"
-          },
-          {
-            "id": "hutbe_146"
-          },
-          {
-            "id": "hutbe_147"
-          },
-          {
-            "id": "hutbe_148"
-          },
-          {
-            "id": "hutbe_149"
-          },
-          {
-            "id": "hutbe_150"
-          },
-          {
-            "id": "hutbe_151"
-          },
-          {
-            "id": "hutbe_152"
-          },
-          {
-            "id": "hutbe_153"
-          },
-          {
-            "id": "hutbe_154"
-          },
-          {
-            "id": "hutbe_155"
-          },
-          {
-            "id": "hutbe_156"
-          },
-          {
-            "id": "hutbe_157"
-          },
-          {
-            "id": "hutbe_158"
-          },
-          {
-            "id": "hutbe_159"
-          },
-          {
-            "id": "hutbe_160"
-          },
-          {
-            "id": "hutbe_161"
-          },
-          {
-            "id": "hutbe_162"
-          },
-          {
-            "id": "hutbe_163"
-          },
-          {
-            "id": "hutbe_164"
-          },
-          {
-            "id": "hutbe_165"
-          },
-          {
-            "id": "hutbe_166"
-          },
-          {
-            "id": "hutbe_167"
-          },
-          {
-            "id": "hutbe_168"
-          },
-          {
-            "id": "hutbe_169"
-          },
-          {
-            "id": "hutbe_170"
-          },
-          {
-            "id": "hutbe_171"
-          },
-          {
-            "id": "hutbe_172"
-          },
-          {
-            "id": "hutbe_173"
-          },
-          {
-            "id": "hutbe_174"
-          },
-          {
-            "id": "hutbe_175"
-          },
-          {
-            "id": "hutbe_176"
-          },
-          {
-            "id": "hutbe_177"
-          },
-          {
-            "id": "hutbe_178"
-          },
-          {
-            "id": "hutbe_179"
-          },
-          {
-            "id": "hutbe_180"
-          },
-          {
-            "id": "hutbe_181"
-          },
-          {
-            "id": "hutbe_182"
-          },
-          {
-            "id": "hutbe_183"
-          },
-          {
-            "id": "hutbe_184"
-          },
-          {
-            "id": "hutbe_185"
-          },
-          {
-            "id": "hutbe_186"
-          },
-          {
-            "id": "hutbe_187"
-          },
-          {
-            "id": "hutbe_188"
-          },
-          {
-            "id": "hutbe_189"
-          },
-          {
-            "id": "hutbe_190"
-          },
-          {
-            "id": "hutbe_191"
-          },
-          {
-            "id": "hutbe_192"
-          },
-          {
-            "id": "hutbe_193"
-          },
-          {
-            "id": "hutbe_194"
-          },
-          {
-            "id": "hutbe_195"
-          },
-          {
-            "id": "hutbe_196"
-          },
-          {
-            "id": "hutbe_197"
-          },
-          {
-            "id": "hutbe_198"
-          },
-          {
-            "id": "hutbe_199"
-          },
-          {
-            "id": "hutbe_200"
-          },
-          {
-            "id": "hutbe_201"
-          },
-          {
-            "id": "hutbe_202"
-          },
-          {
-            "id": "hutbe_203"
-          },
-          {
-            "id": "hutbe_204"
-          },
-          {
-            "id": "hutbe_205"
-          },
-          {
-            "id": "hutbe_206"
-          },
-          {
-            "id": "hutbe_207"
-          },
-          {
-            "id": "hutbe_208"
-          },
-          {
-            "id": "hutbe_209"
-          },
-          {
-            "id": "hutbe_210"
-          },
-          {
-            "id": "hutbe_211"
-          },
-          {
-            "id": "hutbe_212"
-          },
-          {
-            "id": "hutbe_213"
-          },
-          {
-            "id": "hutbe_214"
-          },
-          {
-            "id": "hutbe_215"
-          },
-          {
-            "id": "hutbe_216"
-          },
-          {
-            "id": "hutbe_217"
-          },
-          {
-            "id": "hutbe_218"
-          },
-          {
-            "id": "hutbe_219"
-          },
-          {
-            "id": "hutbe_220"
-          },
-          {
-            "id": "hutbe_221"
-          },
-          {
-            "id": "hutbe_222"
-          },
-          {
-            "id": "hutbe_223"
-          },
-          {
-            "id": "hutbe_224"
-          },
-          {
-            "id": "hutbe_225"
-          },
-          {
-            "id": "hutbe_226"
-          },
-          {
-            "id": "hutbe_227"
-          },
-          {
-            "id": "hutbe_228"
-          },
-          {
-            "id": "hutbe_229"
-          },
-          {
-            "id": "hutbe_230"
-          },
-          {
-            "id": "hutbe_231"
-          },
-          {
-            "id": "hutbe_232"
-          },
-          {
-            "id": "hutbe_233"
-          },
-          {
-            "id": "hutbe_234"
-          },
-          {
-            "id": "hutbe_235"
-          },
-          {
-            "id": "hutbe_236"
-          },
-          {
-            "id": "hutbe_237"
-          },
-          {
-            "id": "hutbe_238"
-          },
-          {
-            "id": "hutbe_239"
-          },
-          {
-            "id": "hutbe_240"
-          },
-          {
-            "id": "hutbe_241"
-          }
+     { "id": "01.HUTBE" },
+        { "id": "02.HUTBE" },
+        { "id": "03.HUTBE" },
+        { "id": "04.HUTBE" },
+        { "id": "05.HUTBE" },
+        { "id": "06.HUTBE" },
+        { "id": "07.HUTBE" },
+        { "id": "08.HUTBE" },
+        { "id": "09.HUTBE" },
+        { "id": "10.HUTBE" },
+        { "id": "11.HUTBE" },
+        { "id": "12.HUTBE" },
+        { "id": "13.HUTBE" },
+        { "id": "14.HUTBE" },
+        { "id": "15.HUTBE" },
+        { "id": "16.HUTBE" },
+        { "id": "17.HUTBE" },
+        { "id": "18.HUTBE" },
+        { "id": "19.HUTBE" },
+        { "id": "20.HUTBE" },
+        { "id": "21.HUTBE" },
+        { "id": "22.HUTBE" },
+        { "id": "23.HUTBE" },
+        { "id": "24.HUTBE" },
+        { "id": "25.HUTBE" },
+        { "id": "26.HUTBE" },
+        { "id": "27.HUTBE" },
+        { "id": "28.HUTBE" },
+        { "id": "29.HUTBE" },
+        { "id": "30.HUTBE" },
+        { "id": "31.HUTBE" },
+        { "id": "32.HUTBE" },
+        { "id": "33.HUTBE" },
+        { "id": "34.HUTBE" },
+        { "id": "35.HUTBE" },
+        { "id": "36.HUTBE" },
+        { "id": "37.HUTBE" },
+        { "id": "38.HUTBE" },
+        { "id": "39.HUTBE" },
+        { "id": "40.HUTBE" },
+        { "id": "41.HUTBE" },
+        { "id": "42.HUTBE" },
+        { "id": "43.HUTBE" },
+        { "id": "44.HUTBE" },
+        { "id": "45.HUTBE" },
+        { "id": "46.HUTBE" },
+        { "id": "47.HUTBE" },
+        { "id": "48.HUTBE" },
+        { "id": "49.HUTBE" },
+        { "id": "50.HUTBE" },
+        { "id": "51.HUTBE" },
+        { "id": "52.HUTBE" },
+        { "id": "53.HUTBE" },
+        { "id": "54.HUTBE" },
+        { "id": "55.HUTBE" },
+        { "id": "56.HUTBE" },
+        { "id": "57.HUTBE" },
+        { "id": "58.HUTBE" },
+        { "id": "59.HUTBE" },
+        { "id": "60.HUTBE" },
+        { "id": "61.HUTBE" },
+        { "id": "62.HUTBE" },
+        { "id": "63.HUTBE" },
+        { "id": "64.HUTBE" },
+        { "id": "65.HUTBE" },
+        { "id": "66.HUTBE" },
+        { "id": "67.HUTBE" },
+        { "id": "68.HUTBE" },
+        { "id": "69.HUTBE" },
+        { "id": "70.HUTBE" },
+        { "id": "71.HUTBE" },
+        { "id": "72.HUTBE" },
+        { "id": "73.HUTBE" },
+        { "id": "74.HUTBE" },
+        { "id": "75.HUTBE" },
+        { "id": "76.HUTBE" },
+        { "id": "77.HUTBE" },
+        { "id": "78.HUTBE" },
+        { "id": "79.HUTBE" },
+        { "id": "80.HUTBE" },
+        { "id": "81.HUTBE" },
+        { "id": "82.HUTBE" },
+        { "id": "83.HUTBE" },
+        { "id": "84.HUTBE" },
+        { "id": "85.HUTBE" },
+        { "id": "86.HUTBE" },
+        { "id": "87.HUTBE" },
+        { "id": "88.HUTBE" },
+        { "id": "89.HUTBE" },
+        { "id": "90.HUTBE" },
+        { "id": "91.HUTBE" },
+        { "id": "92.HUTBE" },
+        { "id": "93.HUTBE" },
+        { "id": "94.HUTBE" },
+        { "id": "95.HUTBE" },
+        { "id": "96.HUTBE" },
+        { "id": "97.HUTBE" },
+        { "id": "98.HUTBE" },
+        { "id": "99.HUTBE" },
+        { "id": "100.HUTBE" },
+        { "id": "101.HUTBE" },
+        { "id": "102.HUTBE" },
+        { "id": "103.HUTBE" },
+        { "id": "104.HUTBE" },
+        { "id": "105.HUTBE" },
+        { "id": "106.HUTBE" },
+        { "id": "107.HUTBE" },
+        { "id": "108.HUTBE" },
+        { "id": "109.HUTBE" },
+        { "id": "110.HUTBE" },
+        { "id": "111.HUTBE" },
+        { "id": "112.HUTBE" },
+        { "id": "113.HUTBE" },
+        { "id": "114.HUTBE" },
+        { "id": "115.HUTBE" },
+        { "id": "116.HUTBE" },
+        { "id": "117.HUTBE" },
+        { "id": "118.HUTBE" },
+        { "id": "119.HUTBE" },
+        { "id": "120.HUTBE" },
+        { "id": "121.HUTBE" },
+        { "id": "122.HUTBE" },
+        { "id": "123.HUTBE" },
+        { "id": "124.HUTBE" },
+        { "id": "125.HUTBE" },
+        { "id": "126.HUTBE" },
+        { "id": "127.HUTBE" },
+        { "id": "128.HUTBE" },
+        { "id": "129.HUTBE" },
+        { "id": "130.HUTBE" },
+        { "id": "131.HUTBE" },
+        { "id": "132.HUTBE" },
+        { "id": "133.HUTBE" },
+        { "id": "134.HUTBE" },
+        { "id": "135.HUTBE" },
+        { "id": "136.HUTBE" },
+        { "id": "137.HUTBE" },
+        { "id": "138.HUTBE" },
+        { "id": "139.HUTBE" },
+        { "id": "140.HUTBE" },
+        { "id": "141.HUTBE" },
+        { "id": "142.HUTBE" },
+        { "id": "143.HUTBE" },
+        { "id": "144.HUTBE" },
+        { "id": "145.HUTBE" },
+        { "id": "146.HUTBE" },
+        { "id": "147.HUTBE" },
+        { "id": "148.HUTBE" },
+        { "id": "149.HUTBE" },
+        { "id": "150.HUTBE" },
+        { "id": "151.HUTBE" },
+        { "id": "152.HUTBE" },
+        { "id": "153.HUTBE" },
+        { "id": "154.HUTBE" },
+        { "id": "155.HUTBE" },
+        { "id": "156.HUTBE" },
+        { "id": "157.HUTBE" },
+        { "id": "158.HUTBE" },
+        { "id": "159.HUTBE" },
+        { "id": "160.HUTBE" },
+        { "id": "161.HUTBE" },
+        { "id": "162.HUTBE" },
+        { "id": "163.HUTBE" },
+        { "id": "164.HUTBE" },
+        { "id": "165.HUTBE" },
+        { "id": "166.HUTBE" },
+        { "id": "167.HUTBE" },
+        { "id": "168.HUTBE" },
+        { "id": "169.HUTBE" },
+        { "id": "170.HUTBE" },
+        { "id": "171.HUTBE" },
+        { "id": "172.HUTBE" },
+        { "id": "173.HUTBE" },
+        { "id": "174.HUTBE" },
+        { "id": "175.HUTBE" },
+        { "id": "176.HUTBE" },
+        { "id": "177.HUTBE" },
+        { "id": "178.HUTBE" },
+        { "id": "179.HUTBE" },
+        { "id": "180.HUTBE" },
+        { "id": "181.HUTBE" },
+        { "id": "182.HUTBE" },
+        { "id": "183.HUTBE" },
+        { "id": "184.HUTBE" },
+        { "id": "185.HUTBE" },
+        { "id": "186.HUTBE" },
+        { "id": "187.HUTBE" },
+        { "id": "188.HUTBE" },
+        { "id": "189.HUTBE" },
+        { "id": "190.HUTBE" },
+        { "id": "191.HUTBE" },
+        { "id": "192.HUTBE" },
+        { "id": "193.HUTBE" },
+        { "id": "194.HUTBE" },
+        { "id": "195.HUTBE" },
+        { "id": "196.HUTBE" },
+        { "id": "197.HUTBE" },
+        { "id": "198.HUTBE" },
+        { "id": "199.HUTBE" },
+        { "id": "200.HUTBE" },
+        { "id": "201.HUTBE" },
+        { "id": "202.HUTBE" },
+        { "id": "203.HUTBE" },
+        { "id": "204.HUTBE" },
+        { "id": "205.HUTBE" },
+        { "id": "206.HUTBE" },
+        { "id": "207.HUTBE" },
+        { "id": "208.HUTBE" },
+        { "id": "209.HUTBE" },
+        { "id": "210.HUTBE" },
+        { "id": "211.HUTBE" },
+        { "id": "212.HUTBE" },
+        { "id": "213.HUTBE" },
+        { "id": "214.HUTBE" },
+        { "id": "215.HUTBE" },
+        { "id": "216.HUTBE" },
+        { "id": "217.HUTBE" },
+        { "id": "218.HUTBE" },
+        { "id": "219.HUTBE" },
+        { "id": "220.HUTBE" },
+        { "id": "221.HUTBE" },
+        { "id": "222.HUTBE" },
+        { "id": "223.HUTBE" },
+        { "id": "224.HUTBE" },
+        { "id": "225.HUTBE" },
+        { "id": "226.HUTBE" },
+        { "id": "227.HUTBE" },
+        { "id": "228.HUTBE" },
+        { "id": "229.HUTBE" },
+        { "id": "230.HUTBE" },
+        { "id": "231.HUTBE" },
+        { "id": "232.HUTBE" },
+        { "id": "233.HUTBE" },
+        { "id": "234.HUTBE" },
+        { "id": "235.HUTBE" },
+        { "id": "236.HUTBE" },
+        { "id": "237.HUTBE" },
+        { "id": "238.HUTBE" },
+        { "id": "239.HUTBE" },
+        { "id": "240.HUTBE" },
+        { "id": "241.HUTBE" }
         ]
       },
       {
         "id": "sec_mektuplar",
         "title": "Mektuplar",
         "chapters": [
-          {
-            "id": "01.MEKTUP"
-          },
-          {
-            "id": "02.MEKTUP"
-          },
-          {
-            "id": "03.MEKTUP"
-          },
-          {
-            "id": "04.MEKTUP"
-          },
-          {
-            "id": "05.MEKTUP"
-          },
-          {
-            "id": "06.MEKTUP"
-          },
-          {
-            "id": "07.MEKTUP"
-          },
-          {
-            "id": "08.MEKTUP"
-          },
-          {
-            "id": "09.MEKTUP"
-          },
-          {
-            "id": "10.MEKTUP"
-          },
-          {
-            "id": "11.MEKTUP"
-          },
-          {
-            "id": "12.MEKTUP"
-          },
-          {
-            "id": "13.MEKTUP"
-          },
-          {
-            "id": "14.MEKTUP"
-          },
-          {
-            "id": "15.MEKTUP"
-          },
-          {
-            "id": "16.MEKTUP"
-          },
-          {
-            "id": "17.MEKTUP"
-          },
-          {
-            "id": "18.MEKTUP"
-          },
-          {
-            "id": "19.MEKTUP"
-          },
-          {
-            "id": "20.MEKTUP"
-          },
-          {
-            "id": "21.MEKTUP"
-          },
-          {
-            "id": "22.MEKTUP"
-          },
-          {
-            "id": "23.MEKTUP"
-          },
-          {
-            "id": "24.MEKTUP"
-          },
-          {
-            "id": "25.MEKTUP"
-          },
-          {
-            "id": "26.MEKTUP"
-          },
-          {
-            "id": "27.MEKTUP"
-          },
-          {
-            "id": "28.MEKTUP"
-          },
-          {
-            "id": "29.MEKTUP"
-          },
-          {
-            "id": "30.MEKTUP"
-          },
-          {
-            "id": "31.MEKTUP"
-          },
-          {
-            "id": "32.MEKTUP"
-          },
-          {
-            "id": "33.MEKTUP"
-          },
-          {
-            "id": "34.MEKTUP"
-          },
-          {
-            "id": "35.MEKTUP"
-          },
-          {
-            "id": "36.MEKTUP"
-          },
-          {
-            "id": "37.MEKTUP"
-          },
-          {
-            "id": "38.MEKTUP"
-          },
-          {
-            "id": "39.MEKTUP"
-          },
-          {
-            "id": "40.MEKTUP"
-          },
-          {
-            "id": "41.MEKTUP"
-          },
-          {
-            "id": "42.MEKTUP"
-          },
-          {
-            "id": "43.MEKTUP"
-          },
-          {
-            "id": "44.MEKTUP"
-          },
-          {
-            "id": "45.MEKTUP"
-          },
-          {
-            "id": "46.MEKTUP"
-          },
-          {
-            "id": "47.MEKTUP"
-          },
-          {
-            "id": "48.MEKTUP"
-          },
-          {
-            "id": "49.MEKTUP"
-          },
-          {
-            "id": "50.MEKTUP"
-          },
-          {
-            "id": "51.MEKTUP"
-          },
-          {
-            "id": "52.MEKTUP"
-          },
-          {
-            "id": "53.MEKTUP"
-          },
-          {
-            "id": "54.MEKTUP"
-          },
-          {
-            "id": "55.MEKTUP"
-          },
-          {
-            "id": "56.MEKTUP"
-          },
-          {
-            "id": "57.MEKTUP"
-          },
-          {
-            "id": "58.MEKTUP"
-          },
-          {
-            "id": "59.MEKTUP"
-          },
-          {
-            "id": "60.MEKTUP"
-          },
-          {
-            "id": "61.MEKTUP"
-          },
-          {
-            "id": "62.MEKTUP"
-          },
-          {
-            "id": "63.MEKTUP"
-          },
-          {
-            "id": "64.MEKTUP"
-          },
-          {
-            "id": "65.MEKTUP"
-          },
-          {
-            "id": "66.MEKTUP"
-          },
-          {
-            "id": "67.MEKTUP"
-          },
-          {
-            "id": "68.MEKTUP"
-          },
-          {
-            "id": "69.MEKTUP"
-          },
-          {
-            "id": "70.MEKTUP"
-          },
-          {
-            "id": "71.MEKTUP"
-          },
-          {
-            "id": "72.MEKTUP"
-          },
-          {
-            "id": "73.MEKTUP"
-          },
-          {
-            "id": "74.MEKTUP"
-          },
-          {
-            "id": "75.MEKTUP"
-          },
-          {
-            "id": "76.MEKTUP"
-          },
-          {
-            "id": "77.MEKTUP"
-          },
-          {
-            "id": "78.MEKTUP"
-          },
-          {
-            "id": "79.MEKTUP"
-          }
+        { "id": "01.MEKTUP" },
+        { "id": "02.MEKTUP" },
+        { "id": "03.MEKTUP" },
+        { "id": "04.MEKTUP" },
+        { "id": "05.MEKTUP" },
+        { "id": "06.MEKTUP" },
+        { "id": "07.MEKTUP" },
+        { "id": "08.MEKTUP" },
+        { "id": "09.MEKTUP" },
+        { "id": "10.MEKTUP" },
+        { "id": "11.MEKTUP" },
+        { "id": "12.MEKTUP" },
+        { "id": "13.MEKTUP" },
+        { "id": "14.MEKTUP" },
+        { "id": "15.MEKTUP" },
+        { "id": "16.MEKTUP" },
+        { "id": "17.MEKTUP" },
+        { "id": "18.MEKTUP" },
+        { "id": "19.MEKTUP" },
+        { "id": "20.MEKTUP" },
+        { "id": "21.MEKTUP" },
+        { "id": "22.MEKTUP" },
+        { "id": "23.MEKTUP" },
+        { "id": "24.MEKTUP" },
+        { "id": "25.MEKTUP" },
+        { "id": "26.MEKTUP" },
+        { "id": "27.MEKTUP" },
+        { "id": "28.MEKTUP" },
+        { "id": "29.MEKTUP" },
+        { "id": "30.MEKTUP" },
+        { "id": "31.MEKTUP" },
+        { "id": "32.MEKTUP" },
+        { "id": "33.MEKTUP" },
+        { "id": "34.MEKTUP" },
+        { "id": "35.MEKTUP" },
+        { "id": "36.MEKTUP" },
+        { "id": "37.MEKTUP" },
+        { "id": "38.MEKTUP" },
+        { "id": "39.MEKTUP" },
+        { "id": "40.MEKTUP" },
+        { "id": "41.MEKTUP" },
+        { "id": "42.MEKTUP" },
+        { "id": "43.MEKTUP" },
+        { "id": "44.MEKTUP" },
+        { "id": "45.MEKTUP" },
+        { "id": "46.MEKTUP" },
+        { "id": "47.MEKTUP" },
+        { "id": "48.MEKTUP" },
+        { "id": "49.MEKTUP" },
+        { "id": "50.MEKTUP" },
+        { "id": "51.MEKTUP" },
+        { "id": "52.MEKTUP" },
+        { "id": "53.MEKTUP" },
+        { "id": "54.MEKTUP" },
+        { "id": "55.MEKTUP" },
+        { "id": "56.MEKTUP" },
+        { "id": "57.MEKTUP" },
+        { "id": "58.MEKTUP" },
+        { "id": "59.MEKTUP" },
+        { "id": "60.MEKTUP" },
+        { "id": "61.MEKTUP" },
+        { "id": "62.MEKTUP" },
+        { "id": "63.MEKTUP" },
+        { "id": "64.MEKTUP" },
+        { "id": "65.MEKTUP" },
+        { "id": "66.MEKTUP" },
+        { "id": "67.MEKTUP" },
+        { "id": "68.MEKTUP" },
+        { "id": "69.MEKTUP" },
+        { "id": "70.MEKTUP" },
+        { "id": "71.MEKTUP" },
+        { "id": "72.MEKTUP" },
+        { "id": "73.MEKTUP" },
+        { "id": "74.MEKTUP" },
+        { "id": "75.MEKTUP" },
+        { "id": "76.MEKTUP" },
+        { "id": "77.MEKTUP" },
+        { "id": "78.MEKTUP" },
+        { "id": "79.MEKTUP" }
         ]
       },
       {
         "id": "sec_hikmetler",
         "title": "Hikmetli Sözler",
         "chapters": [
-          {
-            "id": "SÖZ 001"
-          },
-          {
-            "id": "SÖZ 002"
-          },
-          {
-            "id": "SÖZ 003"
-          },
-          {
-            "id": "SÖZ 004"
-          },
-          {
-            "id": "SÖZ 005"
-          },
-          {
-            "id": "SÖZ 006"
-          },
-          {
-            "id": "SÖZ 007"
-          },
-          {
-            "id": "SÖZ 008"
-          },
-          {
-            "id": "SÖZ 009"
-          },
-          {
-            "id": "SÖZ 010"
-          },
-          {
-            "id": "SÖZ 011"
-          },
-          {
-            "id": "SÖZ 012"
-          },
-          {
-            "id": "SÖZ 013"
-          },
-          {
-            "id": "SÖZ 014"
-          },
-          {
-            "id": "SÖZ 015"
-          },
-          {
-            "id": "SÖZ 016"
-          },
-          {
-            "id": "SÖZ 017"
-          },
-          {
-            "id": "SÖZ 018"
-          },
-          {
-            "id": "SÖZ 019"
-          },
-          {
-            "id": "SÖZ 020"
-          },
-          {
-            "id": "SÖZ 021"
-          },
-          {
-            "id": "SÖZ 022"
-          },
-          {
-            "id": "SÖZ 023"
-          },
-          {
-            "id": "SÖZ 024"
-          },
-          {
-            "id": "SÖZ 025"
-          },
-          {
-            "id": "SÖZ 026"
-          },
-          {
-            "id": "SÖZ 027"
-          },
-          {
-            "id": "SÖZ 028"
-          },
-          {
-            "id": "SÖZ 029"
-          },
-          {
-            "id": "SÖZ 030"
-          },
-          {
-            "id": "SÖZ 031"
-          },
-          {
-            "id": "SÖZ 032"
-          },
-          {
-            "id": "SÖZ 033"
-          },
-          {
-            "id": "SÖZ 034"
-          },
-          {
-            "id": "SÖZ 035"
-          },
-          {
-            "id": "SÖZ 036"
-          },
-          {
-            "id": "SÖZ 037"
-          },
-          {
-            "id": "SÖZ 038"
-          },
-          {
-            "id": "SÖZ 039"
-          },
-          {
-            "id": "SÖZ 040"
-          },
-          {
-            "id": "SÖZ 041"
-          },
-          {
-            "id": "SÖZ 042"
-          },
-          {
-            "id": "SÖZ 043"
-          },
-          {
-            "id": "SÖZ 044"
-          },
-          {
-            "id": "SÖZ 045"
-          },
-          {
-            "id": "SÖZ 046"
-          },
-          {
-            "id": "SÖZ 047"
-          },
-          {
-            "id": "SÖZ 048"
-          },
-          {
-            "id": "SÖZ 049"
-          },
-          {
-            "id": "SÖZ 050"
-          },
-          {
-            "id": "SÖZ 051"
-          },
-          {
-            "id": "SÖZ 052"
-          },
-          {
-            "id": "SÖZ 053"
-          },
-          {
-            "id": "SÖZ 054"
-          },
-          {
-            "id": "SÖZ 055"
-          },
-          {
-            "id": "SÖZ 056"
-          },
-          {
-            "id": "SÖZ 057"
-          },
-          {
-            "id": "SÖZ 058"
-          },
-          {
-            "id": "SÖZ 059"
-          },
-          {
-            "id": "SÖZ 060"
-          },
-          {
-            "id": "SÖZ 061"
-          },
-          {
-            "id": "SÖZ 062"
-          },
-          {
-            "id": "SÖZ 063"
-          },
-          {
-            "id": "SÖZ 064"
-          },
-          {
-            "id": "SÖZ 065"
-          },
-          {
-            "id": "SÖZ 066"
-          },
-          {
-            "id": "SÖZ 067"
-          },
-          {
-            "id": "SÖZ 068"
-          },
-          {
-            "id": "SÖZ 069"
-          },
-          {
-            "id": "SÖZ 070"
-          },
-          {
-            "id": "SÖZ 071"
-          },
-          {
-            "id": "SÖZ 072"
-          },
-          {
-            "id": "SÖZ 073"
-          },
-          {
-            "id": "SÖZ 074"
-          },
-          {
-            "id": "SÖZ 075"
-          },
-          {
-            "id": "SÖZ 076"
-          },
-          {
-            "id": "SÖZ 077"
-          },
-          {
-            "id": "SÖZ 078"
-          },
-          {
-            "id": "SÖZ 079"
-          },
-          {
-            "id": "SÖZ 080"
-          },
-          {
-            "id": "SÖZ 081"
-          },
-          {
-            "id": "SÖZ 082"
-          },
-          {
-            "id": "SÖZ 083"
-          },
-          {
-            "id": "SÖZ 084"
-          },
-          {
-            "id": "SÖZ 085"
-          },
-          {
-            "id": "SÖZ 086"
-          },
-          {
-            "id": "SÖZ 087"
-          },
-          {
-            "id": "SÖZ 088"
-          },
-          {
-            "id": "SÖZ 089"
-          },
-          {
-            "id": "SÖZ 090"
-          },
-          {
-            "id": "SÖZ 091"
-          },
-          {
-            "id": "SÖZ 092"
-          },
-          {
-            "id": "SÖZ 093"
-          },
-          {
-            "id": "SÖZ 094"
-          },
-          {
-            "id": "SÖZ 095"
-          },
-          {
-            "id": "SÖZ 096"
-          },
-          {
-            "id": "SÖZ 097"
-          },
-          {
-            "id": "SÖZ 098"
-          },
-          {
-            "id": "SÖZ 099"
-          },
-          {
-            "id": "SÖZ 100"
-          },
-          {
-            "id": "SÖZ 101"
-          },
-          {
-            "id": "SÖZ 102"
-          },
-          {
-            "id": "SÖZ 103"
-          },
-          {
-            "id": "SÖZ 104"
-          },
-          {
-            "id": "SÖZ 105"
-          },
-          {
-            "id": "SÖZ 106"
-          },
-          {
-            "id": "SÖZ 107"
-          },
-          {
-            "id": "SÖZ 108"
-          },
-          {
-            "id": "SÖZ 109"
-          },
-          {
-            "id": "SÖZ 110"
-          },
-          {
-            "id": "SÖZ 111"
-          },
-          {
-            "id": "SÖZ 112"
-          },
-          {
-            "id": "SÖZ 113"
-          },
-          {
-            "id": "SÖZ 114"
-          },
-          {
-            "id": "SÖZ 115"
-          },
-          {
-            "id": "SÖZ 116"
-          },
-          {
-            "id": "SÖZ 117"
-          },
-          {
-            "id": "SÖZ 118"
-          },
-          {
-            "id": "SÖZ 119"
-          },
-          {
-            "id": "SÖZ 120"
-          },
-          {
-            "id": "SÖZ 121"
-          },
-          {
-            "id": "SÖZ 122"
-          },
-          {
-            "id": "SÖZ 123"
-          },
-          {
-            "id": "SÖZ 124"
-          },
-          {
-            "id": "SÖZ 125"
-          },
-          {
-            "id": "SÖZ 126"
-          },
-          {
-            "id": "SÖZ 127"
-          },
-          {
-            "id": "SÖZ 128"
-          },
-          {
-            "id": "SÖZ 129"
-          },
-          {
-            "id": "SÖZ 130"
-          },
-          {
-            "id": "SÖZ 131"
-          },
-          {
-            "id": "SÖZ 132"
-          },
-          {
-            "id": "SÖZ 133"
-          },
-          {
-            "id": "SÖZ 134"
-          },
-          {
-            "id": "SÖZ 135"
-          },
-          {
-            "id": "SÖZ 136"
-          },
-          {
-            "id": "SÖZ 137"
-          },
-          {
-            "id": "SÖZ 138"
-          },
-          {
-            "id": "SÖZ 139"
-          },
-          {
-            "id": "SÖZ 140"
-          },
-          {
-            "id": "SÖZ 141"
-          },
-          {
-            "id": "SÖZ 142"
-          },
-          {
-            "id": "SÖZ 143"
-          },
-          {
-            "id": "SÖZ 144"
-          },
-          {
-            "id": "SÖZ 145"
-          },
-          {
-            "id": "SÖZ 146"
-          },
-          {
-            "id": "SÖZ 147"
-          },
-          {
-            "id": "SÖZ 148"
-          },
-          {
-            "id": "SÖZ 149"
-          },
-          {
-            "id": "SÖZ 150"
-          },
-          {
-            "id": "SÖZ 151"
-          },
-          {
-            "id": "SÖZ 152"
-          },
-          {
-            "id": "SÖZ 153"
-          },
-          {
-            "id": "SÖZ 154"
-          },
-          {
-            "id": "SÖZ 155"
-          },
-          {
-            "id": "SÖZ 156"
-          },
-          {
-            "id": "SÖZ 157"
-          },
-          {
-            "id": "SÖZ 158"
-          },
-          {
-            "id": "SÖZ 159"
-          },
-          {
-            "id": "SÖZ 160"
-          },
-          {
-            "id": "SÖZ 161"
-          },
-          {
-            "id": "SÖZ 162"
-          },
-          {
-            "id": "SÖZ 163"
-          },
-          {
-            "id": "SÖZ 164"
-          },
-          {
-            "id": "SÖZ 165"
-          },
-          {
-            "id": "SÖZ 166"
-          },
-          {
-            "id": "SÖZ 167"
-          },
-          {
-            "id": "SÖZ 168"
-          },
-          {
-            "id": "SÖZ 169"
-          },
-          {
-            "id": "SÖZ 170"
-          },
-          {
-            "id": "SÖZ 171"
-          },
-          {
-            "id": "SÖZ 172"
-          },
-          {
-            "id": "SÖZ 173"
-          },
-          {
-            "id": "SÖZ 174"
-          },
-          {
-            "id": "SÖZ 175"
-          },
-          {
-            "id": "SÖZ 176"
-          },
-          {
-            "id": "SÖZ 177"
-          },
-          {
-            "id": "SÖZ 178"
-          },
-          {
-            "id": "SÖZ 179"
-          },
-          {
-            "id": "SÖZ 180"
-          },
-          {
-            "id": "SÖZ 181"
-          },
-          {
-            "id": "SÖZ 182"
-          },
-          {
-            "id": "SÖZ 183"
-          },
-          {
-            "id": "SÖZ 184"
-          },
-          {
-            "id": "SÖZ 185"
-          },
-          {
-            "id": "SÖZ 186"
-          },
-          {
-            "id": "SÖZ 187"
-          },
-          {
-            "id": "SÖZ 188"
-          },
-          {
-            "id": "SÖZ 189"
-          },
-          {
-            "id": "SÖZ 190"
-          },
-          {
-            "id": "SÖZ 191"
-          },
-          {
-            "id": "SÖZ 192"
-          },
-          {
-            "id": "SÖZ 193"
-          },
-          {
-            "id": "SÖZ 194"
-          },
-          {
-            "id": "SÖZ 195"
-          },
-          {
-            "id": "SÖZ 196"
-          },
-          {
-            "id": "SÖZ 197"
-          },
-          {
-            "id": "SÖZ 198"
-          },
-          {
-            "id": "SÖZ 199"
-          },
-          {
-            "id": "SÖZ 200"
-          },
-          {
-            "id": "SÖZ 201"
-          },
-          {
-            "id": "SÖZ 202"
-          },
-          {
-            "id": "SÖZ 203"
-          },
-          {
-            "id": "SÖZ 204"
-          },
-          {
-            "id": "SÖZ 205"
-          },
-          {
-            "id": "SÖZ 206"
-          },
-          {
-            "id": "SÖZ 207"
-          },
-          {
-            "id": "SÖZ 208"
-          },
-          {
-            "id": "SÖZ 209"
-          },
-          {
-            "id": "SÖZ 210"
-          },
-          {
-            "id": "SÖZ 211"
-          },
-          {
-            "id": "SÖZ 212"
-          },
-          {
-            "id": "SÖZ 213"
-          },
-          {
-            "id": "SÖZ 214"
-          },
-          {
-            "id": "SÖZ 215"
-          },
-          {
-            "id": "SÖZ 216"
-          },
-          {
-            "id": "SÖZ 217"
-          },
-          {
-            "id": "SÖZ 218"
-          },
-          {
-            "id": "SÖZ 219"
-          },
-          {
-            "id": "SÖZ 220"
-          },
-          {
-            "id": "SÖZ 221"
-          },
-          {
-            "id": "SÖZ 222"
-          },
-          {
-            "id": "SÖZ 223"
-          },
-          {
-            "id": "SÖZ 224"
-          },
-          {
-            "id": "SÖZ 225"
-          },
-          {
-            "id": "SÖZ 226"
-          },
-          {
-            "id": "SÖZ 227"
-          },
-          {
-            "id": "SÖZ 228"
-          },
-          {
-            "id": "SÖZ 229"
-          },
-          {
-            "id": "SÖZ 230"
-          },
-          {
-            "id": "SÖZ 231"
-          },
-          {
-            "id": "SÖZ 232"
-          },
-          {
-            "id": "SÖZ 233"
-          },
-          {
-            "id": "SÖZ 234"
-          },
-          {
-            "id": "SÖZ 235"
-          },
-          {
-            "id": "SÖZ 236"
-          },
-          {
-            "id": "SÖZ 237"
-          },
-          {
-            "id": "SÖZ 238"
-          },
-          {
-            "id": "SÖZ 239"
-          },
-          {
-            "id": "SÖZ 240"
-          },
-          {
-            "id": "SÖZ 241"
-          },
-          {
-            "id": "SÖZ 242"
-          },
-          {
-            "id": "SÖZ 243"
-          },
-          {
-            "id": "SÖZ 244"
-          },
-          {
-            "id": "SÖZ 245"
-          },
-          {
-            "id": "SÖZ 246"
-          },
-          {
-            "id": "SÖZ 247"
-          },
-          {
-            "id": "SÖZ 248"
-          },
-          {
-            "id": "SÖZ 249"
-          },
-          {
-            "id": "SÖZ 250"
-          },
-          {
-            "id": "SÖZ 251"
-          },
-          {
-            "id": "SÖZ 252"
-          },
-          {
-            "id": "SÖZ 253"
-          },
-          {
-            "id": "SÖZ 254"
-          },
-          {
-            "id": "SÖZ 255"
-          },
-          {
-            "id": "SÖZ 256"
-          },
-          {
-            "id": "SÖZ 257"
-          },
-          {
-            "id": "SÖZ 258"
-          },
-          {
-            "id": "SÖZ 259"
-          },
-          {
-            "id": "SÖZ 260"
-          },
-          {
-            "id": "SÖZ 261"
-          },
-          {
-            "id": "SÖZ 262"
-          },
-          {
-            "id": "SÖZ 263"
-          },
-          {
-            "id": "SÖZ 264"
-          },
-          {
-            "id": "SÖZ 265"
-          },
-          {
-            "id": "SÖZ 266"
-          },
-          {
-            "id": "SÖZ 267"
-          },
-          {
-            "id": "SÖZ 268"
-          },
-          {
-            "id": "SÖZ 269"
-          },
-          {
-            "id": "SÖZ 270"
-          },
-          {
-            "id": "SÖZ 271"
-          },
-          {
-            "id": "SÖZ 272"
-          },
-          {
-            "id": "SÖZ 273"
-          },
-          {
-            "id": "SÖZ 274"
-          },
-          {
-            "id": "SÖZ 275"
-          },
-          {
-            "id": "SÖZ 276"
-          },
-          {
-            "id": "SÖZ 277"
-          },
-          {
-            "id": "SÖZ 278"
-          },
-          {
-            "id": "SÖZ 279"
-          },
-          {
-            "id": "SÖZ 280"
-          },
-          {
-            "id": "SÖZ 281"
-          },
-          {
-            "id": "SÖZ 282"
-          },
-          {
-            "id": "SÖZ 283"
-          },
-          {
-            "id": "SÖZ 284"
-          },
-          {
-            "id": "SÖZ 285"
-          },
-          {
-            "id": "SÖZ 286"
-          },
-          {
-            "id": "SÖZ 287"
-          },
-          {
-            "id": "SÖZ 288"
-          },
-          {
-            "id": "SÖZ 289"
-          },
-          {
-            "id": "SÖZ 290"
-          },
-          {
-            "id": "SÖZ 291"
-          },
-          {
-            "id": "SÖZ 292"
-          },
-          {
-            "id": "SÖZ 293"
-          },
-          {
-            "id": "SÖZ 294"
-          },
-          {
-            "id": "SÖZ 295"
-          },
-          {
-            "id": "SÖZ 296"
-          },
-          {
-            "id": "SÖZ 297"
-          },
-          {
-            "id": "SÖZ 298"
-          },
-          {
-            "id": "SÖZ 299"
-          },
-          {
-            "id": "SÖZ 300"
-          },
-          {
-            "id": "SÖZ 301"
-          },
-          {
-            "id": "SÖZ 302"
-          },
-          {
-            "id": "SÖZ 303"
-          },
-          {
-            "id": "SÖZ 304"
-          },
-          {
-            "id": "SÖZ 305"
-          },
-          {
-            "id": "SÖZ 306"
-          },
-          {
-            "id": "SÖZ 307"
-          },
-          {
-            "id": "SÖZ 308"
-          },
-          {
-            "id": "SÖZ 309"
-          },
-          {
-            "id": "SÖZ 310"
-          },
-          {
-            "id": "SÖZ 311"
-          },
-          {
-            "id": "SÖZ 312"
-          },
-          {
-            "id": "SÖZ 313"
-          },
-          {
-            "id": "SÖZ 314"
-          },
-          {
-            "id": "SÖZ 315"
-          },
-          {
-            "id": "SÖZ 316"
-          },
-          {
-            "id": "SÖZ 317"
-          },
-          {
-            "id": "SÖZ 318"
-          },
-          {
-            "id": "SÖZ 319"
-          },
-          {
-            "id": "SÖZ 320"
-          },
-          {
-            "id": "SÖZ 321"
-          },
-          {
-            "id": "SÖZ 322"
-          },
-          {
-            "id": "SÖZ 323"
-          },
-          {
-            "id": "SÖZ 324"
-          },
-          {
-            "id": "SÖZ 325"
-          },
-          {
-            "id": "SÖZ 326"
-          },
-          {
-            "id": "SÖZ 327"
-          },
-          {
-            "id": "SÖZ 328"
-          },
-          {
-            "id": "SÖZ 329"
-          },
-          {
-            "id": "SÖZ 330"
-          },
-          {
-            "id": "SÖZ 331"
-          },
-          {
-            "id": "SÖZ 332"
-          },
-          {
-            "id": "SÖZ 333"
-          },
-          {
-            "id": "SÖZ 334"
-          },
-          {
-            "id": "SÖZ 335"
-          },
-          {
-            "id": "SÖZ 336"
-          },
-          {
-            "id": "SÖZ 337"
-          },
-          {
-            "id": "SÖZ 338"
-          },
-          {
-            "id": "SÖZ 339"
-          },
-          {
-            "id": "SÖZ 340"
-          },
-          {
-            "id": "SÖZ 341"
-          },
-          {
-            "id": "SÖZ 342"
-          },
-          {
-            "id": "SÖZ 343"
-          },
-          {
-            "id": "SÖZ 344"
-          },
-          {
-            "id": "SÖZ 345"
-          },
-          {
-            "id": "SÖZ 346"
-          },
-          {
-            "id": "SÖZ 347"
-          },
-          {
-            "id": "SÖZ 348"
-          },
-          {
-            "id": "SÖZ 349"
-          },
-          {
-            "id": "SÖZ 350"
-          },
-          {
-            "id": "SÖZ 351"
-          },
-          {
-            "id": "SÖZ 352"
-          },
-          {
-            "id": "SÖZ 353"
-          },
-          {
-            "id": "SÖZ 354"
-          },
-          {
-            "id": "SÖZ 355"
-          },
-          {
-            "id": "SÖZ 356"
-          },
-          {
-            "id": "SÖZ 357"
-          },
-          {
-            "id": "SÖZ 358"
-          },
-          {
-            "id": "SÖZ 359"
-          },
-          {
-            "id": "SÖZ 360"
-          },
-          {
-            "id": "SÖZ 361"
-          },
-          {
-            "id": "SÖZ 362"
-          },
-          {
-            "id": "SÖZ 363"
-          },
-          {
-            "id": "SÖZ 364"
-          },
-          {
-            "id": "SÖZ 365"
-          },
-          {
-            "id": "SÖZ 366"
-          },
-          {
-            "id": "SÖZ 367"
-          },
-          {
-            "id": "SÖZ 368"
-          },
-          {
-            "id": "SÖZ 369"
-          },
-          {
-            "id": "SÖZ 370"
-          },
-          {
-            "id": "SÖZ 371"
-          },
-          {
-            "id": "SÖZ 372"
-          },
-          {
-            "id": "SÖZ 373"
-          },
-          {
-            "id": "SÖZ 374"
-          },
-          {
-            "id": "SÖZ 375"
-          },
-          {
-            "id": "SÖZ 376"
-          },
-          {
-            "id": "SÖZ 377"
-          },
-          {
-            "id": "SÖZ 378"
-          },
-          {
-            "id": "SÖZ 379"
-          },
-          {
-            "id": "SÖZ 380"
-          },
-          {
-            "id": "SÖZ 381"
-          },
-          {
-            "id": "SÖZ 382"
-          },
-          {
-            "id": "SÖZ 383"
-          },
-          {
-            "id": "SÖZ 384"
-          },
-          {
-            "id": "SÖZ 385"
-          },
-          {
-            "id": "SÖZ 386"
-          },
-          {
-            "id": "SÖZ 387"
-          },
-          {
-            "id": "SÖZ 388"
-          },
-          {
-            "id": "SÖZ 389"
-          },
-          {
-            "id": "SÖZ 390"
-          },
-          {
-            "id": "SÖZ 391"
-          },
-          {
-            "id": "SÖZ 392"
-          },
-          {
-            "id": "SÖZ 393"
-          },
-          {
-            "id": "SÖZ 394"
-          },
-          {
-            "id": "SÖZ 395"
-          },
-          {
-            "id": "SÖZ 396"
-          },
-          {
-            "id": "SÖZ 397"
-          },
-          {
-            "id": "SÖZ 398"
-          },
-          {
-            "id": "SÖZ 399"
-          },
-          {
-            "id": "SÖZ 400"
-          },
-          {
-            "id": "SÖZ 401"
-          },
-          {
-            "id": "SÖZ 402"
-          },
-          {
-            "id": "SÖZ 403"
-          },
-          {
-            "id": "SÖZ 404"
-          },
-          {
-            "id": "SÖZ 405"
-          },
-          {
-            "id": "SÖZ 406"
-          },
-          {
-            "id": "SÖZ 407"
-          },
-          {
-            "id": "SÖZ 408"
-          },
-          {
-            "id": "SÖZ 409"
-          },
-          {
-            "id": "SÖZ 410"
-          },
-          {
-            "id": "SÖZ 411"
-          },
-          {
-            "id": "SÖZ 412"
-          },
-          {
-            "id": "SÖZ 413"
-          },
-          {
-            "id": "SÖZ 414"
-          },
-          {
-            "id": "SÖZ 415"
-          },
-          {
-            "id": "SÖZ 416"
-          },
-          {
-            "id": "SÖZ 417"
-          },
-          {
-            "id": "SÖZ 418"
-          },
-          {
-            "id": "SÖZ 419"
-          },
-          {
-            "id": "SÖZ 420"
-          },
-          {
-            "id": "SÖZ 421"
-          },
-          {
-            "id": "SÖZ 422"
-          },
-          {
-            "id": "SÖZ 423"
-          },
-          {
-            "id": "SÖZ 424"
-          },
-          {
-            "id": "SÖZ 425"
-          },
-          {
-            "id": "SÖZ 426"
-          },
-          {
-            "id": "SÖZ 427"
-          },
-          {
-            "id": "SÖZ 428"
-          },
-          {
-            "id": "SÖZ 429"
-          },
-          {
-            "id": "SÖZ 430"
-          },
-          {
-            "id": "SÖZ 431"
-          },
-          {
-            "id": "SÖZ 432"
-          },
-          {
-            "id": "SÖZ 433"
-          },
-          {
-            "id": "SÖZ 434"
-          },
-          {
-            "id": "SÖZ 435"
-          },
-          {
-            "id": "SÖZ 436"
-          },
-          {
-            "id": "SÖZ 437"
-          },
-          {
-            "id": "SÖZ 438"
-          },
-          {
-            "id": "SÖZ 439"
-          },
-          {
-            "id": "SÖZ 440"
-          },
-          {
-            "id": "SÖZ 441"
-          },
-          {
-            "id": "SÖZ 442"
-          },
-          {
-            "id": "SÖZ 443"
-          },
-          {
-            "id": "SÖZ 444"
-          },
-          {
-            "id": "SÖZ 445"
-          },
-          {
-            "id": "SÖZ 446"
-          },
-          {
-            "id": "SÖZ 447"
-          },
-          {
-            "id": "SÖZ 448"
-          },
-          {
-            "id": "SÖZ 449"
-          },
-          {
-            "id": "SÖZ 450"
-          },
-          {
-            "id": "SÖZ 451"
-          },
-          {
-            "id": "SÖZ 452"
-          },
-          {
-            "id": "SÖZ 453"
-          },
-          {
-            "id": "SÖZ 454"
-          },
-          {
-            "id": "SÖZ 455"
-          },
-          {
-            "id": "SÖZ 456"
-          },
-          {
-            "id": "SÖZ 457"
-          },
-          {
-            "id": "SÖZ 458"
-          },
-          {
-            "id": "SÖZ 459"
-          },
-          {
-            "id": "SÖZ 460"
-          },
-          {
-            "id": "SÖZ 461"
-          },
-          {
-            "id": "SÖZ 462"
-          },
-          {
-            "id": "SÖZ 463"
-          },
-          {
-            "id": "SÖZ 464"
-          },
-          {
-            "id": "SÖZ 465"
-          },
-          {
-            "id": "SÖZ 466"
-          },
-          {
-            "id": "SÖZ 467"
-          },
-          {
-            "id": "SÖZ 468"
-          },
-          {
-            "id": "SÖZ 469"
-          },
-          {
-            "id": "SÖZ 470"
-          },
-          {
-            "id": "SÖZ 471"
-          },
-          {
-            "id": "SÖZ 472"
-          },
-          {
-            "id": "SÖZ 473"
-          },
-          {
-            "id": "SÖZ 474"
-          },
-          {
-            "id": "SÖZ 475"
-          },
-          {
-            "id": "SÖZ 476"
-          },
-          {
-            "id": "SÖZ 477"
-          },
-          {
-            "id": "SÖZ 478"
-          },
-          {
-            "id": "SÖZ 479"
-          },
-          {
-            "id": "SÖZ 480"
-          }
+         { "id": "SÖZ 001" },
+        { "id": "SÖZ 002" },
+        { "id": "SÖZ 003" },
+        { "id": "SÖZ 004" },
+        { "id": "SÖZ 005" },
+        { "id": "SÖZ 006" },
+        { "id": "SÖZ 007" },
+        { "id": "SÖZ 008" },
+        { "id": "SÖZ 009" },
+        { "id": "SÖZ 010" },
+        { "id": "SÖZ 011" },
+        { "id": "SÖZ 012" },
+        { "id": "SÖZ 013" },
+        { "id": "SÖZ 014" },
+        { "id": "SÖZ 015" },
+        { "id": "SÖZ 016" },
+        { "id": "SÖZ 017" },
+        { "id": "SÖZ 018" },
+        { "id": "SÖZ 019" },
+        { "id": "SÖZ 020" },
+        { "id": "SÖZ 021" },
+        { "id": "SÖZ 022" },
+        { "id": "SÖZ 023" },
+        { "id": "SÖZ 024" },
+        { "id": "SÖZ 025" },
+        { "id": "SÖZ 026" },
+        { "id": "SÖZ 027" },
+        { "id": "SÖZ 028" },
+        { "id": "SÖZ 029" },
+        { "id": "SÖZ 030" },
+        { "id": "SÖZ 031" },
+        { "id": "SÖZ 032" },
+        { "id": "SÖZ 033" },
+        { "id": "SÖZ 034" },
+        { "id": "SÖZ 035" },
+        { "id": "SÖZ 036" },
+        { "id": "SÖZ 037" },
+        { "id": "SÖZ 038" },
+        { "id": "SÖZ 039" },
+        { "id": "SÖZ 040" },
+        { "id": "SÖZ 041" },
+        { "id": "SÖZ 042" },
+        { "id": "SÖZ 043" },
+        { "id": "SÖZ 044" },
+        { "id": "SÖZ 045" },
+        { "id": "SÖZ 046" },
+        { "id": "SÖZ 047" },
+        { "id": "SÖZ 048" },
+        { "id": "SÖZ 049" },
+        { "id": "SÖZ 050" },
+        { "id": "SÖZ 051" },
+        { "id": "SÖZ 052" },
+        { "id": "SÖZ 053" },
+        { "id": "SÖZ 054" },
+        { "id": "SÖZ 055" },
+        { "id": "SÖZ 056" },
+        { "id": "SÖZ 057" },
+        { "id": "SÖZ 058" },
+        { "id": "SÖZ 059" },
+        { "id": "SÖZ 060" },
+        { "id": "SÖZ 061" },
+        { "id": "SÖZ 062" },
+        { "id": "SÖZ 063" },
+        { "id": "SÖZ 064" },
+        { "id": "SÖZ 065" },
+        { "id": "SÖZ 066" },
+        { "id": "SÖZ 067" },
+        { "id": "SÖZ 068" },
+        { "id": "SÖZ 069" },
+        { "id": "SÖZ 070" },
+        { "id": "SÖZ 071" },
+        { "id": "SÖZ 072" },
+        { "id": "SÖZ 073" },
+        { "id": "SÖZ 074" },
+        { "id": "SÖZ 075" },
+        { "id": "SÖZ 076" },
+        { "id": "SÖZ 077" },
+        { "id": "SÖZ 078" },
+        { "id": "SÖZ 079" },
+        { "id": "SÖZ 080" },
+        { "id": "SÖZ 081" },
+        { "id": "SÖZ 082" },
+        { "id": "SÖZ 083" },
+        { "id": "SÖZ 084" },
+        { "id": "SÖZ 085" },
+        { "id": "SÖZ 086" },
+        { "id": "SÖZ 087" },
+        { "id": "SÖZ 088" },
+        { "id": "SÖZ 089" },
+        { "id": "SÖZ 090" },
+        { "id": "SÖZ 091" },
+        { "id": "SÖZ 092" },
+        { "id": "SÖZ 093" },
+        { "id": "SÖZ 094" },
+        { "id": "SÖZ 095" },
+        { "id": "SÖZ 096" },
+        { "id": "SÖZ 097" },
+        { "id": "SÖZ 098" },
+        { "id": "SÖZ 099" },
+        { "id": "SÖZ 100" },
+        { "id": "SÖZ 101" },
+        { "id": "SÖZ 102" },
+        { "id": "SÖZ 103" },
+        { "id": "SÖZ 104" },
+        { "id": "SÖZ 105" },
+        { "id": "SÖZ 106" },
+        { "id": "SÖZ 107" },
+        { "id": "SÖZ 108" },
+        { "id": "SÖZ 109" },
+        { "id": "SÖZ 110" },
+        { "id": "SÖZ 111" },
+        { "id": "SÖZ 112" },
+        { "id": "SÖZ 113" },
+        { "id": "SÖZ 114" },
+        { "id": "SÖZ 115" },
+        { "id": "SÖZ 116" },
+        { "id": "SÖZ 117" },
+        { "id": "SÖZ 118" },
+        { "id": "SÖZ 119" },
+        { "id": "SÖZ 120" },
+        { "id": "SÖZ 121" },
+        { "id": "SÖZ 122" },
+        { "id": "SÖZ 123" },
+        { "id": "SÖZ 124" },
+        { "id": "SÖZ 125" },
+        { "id": "SÖZ 126" },
+        { "id": "SÖZ 127" },
+        { "id": "SÖZ 128" },
+        { "id": "SÖZ 129" },
+        { "id": "SÖZ 130" },
+        { "id": "SÖZ 131" },
+        { "id": "SÖZ 132" },
+        { "id": "SÖZ 133" },
+        { "id": "SÖZ 134" },
+        { "id": "SÖZ 135" },
+        { "id": "SÖZ 136" },
+        { "id": "SÖZ 137" },
+        { "id": "SÖZ 138" },
+        { "id": "SÖZ 139" },
+        { "id": "SÖZ 140" },
+        { "id": "SÖZ 141" },
+        { "id": "SÖZ 142" },
+        { "id": "SÖZ 143" },
+        { "id": "SÖZ 144" },
+        { "id": "SÖZ 145" },
+        { "id": "SÖZ 146" },
+        { "id": "SÖZ 147" },
+        { "id": "SÖZ 148" },
+        { "id": "SÖZ 149" },
+        { "id": "SÖZ 150" },
+        { "id": "SÖZ 151" },
+        { "id": "SÖZ 152" },
+        { "id": "SÖZ 153" },
+        { "id": "SÖZ 154" },
+        { "id": "SÖZ 155" },
+        { "id": "SÖZ 156" },
+        { "id": "SÖZ 157" },
+        { "id": "SÖZ 158" },
+        { "id": "SÖZ 159" },
+        { "id": "SÖZ 160" },
+        { "id": "SÖZ 161" },
+        { "id": "SÖZ 162" },
+        { "id": "SÖZ 163" },
+        { "id": "SÖZ 164" },
+        { "id": "SÖZ 165" },
+        { "id": "SÖZ 166" },
+        { "id": "SÖZ 167" },
+        { "id": "SÖZ 168" },
+        { "id": "SÖZ 169" },
+        { "id": "SÖZ 170" },
+        { "id": "SÖZ 171" },
+        { "id": "SÖZ 172" },
+        { "id": "SÖZ 173" },
+        { "id": "SÖZ 174" },
+        { "id": "SÖZ 175" },
+        { "id": "SÖZ 176" },
+        { "id": "SÖZ 177" },
+        { "id": "SÖZ 178" },
+        { "id": "SÖZ 179" },
+        { "id": "SÖZ 180" },
+        { "id": "SÖZ 181" },
+        { "id": "SÖZ 182" },
+        { "id": "SÖZ 183" },
+        { "id": "SÖZ 184" },
+        { "id": "SÖZ 185" },
+        { "id": "SÖZ 186" },
+        { "id": "SÖZ 187" },
+        { "id": "SÖZ 188" },
+        { "id": "SÖZ 189" },
+        { "id": "SÖZ 190" },
+        { "id": "SÖZ 191" },
+        { "id": "SÖZ 192" },
+        { "id": "SÖZ 193" },
+        { "id": "SÖZ 194" },
+        { "id": "SÖZ 195" },
+        { "id": "SÖZ 196" },
+        { "id": "SÖZ 197" },
+        { "id": "SÖZ 198" },
+        { "id": "SÖZ 199" },
+        { "id": "SÖZ 200" },
+        { "id": "SÖZ 201" },
+        { "id": "SÖZ 202" },
+        { "id": "SÖZ 203" },
+        { "id": "SÖZ 204" },
+        { "id": "SÖZ 205" },
+        { "id": "SÖZ 206" },
+        { "id": "SÖZ 207" },
+        { "id": "SÖZ 208" },
+        { "id": "SÖZ 209" },
+        { "id": "SÖZ 210" },
+        { "id": "SÖZ 211" },
+        { "id": "SÖZ 212" },
+        { "id": "SÖZ 213" },
+        { "id": "SÖZ 214" },
+        { "id": "SÖZ 215" },
+        { "id": "SÖZ 216" },
+        { "id": "SÖZ 217" },
+        { "id": "SÖZ 218" },
+        { "id": "SÖZ 219" },
+        { "id": "SÖZ 220" },
+        { "id": "SÖZ 221" },
+        { "id": "SÖZ 222" },
+        { "id": "SÖZ 223" },
+        { "id": "SÖZ 224" },
+        { "id": "SÖZ 225" },
+        { "id": "SÖZ 226" },
+        { "id": "SÖZ 227" },
+        { "id": "SÖZ 228" },
+        { "id": "SÖZ 229" },
+        { "id": "SÖZ 230" },
+        { "id": "SÖZ 231" },
+        { "id": "SÖZ 232" },
+        { "id": "SÖZ 233" },
+        { "id": "SÖZ 234" },
+        { "id": "SÖZ 235" },
+        { "id": "SÖZ 236" },
+        { "id": "SÖZ 237" },
+        { "id": "SÖZ 238" },
+        { "id": "SÖZ 239" },
+        { "id": "SÖZ 240" },
+        { "id": "SÖZ 241" },
+        { "id": "SÖZ 242" },
+        { "id": "SÖZ 243" },
+        { "id": "SÖZ 244" },
+        { "id": "SÖZ 245" },
+        { "id": "SÖZ 246" },
+        { "id": "SÖZ 247" },
+        { "id": "SÖZ 248" },
+        { "id": "SÖZ 249" },
+        { "id": "SÖZ 250" },
+        { "id": "SÖZ 251" },
+        { "id": "SÖZ 252" },
+        { "id": "SÖZ 253" },
+        { "id": "SÖZ 254" },
+        { "id": "SÖZ 255" },
+        { "id": "SÖZ 256" },
+        { "id": "SÖZ 257" },
+        { "id": "SÖZ 258" },
+        { "id": "SÖZ 259" },
+        { "id": "SÖZ 260" },
+        { "id": "SÖZ 261" },
+        { "id": "SÖZ 262" },
+        { "id": "SÖZ 263" },
+        { "id": "SÖZ 264" },
+        { "id": "SÖZ 265" },
+        { "id": "SÖZ 266" },
+        { "id": "SÖZ 267" },
+        { "id": "SÖZ 268" },
+        { "id": "SÖZ 269" },
+        { "id": "SÖZ 270" },
+        { "id": "SÖZ 271" },
+        { "id": "SÖZ 272" },
+        { "id": "SÖZ 273" },
+        { "id": "SÖZ 274" },
+        { "id": "SÖZ 275" },
+        { "id": "SÖZ 276" },
+        { "id": "SÖZ 277" },
+        { "id": "SÖZ 278" },
+        { "id": "SÖZ 279" },
+        { "id": "SÖZ 280" },
+        { "id": "SÖZ 281" },
+        { "id": "SÖZ 282" },
+        { "id": "SÖZ 283" },
+        { "id": "SÖZ 284" },
+        { "id": "SÖZ 285" },
+        { "id": "SÖZ 286" },
+        { "id": "SÖZ 287" },
+        { "id": "SÖZ 288" },
+        { "id": "SÖZ 289" },
+        { "id": "SÖZ 290" },
+        { "id": "SÖZ 291" },
+        { "id": "SÖZ 292" },
+        { "id": "SÖZ 293" },
+        { "id": "SÖZ 294" },
+        { "id": "SÖZ 295" },
+        { "id": "SÖZ 296" },
+        { "id": "SÖZ 297" },
+        { "id": "SÖZ 298" },
+        { "id": "SÖZ 299" },
+        { "id": "SÖZ 300" },
+        { "id": "SÖZ 301" },
+        { "id": "SÖZ 302" },
+        { "id": "SÖZ 303" },
+        { "id": "SÖZ 304" },
+        { "id": "SÖZ 305" },
+        { "id": "SÖZ 306" },
+        { "id": "SÖZ 307" },
+        { "id": "SÖZ 308" },
+        { "id": "SÖZ 309" },
+        { "id": "SÖZ 310" },
+        { "id": "SÖZ 311" },
+        { "id": "SÖZ 312" },
+        { "id": "SÖZ 313" },
+        { "id": "SÖZ 314" },
+        { "id": "SÖZ 315" },
+        { "id": "SÖZ 316" },
+        { "id": "SÖZ 317" },
+        { "id": "SÖZ 318" },
+        { "id": "SÖZ 319" },
+        { "id": "SÖZ 320" },
+        { "id": "SÖZ 321" },
+        { "id": "SÖZ 322" },
+        { "id": "SÖZ 323" },
+        { "id": "SÖZ 324" },
+        { "id": "SÖZ 325" },
+        { "id": "SÖZ 326" },
+        { "id": "SÖZ 327" },
+        { "id": "SÖZ 328" },
+        { "id": "SÖZ 329" },
+        { "id": "SÖZ 330" },
+        { "id": "SÖZ 331" },
+        { "id": "SÖZ 332" },
+        { "id": "SÖZ 333" },
+        { "id": "SÖZ 334" },
+        { "id": "SÖZ 335" },
+        { "id": "SÖZ 336" },
+        { "id": "SÖZ 337" },
+        { "id": "SÖZ 338" },
+        { "id": "SÖZ 339" },
+        { "id": "SÖZ 340" },
+        { "id": "SÖZ 341" },
+        { "id": "SÖZ 342" },
+        { "id": "SÖZ 343" },
+        { "id": "SÖZ 344" },
+        { "id": "SÖZ 345" },
+        { "id": "SÖZ 346" },
+        { "id": "SÖZ 347" },
+        { "id": "SÖZ 348" },
+        { "id": "SÖZ 349" },
+        { "id": "SÖZ 350" },
+        { "id": "SÖZ 351" },
+        { "id": "SÖZ 352" },
+        { "id": "SÖZ 353" },
+        { "id": "SÖZ 354" },
+        { "id": "SÖZ 355" },
+        { "id": "SÖZ 356" },
+        { "id": "SÖZ 357" },
+        { "id": "SÖZ 358" },
+        { "id": "SÖZ 359" },
+        { "id": "SÖZ 360" },
+        { "id": "SÖZ 361" },
+        { "id": "SÖZ 362" },
+        { "id": "SÖZ 363" },
+        { "id": "SÖZ 364" },
+        { "id": "SÖZ 365" },
+        { "id": "SÖZ 366" },
+        { "id": "SÖZ 367" },
+        { "id": "SÖZ 368" },
+        { "id": "SÖZ 369" },
+        { "id": "SÖZ 370" },
+        { "id": "SÖZ 371" },
+        { "id": "SÖZ 372" },
+        { "id": "SÖZ 373" },
+        { "id": "SÖZ 374" },
+        { "id": "SÖZ 375" },
+        { "id": "SÖZ 376" },
+        { "id": "SÖZ 377" },
+        { "id": "SÖZ 378" },
+        { "id": "SÖZ 379" },
+        { "id": "SÖZ 380" },
+        { "id": "SÖZ 381" },
+        { "id": "SÖZ 382" },
+        { "id": "SÖZ 383" },
+        { "id": "SÖZ 384" },
+        { "id": "SÖZ 385" },
+        { "id": "SÖZ 386" },
+        { "id": "SÖZ 387" },
+        { "id": "SÖZ 388" },
+        { "id": "SÖZ 389" },
+        { "id": "SÖZ 390" },
+        { "id": "SÖZ 391" },
+        { "id": "SÖZ 392" },
+        { "id": "SÖZ 393" },
+        { "id": "SÖZ 394" },
+        { "id": "SÖZ 395" },
+        { "id": "SÖZ 396" },
+        { "id": "SÖZ 397" },
+        { "id": "SÖZ 398" },
+        { "id": "SÖZ 399" },
+        { "id": "SÖZ 400" },
+        { "id": "SÖZ 401" },
+        { "id": "SÖZ 402" },
+        { "id": "SÖZ 403" },
+        { "id": "SÖZ 404" },
+        { "id": "SÖZ 405" },
+        { "id": "SÖZ 406" },
+        { "id": "SÖZ 407" },
+        { "id": "SÖZ 408" },
+        { "id": "SÖZ 409" },
+        { "id": "SÖZ 410" },
+        { "id": "SÖZ 411" },
+        { "id": "SÖZ 412" },
+        { "id": "SÖZ 413" },
+        { "id": "SÖZ 414" },
+        { "id": "SÖZ 415" },
+        { "id": "SÖZ 416" },
+        { "id": "SÖZ 417" },
+        { "id": "SÖZ 418" },
+        { "id": "SÖZ 419" },
+        { "id": "SÖZ 420" },
+        { "id": "SÖZ 421" },
+        { "id": "SÖZ 422" },
+        { "id": "SÖZ 423" },
+        { "id": "SÖZ 424" },
+        { "id": "SÖZ 425" },
+        { "id": "SÖZ 426" },
+        { "id": "SÖZ 427" },
+        { "id": "SÖZ 428" },
+        { "id": "SÖZ 429" },
+        { "id": "SÖZ 430" },
+        { "id": "SÖZ 431" },
+        { "id": "SÖZ 432" },
+        { "id": "SÖZ 433" },
+        { "id": "SÖZ 434" },
+        { "id": "SÖZ 435" },
+        { "id": "SÖZ 436" },
+        { "id": "SÖZ 437" },
+        { "id": "SÖZ 438" },
+        { "id": "SÖZ 439" },
+        { "id": "SÖZ 440" },
+        { "id": "SÖZ 441" },
+        { "id": "SÖZ 442" },
+        { "id": "SÖZ 443" },
+        { "id": "SÖZ 444" },
+        { "id": "SÖZ 445" },
+        { "id": "SÖZ 446" },
+        { "id": "SÖZ 447" },
+        { "id": "SÖZ 448" },
+        { "id": "SÖZ 449" },
+        { "id": "SÖZ 450" },
+        { "id": "SÖZ 451" },
+        { "id": "SÖZ 452" },
+        { "id": "SÖZ 453" },
+        { "id": "SÖZ 454" },
+        { "id": "SÖZ 455" },
+        { "id": "SÖZ 456" },
+        { "id": "SÖZ 457" },
+        { "id": "SÖZ 458" },
+        { "id": "SÖZ 459" },
+        { "id": "SÖZ 460" },
+        { "id": "SÖZ 461" },
+        { "id": "SÖZ 462" },
+        { "id": "SÖZ 463" },
+        { "id": "SÖZ 464" },
+        { "id": "SÖZ 465" },
+        { "id": "SÖZ 466" },
+        { "id": "SÖZ 467" },
+        { "id": "SÖZ 468" },
+        { "id": "SÖZ 469" },
+        { "id": "SÖZ 470" },
+        { "id": "SÖZ 471" },
+        { "id": "SÖZ 472" },
+        { "id": "SÖZ 473" },
+        { "id": "SÖZ 474" },
+        { "id": "SÖZ 475" },
+        { "id": "SÖZ 476" },
+        { "id": "SÖZ 477" },
+        { "id": "SÖZ 478" },
+        { "id": "SÖZ 479" },
+        { "id": "SÖZ 480" }
         ]
       }
     ]
@@ -2437,7 +832,7 @@
     "coverUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/nehcul_belaga/sahife.jpg",
 "sections": [
   {
-    "id": "sec_hutbeler",
+    "id": "sec_dualar",
     "title": "Dualar",
     "chapters": [
       { "id": "01.DUA" },
