@@ -3,6 +3,7 @@
     "id": "nb_full_001",
     "title": "Nehcu'l Belâga",
     "author": "Hz. Ali (a.s)",
+    "description": "Nehcu'l Belâga Eseri",
     "coverUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/nehcul_belaga/nehcul-belaga.jpg",
     "sections": [
       {
@@ -829,6 +830,7 @@
     "id": "ss_full_001",
     "title": "Sahife-i Seccadiye",
     "author": "Hz. Zeynel Abidin (a.s)",
+    "description": "Sahife-i Seccadiye Eseri",
     "coverUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/nehcul_belaga/sahife.jpg",
 "sections": [
   {
