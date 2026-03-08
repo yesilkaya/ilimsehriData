@@ -266,5 +266,39 @@
     { "start": 111, "end": 123, "ready": true, "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/Tevbe-111-123.html" },
     { "start": 124, "end": 129, "ready": true, "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/Tevbe-124-129.html" }
   ]
+},
+  {
+  "surahId": 10,
+  "ranges": [
+    { "start": 1, "end": 10, "ready": true, "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/Yunus-1-10.html" },
+    { "start": 11, "end": 14, "ready": true, "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/Yunus-11-14.html" },
+    { "start": 15, "end": 25, "ready": true, "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/Yunus-15-25.html" },
+    { "start": 26, "end": 30, "ready": true, "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/Yunus-26-30.html" },
+    { "start": 31, "end": 36, "ready": true, "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/Yunus-31-36.html" },
+    { "start": 37, "end": 45, "ready": true, "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/Yunus-37-45.html" },
+    { "start": 46, "end": 56, "ready": true, "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/Yunus-46-56.html" },
+    { "start": 57, "end": 70, "ready": true, "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/Yunus-57-70.html" },
+    { "start": 71, "end": 74, "ready": true, "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/Yunus-71-74.html" },
+    { "start": 75, "end": 93, "ready": true, "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/Yunus-75-93.html" },
+    { "start": 94, "end": 103, "ready": true, "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/Yunus-94-103.html" },
+    { "start": 104, "end": 109, "ready": true, "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/Yunus-104-109.html" }
+  ]
+},
+  {
+  "surahId": 11,
+  "ranges": [
+    { "start": 1, "end": 4, "ready": true, "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/Hud-1-4.html" },
+    { "start": 5, "end": 16, "ready": true, "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/Hud-5-16.html" },
+    { "start": 17, "end": 24, "ready": true, "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/Hud-17-24.html" },
+    { "start": 25, "end": 35, "ready": true, "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/Hud-25-35.html" },
+    { "start": 36, "end": 49, "ready": true, "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/Hud-36-49.html" },
+    { "start": 50, "end": 60, "ready": true, "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/Hud-50-60.html" },
+    { "start": 61, "end": 68, "ready": true, "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/Hud-61-68.html" },
+    { "start": 69, "end": 76, "ready": true, "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/Hud-69-76.html" },
+    { "start": 77, "end": 83, "ready": true, "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/Hud-77-83.html" },
+    { "start": 84, "end": 95, "ready": true, "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/Hud-84-95.html" },
+    { "start": 96, "end": 99, "ready": true, "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/Hud-96-99.html" },
+    { "start": 97, "end": 123, "ready": false, "url": null }
+  ]
 }
 ]
