@@ -368,16 +368,16 @@
   {
   "surahId": 17,
   "ranges": [
-    { "start": 1, "end": 1, "ready": true, "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/Isra-1.html" },
-    { "start": 2, "end": 8, "ready": true, "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/Isra-2-8.html" },
-    { "start": 9, "end": 22, "ready": true, "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/Isra-9-22.html" },
-    { "start": 23, "end": 39, "ready": true, "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/Isra-23-39.html" },
-    { "start": 40, "end": 55, "ready": true, "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/Isra-40-55.html" },
-    { "start": 56, "end": 65, "ready": true, "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/Isra-56-65.html" },
-    { "start": 66, "end": 72, "ready": true, "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/Isra-66-72.html" },
-    { "start": 73, "end": 81, "ready": true, "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/Isra-73-81.html" },
-    { "start": 82, "end": 100, "ready": true, "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/Isra-82-100.html" },
-    { "start": 101, "end": 111, "ready": true, "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/Isra-101-111.html" }
+    { "start": 1, "end": 1, "ready": true, "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/İsra-1.html" },
+    { "start": 2, "end": 8, "ready": true, "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/İsra-2-8.html" },
+    { "start": 9, "end": 22, "ready": true, "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/İsra-9-22.html" },
+    { "start": 23, "end": 39, "ready": true, "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/İsra-23-39.html" },
+    { "start": 40, "end": 55, "ready": true, "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/İsra-40-55.html" },
+    { "start": 56, "end": 65, "ready": true, "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/İsra-56-65.html" },
+    { "start": 66, "end": 72, "ready": true, "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/İsra-66-72.html" },
+    { "start": 73, "end": 81, "ready": true, "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/İsra-73-81.html" },
+    { "start": 82, "end": 100, "ready": true, "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/İsra-82-100.html" },
+    { "start": 101, "end": 111, "ready": true, "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/İsra-101-111.html" }
   ]
 },
   {
