@@ -167,7 +167,21 @@
     { "start": 33, "end": 40, "ready": true, "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/Maide-33-40.html" },
     { "start": 41, "end": 50, "ready": true, "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/Maide-41-50.html" },
     { "start": 51, "end": 54, "ready": true, "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/Maide-51-54.html" },
-    { "start": 55, "end": 120, "ready": false, "url": null }
+    { "start": 55, "end": 56, "ready": true, "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/Maide-55-56.html" },
+    { "start": 57, "end": 66, "ready": true, "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/Maide-57-66.html" },
+    { "start": 67, "end": 67, "ready": true, "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/Maide-67.html" },
+    { "start": 68, "end": 86, "ready": true, "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/Maide-68-86.html" },
+    { "start": 87, "end": 89, "ready": true, "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/Maide-87-89.html" },
+    { "start": 90, "end": 93, "ready": true, "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/Maide-90-93.html" },
+    { "start": 94, "end": 99, "ready": true, "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/Maide-94-99.html" },
+    { "start": 100, "end": 100, "ready": true, "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/Maide-100.html" },
+    { "start": 101, "end": 102, "ready": true, "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/Maide-101-102.html" },
+    { "start": 103, "end": 104, "ready": true, "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/Maide-103-104.html" },
+    { "start": 105, "end": 105, "ready": true, "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/Maide-105.html" },
+    { "start": 106, "end": 109, "ready": true, "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/Maide-106-109.html" },
+    { "start": 110, "end": 111, "ready": true, "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/Maide-110-111.html" },
+    { "start": 112, "end": 115, "ready": true, "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/Maide-112-115.html" },
+    { "start": 116, "end": 120, "ready": true, "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/Maide-116-120.html" }
   ]
 }
 ]
