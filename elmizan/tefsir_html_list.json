@@ -334,11 +334,11 @@
   {
   "surahId": 14,
   "ranges": [
-    { "start": 1, "end": 5, "ready": true, "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/Ibrahim-1-5.html" },
-    { "start": 6, "end": 18, "ready": true, "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/Ibrahim-6-18.html" },
-    { "start": 19, "end": 34, "ready": true, "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/Ibrahim-19-34.html" },
-    { "start": 35, "end": 41, "ready": true, "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/Ibrahim-35-41.html" },
-    { "start": 42, "end": 52, "ready": true, "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/Ibrahim-42-52.html" }
+    { "start": 1, "end": 5, "ready": true, "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/İbrahim-1-5.html" },
+    { "start": 6, "end": 18, "ready": true, "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/İbrahim-6-18.html" },
+    { "start": 19, "end": 34, "ready": true, "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/İbrahim-19-34.html" },
+    { "start": 35, "end": 41, "ready": true, "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/İbrahim-35-41.html" },
+    { "start": 42, "end": 52, "ready": true, "url": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/elmizan/İbrahim-42-52.html" }
   ]
 },
   {
