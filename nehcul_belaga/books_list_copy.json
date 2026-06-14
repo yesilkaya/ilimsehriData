@@ -953,7 +953,16 @@
         { "id": "64.SIĞINANLARIN MÜNACATI" },
         { "id": "65.ZAHİDLERİN MÜNACATI" },
         { "id": "66.ŞİKAYET EDENLERİN MÜNACATI" }
-      ] }
+      ] },
+      {
+  "id": "quran_afasi_001",
+  "title": "Kur'an-ı Kerim",
+  "author": "Afşin Karaca",
+  "bookType": "quran",
+  "audioBaseUrl": "https://quran.destegah.com/quranvoice/afasi_quran",
+  "coverUrl": "https://...",
+  "sections": []
+}
     ]
   }
 ]
