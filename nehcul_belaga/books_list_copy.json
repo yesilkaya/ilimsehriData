@@ -2889,20 +2889,21 @@
     "id": "kerbela_001",
     "title": "İmam Hüseyin ve Kerbela",
     "author": "Ehl-i Beyt Kaynakları",
-    "coverUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/kerbela/cover.jpg",
-    "basePath": "kerbela",
+    "coverUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/nehcul_belaga/dualar.jpeg",
+    "basePath": "nehcul_belaga",
     "sections": [
         {
             "id": "sec_makaleler",
-            "title": "Makaleler",
+            "title": "Podcastler",
+            "audioFolder": "kerbela",
             "textFolder": "kerbela_turkce",
             "chapters": [
                 {
-                    "id": "01.MAKALE",
+                    "id": "kerbela1",
                     "title": "İmam Hüseyin Yezid'e Neden Biat Etmedi?"
                 },
                 {
-                    "id": "02.MAKALE",
+                    "id": "kerbela2",
                     "title": "İmam Hüseyin Kimdir?"
                 }
             ]
