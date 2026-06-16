@@ -2884,5 +2884,29 @@
         "audioBaseUrl": "https://quran.destegah.com/quranvoice/afasi_quran",
         "coverUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/nehcul_belaga/kuran-abdulbaki.jpeg",
         "sections": []
-    }
+    },
+    {
+    "id": "kerbela_001",
+    "title": "İmam Hüseyin ve Kerbela",
+    "author": "Ehl-i Beyt Kaynakları",
+    "coverUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/refs/heads/main/kerbela/cover.jpg",
+    "basePath": "kerbela",
+    "sections": [
+        {
+            "id": "sec_makaleler",
+            "title": "Makaleler",
+            "textFolder": "kerbela_turkce",
+            "chapters": [
+                {
+                    "id": "01.MAKALE",
+                    "title": "İmam Hüseyin Yezid'e Neden Biat Etmedi?"
+                },
+                {
+                    "id": "02.MAKALE",
+                    "title": "İmam Hüseyin Kimdir?"
+                }
+            ]
+        }
+    ]
+}
 ]
