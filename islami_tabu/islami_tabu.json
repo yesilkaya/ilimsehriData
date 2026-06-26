@@ -1,3 +1,6 @@
+{
+  "version": 10,
+  "data": [
 {"kelime": "Abbas bin Abdülmuttalip", "yasakli_kelimeler": ["Amca", "Saki", "Peygamber", "Bedir", "Zemzem"]}
 {"kelime": "Abdest", "yasakli_kelimeler": ["Mesh", "Yıkamak", "Su", "Namaz", "Maide 6"]}
 {"kelime": "Abese Suresi", "yasakli_kelimeler": ["Yüz Çevirdi", "Kuran", "80. Sure", "Kör", "Uyarı"]}
@@ -1207,3 +1210,5 @@
 {"kelime": "Zülcelal", "yasakli_kelimeler": ["Celal Sahibi", "Büyük", "Allah'ın Sıfatı", "İkram", "Heybet"]}
 {"kelime": "Züleyha", "yasakli_kelimeler": ["Yusuf", "Aşk", "Mısır", "Gömlek", "Saray"]}
 {"kelime": "Zülfikar", "yasakli_kelimeler": ["Kılıç", "Hz. Ali", "Çatal", "Savaş", "Uhud"]}
+  ]
+}
