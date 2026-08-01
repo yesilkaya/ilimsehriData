@@ -1,0 +1,2994 @@
+{
+    "Sayfa1": [
+        {
+            "Sure Adı": "Fatiha",
+            "Sure No": 1,
+            "Ayet": 1,
+            "Sayfa": 1,
+            "İstihare Sonucu": "Mutlaka yapın.",
+            "Genel Sonuç": "Çok iyidir. Allah’a tevekkül ederek harekete geçin.",
+            "Evlilik Sonucu": "Bu evlilik her yönden uygundur. Allah’ın izniyle harekete geçin. İnşallah sonu hayırlı olacaktır.",
+            " Ticaret/Alışveriş Sonucu": "Çok hayırlı ve kazançlı olacaktır. İnşallah güzel bir kazanç elde edeceksiniz."
+        },
+        {
+            "Sure Adı": "Bakara",
+            "Sure No": 2,
+            "Ayet": 6,
+            "Sayfa": 3,
+            "İstihare Sonucu": "Yapmayın. ",
+            "Genel Sonuç": "Kötüdür ve eğer yapılırsa, sonrasında büyük pişmanlık duyacaksınız.",
+            "Evlilik Sonucu": "Bu evliliğin geleceği hayırlı değildir. Çok sayıda sıkıntı ve zorlukla karşılaşacak, sonunda da iyi bir sonuca ulaşmayacaktır.",
+            " Ticaret/Alışveriş Sonucu": "Bu işte bir fayda yoktur. Gerçekleştirilmesi hâlinde zarar ve ziyana uğrayacaksınız."
+        },
+        {
+            "Sure Adı": "Bakara ",
+            "Sure No": 2,
+            "Ayet": 25,
+            "Sayfa": 5,
+            "İstihare Sonucu": "Mutlaka yap.",
+            "Genel Sonuç": "Çok hayırlıdır. Onu yapmanız hâlinde büyük fayda ve kazanç elde edeceksiniz.",
+            "Evlilik Sonucu": "Bu evlilikte hayır ve bereket vardır. Bu evliliği gerçekleştirmeniz hâlinde, inşallah sonunuz hayırlı olur ve mutlu bir hayat sürersiniz.",
+            " Ticaret/Alışveriş Sonucu": "Bu işten (veya bu ticari işlemden) büyük kazanç elde edeceksiniz. Şer'î ölçülere riayet ederek bu işi yapın ki hem dünyada hem de ahirette saadete eresiniz."
+        },
+        {
+            "Sure Adı": "Bakara ",
+            "Sure No": 2,
+            "Ayet": 38,
+            "Sayfa": 7,
+            "İstihare Sonucu": "Seçim sana bırakılmıştır.",
+            "Genel Sonuç": "Orta derecededir. Eğer bunu yapmaya kararlıysanız, mutlaka sadaka verin ve işin ehli, tecrübeli kimselere danışarak hareket edin.",
+            "Evlilik Sonucu": "Acele etmeyin. Bundan daha hayırlı ve daha uygun bir kısmet size nasip olacaktır.",
+            " Ticaret/Alışveriş Sonucu": "Bekleyin. Bu iş veya ticaret, düşündüğünüz kadar iyi değildir. Yine de yapmakta ısrar ederseniz sadaka verin ve uzman, tecrübeli kişilere danışarak hareket edin."
+        },
+        {
+            "Sure Adı": "Bakara ",
+            "Sure No": 2,
+            "Ayet": 58,
+            "Sayfa": 9,
+            "İstihare Sonucu": "Yapma.",
+            "Genel Sonuç": "Kötüdür. Bunu yapmanın sonunda pişmanlık ve nedametten başka bir sonuç yoktur.",
+            "Evlilik Sonucu": "Çok sayıda anlaşmazlık yaşanacaktır ve ciddi manevi/psikolojik sıkıntılarla karşılaşacaksınız.",
+            " Ticaret/Alışveriş Sonucu": "Bu işten doğacak zarar ve ziyan büyüktür; ayrıca beraberinde birçok sorun getirecektir."
+        },
+        {
+            "Sure Adı": "Bakara ",
+            "Sure No": 2,
+            "Ayet": 70,
+            "Sayfa": 11,
+            "İstihare Sonucu": "Yapma.",
+            "Genel Sonuç": "Kötüdür. Bunu yapmanın sonunda pişmanlık ve nedametten başka bir şey yoktur.",
+            "Evlilik Sonucu": "Önünüze pek çok sorun çıkacaktır. Bu evlilik hiçbir şekilde sizin hayrınıza ve maslahatınıza değildir.",
+            " Ticaret/Alışveriş Sonucu": "Bu işte (veya bu ticarette) çok fazla aldatma ve hile vardır. Yapmayın."
+        },
+        {
+            "Sure Adı": "Bakara ",
+            "Sure No": 2,
+            "Ayet": 84,
+            "Sayfa": 13,
+            "İstihare Sonucu": "Yapma.",
+            "Genel Sonuç": "Kötüdür. Bunu yapmanız sizin zararınıza olacaktır ve sonunda pişman olacaksınız.",
+            "Evlilik Sonucu": "Size yalan söylüyorlar ve verdikleri sözlere/üstlendikleri yükümlülüklere uymuyorlar. İnanın, bu evlilik sizin hayrınıza değildir.",
+            " Ticaret/Alışveriş Sonucu": "Karşı taraf taahhütlerine uymayacaktır ve bu yüzden zarar ve ziyana uğrayacaksınız."
+        },
+        {
+            "Sure Adı": "Bakara ",
+            "Sure No": 2,
+            "Ayet": 94,
+            "Sayfa": 15,
+            "İstihare Sonucu": "Yapma.",
+            "Genel Sonuç": "Kötüdür. Bunu yapmanız hâlinde pişman olursunuz, bu yüzden bırakılması tavsiye edilir.",
+            "Evlilik Sonucu": "İnsanların dış görünüşüne bakarak hüküm verilemez. Eğer bu evliliği yaparsanız büyük ölçüde pişman olursunuz.",
+            " Ticaret/Alışveriş Sonucu": "Bu iş, düşündüğünüz kadar kazançlı değildir; hatta zarar görürsünüz. Bu yüzden vazgeçin."
+        },
+        {
+            "Sure Adı": "Bakara ",
+            "Sure No": 2,
+            "Ayet": 106,
+            "Sayfa": 17,
+            "İstihare Sonucu": "Yapma.",
+            "Genel Sonuç": "Kötüdür. Sabırlı olun, sadaka verin ve Allah’ın her şeye kadir olduğunu bilin.",
+            "Evlilik Sonucu": "Acele etmeyin. Sizin için daha iyi bir kısmet olacaktır. Allah’a tevekkül edin.",
+            " Ticaret/Alışveriş Sonucu": "Sabredin. Bu işten daha iyi bir teklif size gelecektir."
+        },
+        {
+            "Sure Adı": "Bakara ",
+            "Sure No": 2,
+            "Ayet": 121,
+            "Sayfa": 19,
+            "İstihare Sonucu": "Yapma.",
+            "Genel Sonuç": "Kötüdür. Boş yere emek harcayacaksın ve hiçbir fayda elde edemeyeceksin.",
+            "Evlilik Sonucu": "Uygun bir eş adayı değildir. Aranızda anlaşmazlıklar çıkacaktır. Bu evlilikten vazgeçilmesi tavsiye edilir.",
+            " Ticaret/Alışveriş Sonucu": "Kötüdür. Karşı tarafın sizi aldatma niyeti vardır ve size zarar verecektir."
+        },
+        {
+            "Sure Adı": "Bakara ",
+            "Sure No": 2,
+            "Ayet": 135,
+            "Sayfa": 21,
+            "İstihare Sonucu": "Yapma.",
+            "Genel Sonuç": "Kötüdür. Bunu yapmanızdan size hiçbir fayda ve kazanç gelmeyecektir.",
+            "Evlilik Sonucu": "Ailelerin ahlak ve kültür yapıları birbirine uygun değildir. En baştan her konuyu açıkça konuşup netleştirin; aksi hâlde bu evliliği yapmamanız daha iyidir.",
+            " Ticaret/Alışveriş Sonucu": "Bu iş, söylendiği kadar iyi değildir. Kendi işinize bakın ve bu ticaretten vazgeçin."
+        },
+        {
+            "Sure Adı": "Bakara ",
+            "Sure No": 2,
+            "Ayet": 146,
+            "Sayfa": 23,
+            "İstihare Sonucu": "Yapma.",
+            "Genel Sonuç": "Kötüdür. Sizden gizlenmiş bir husus vardır. Harekete geçmeyin; aksi hâlde pişman olursunuz.",
+            "Evlilik Sonucu": "Sizden önemli bir konuyu gizliyorlar. Bu evlilik sizin hayrınıza değildir. Sabredin ve Allah'a tevekkül edin.",
+            " Ticaret/Alışveriş Sonucu": "Sizden bir konuyu saklıyorlar. Bu ticaretten (veya bu işten) vazgeçin ve Allah'a tevekkül edin."
+        },
+        {
+            "Sure Adı": "Bakara ",
+            "Sure No": 2,
+            "Ayet": 164,
+            "Sayfa": 25,
+            "İstihare Sonucu": "Yap.",
+            "Genel Sonuç": "Hayırlıdır. Ancak dikkatli davranarak ve yeterli araştırmayı yaparak harekete geçin.",
+            "Evlilik Sonucu": "Araştırıp iyice inceleyerek karar verin. İnşallah hayırlıdır. Sadaka vermeyi unutmayın.",
+            " Ticaret/Alışveriş Sonucu": "Tecrübeli ve uzman kişilere danıştıktan, sabır ve dikkatle değerlendirdikten sonra harekete geçin. İnşallah hayırlıdır. Sadaka vermeyi unutmayın."
+        },
+        {
+            "Sure Adı": "Bakara ",
+            "Sure No": 2,
+            "Ayet": 177,
+            "Sayfa": 27,
+            "İstihare Sonucu": "Yap.",
+            "Genel Sonuç": "Hayırlıdır. Allah'a, Masum İmamlar'a tevekkül ederek ve sadaka vererek harekete geçin.",
+            "Evlilik Sonucu": "Şer'î hükümlere riayet ederek bu evliliği gerçekleştirin ki günaha düşmeyesiniz. Sadaka vermeyi unutmayın.",
+            " Ticaret/Alışveriş Sonucu": "Sadaka vererek ve şer'î kurallara riayet ederek bu işe başlayın. İnşallah hayırlıdır ve kazanç elde edersiniz."
+        },
+        {
+            "Sure Adı": "Bakara ",
+            "Sure No": 2,
+            "Ayet": 187,
+            "Sayfa": 29,
+            "İstihare Sonucu": "Yap.",
+            "Genel Sonuç": "Hayırlıdır. Şer'î ölçü ve hükümlere riayet ederek harekete geçin.",
+            "Evlilik Sonucu": "İnşallah hayırlı ve mübarektir. Şer'î hükümlere riayet ederek bu evliliği gerçekleştirin.",
+            " Ticaret/Alışveriş Sonucu": "Hayırlıdır. Allah'a tevekkül ederek bu işe başlayın. İnşallah kazanç ve fayda elde edersiniz."
+        },
+        {
+            "Sure Adı": "Bakara ",
+            "Sure No": 2,
+            "Ayet": 197,
+            "Sayfa": 31,
+            "İstihare Sonucu": "Yap.",
+            "Genel Sonuç": "Hayırlıdır. Zorluğu ve zahmeti vardır; ancak elde edeceğiniz sevap ve fayda, çekeceğiniz zahmetten daha büyüktür.",
+            "Evlilik Sonucu": "Şer'î hükümlere riayet ederek evlenin. İnşallah akıbetiniz hayırlı olur.",
+            " Ticaret/Alışveriş Sonucu": "Her ne kadar bir miktar sıkıntı ve zorluk çekseniz de, bu oldukça kazançlı bir ticaret olacaktır."
+        },
+        {
+            "Sure Adı": "Bakara ",
+            "Sure No": 2,
+            "Ayet": 211,
+            "Sayfa": 33,
+            "İstihare Sonucu": "Asla yapma.",
+            "Genel Sonuç": "Çok kötüdür. Kesinlikle yapmayın; sonradan pişman olursunuz.",
+            "Evlilik Sonucu": "Hiçbir arzunuz gerçekleşmeyecek ve tarif edilmesi güç sıkıntı ve meşakkatlerle karşılaşacaksınız. Bu evlilikten vazgeçin.",
+            " Ticaret/Alışveriş Sonucu": "Aldatma ve hileyle karşılaşacak, büyük bir maddi zarara uğrayacaksınız. Bu işi yapmayın."
+        },
+        {
+            "Sure Adı": "Bakara ",
+            "Sure No": 2,
+            "Ayet": 220,
+            "Sayfa": 35,
+            "İstihare Sonucu": "Tercih sana aittir.",
+            "Genel Sonuç": "Orta derecededir. Şartlara ve gerekli hazırlıklara uyulursa hayırlıdır; aksi takdirde yapmayın.",
+            "Evlilik Sonucu": "Bütün yönleriyle iyice değerlendirin. Şartlar uygunsa evliliği gerçekleştirin; uygun değilse vazgeçin.",
+            " Ticaret/Alışveriş Sonucu": "Araştırma yaparak, tecrübeli kişilere danışarak ve dinî ölçülere riayet ederek harekete geçin. Aksi hâlde bu işi yapmayın."
+        },
+        {
+            "Sure Adı": "Bakara ",
+            "Sure No": 2,
+            "Ayet": 231,
+            "Sayfa": 37,
+            "İstihare Sonucu": "Yapma.",
+            "Genel Sonuç": "Kötüdür. Yaparsanız sıkıntı ve zorluklarla karşılaşırsınız. Vazgeçin; aksi hâlde pişmanlık duyarsınız.",
+            "Evlilik Sonucu": "Sizi iyi bir gelecek beklemiyor. Bu evlilikten vazgeçin; aksi takdirde sonu boşanma ve ayrılıkla neticelenebilir.",
+            " Ticaret/Alışveriş Sonucu": "Bu ticarette herhangi bir kazanç yoktur. Vazgeçin; çünkü sonunda pişmanlık vardır."
+        },
+        {
+            "Sure Adı": "Bakara ",
+            "Sure No": 2,
+            "Ayet": 238,
+            "Sayfa": 39,
+            "İstihare Sonucu": "Yap.",
+            "Genel Sonuç": "İyidir. Biraz zahmetlidir ama zahmetine değer.",
+            "Evlilik Sonucu": "Başta biraz sıkıntı ve zorluk yaşarsınız, fakat sonunda hayırlı bir sonuca ulaşırsınız.",
+            " Ticaret/Alışveriş Sonucu": "Biraz zahmet ve zorlukla karşılaşırsınız, ancak inşallah iyi bir kâr elde edersiniz."
+        },
+        {
+            "Sure Adı": "Bakara ",
+            "Sure No": 2,
+            "Ayet": 249,
+            "Sayfa": 41,
+            "İstihare Sonucu": "Yapma.",
+            "Genel Sonuç": "Kötüdür. İşin ortasında sorunlarla karşılaşırsınız ve çıkış yolu bulamazsınız.",
+            "Evlilik Sonucu": "Güvenilir insanlar değildir; yaşam için onlara dayanmak mümkün olmaz. Bu yüzden yapmayın.",
+            " Ticaret/Alışveriş Sonucu": "Taahhütlere uyulmaz ve zarar edersiniz. Vazgeçilmelidir."
+        },
+        {
+            "Sure Adı": "Bakara ",
+            "Sure No": 2,
+            "Ayet": 257,
+            "Sayfa": 43,
+            "İstihare Sonucu": "Yapma.",
+            "Genel Sonuç": "Kötüdür. Pişmanlık ve nedamet yaşarsınız; fakat artık bir faydası olmayacağı için vazgeçilmelidir.",
+            "Evlilik Sonucu": "İnsanların dış görünüşüne aldanmayın; büyük sıkıntı ve felakete yol açar. Kesinlikle terk edilmelidir.",
+            " Ticaret/Alışveriş Sonucu": "Başta iyi görünse de hem maddi hem de itibar açısından ciddi zarar verir."
+        },
+        {
+            "Sure Adı": "Bakara ",
+            "Sure No": 2,
+            "Ayet": 265,
+            "Sayfa": 45,
+            "İstihare Sonucu": "Yap.",
+            "Genel Sonuç": "Hayırlıdır. Dinî ölçülere riayet ederek harekete geçin; inşallah bütün hedeflerinize ulaşırsınız.",
+            "Evlilik Sonucu": "Hayırlıdır. İnşallah sonu hayır olur ve mutlu bir akıbete erişirsiniz.",
+            " Ticaret/Alışveriş Sonucu": "Hayırlıdır. Sadaka verin ve Allah'a tevekkül ederek bu işe başlayın. İnşallah güzel bir kazanç elde edersiniz."
+        },
+        {
+            "Sure Adı": "Bakara ",
+            "Sure No": 2,
+            "Ayet": 275,
+            "Sayfa": 47,
+            "İstihare Sonucu": "Asla yapma.",
+            "Genel Sonuç": "Çok kötüdür. Harama düşer ve birçok sorunla karşılaşırsınız.",
+            "Evlilik Sonucu": "Günaha ve harama düşersiniz. Bu evlilikten kesinlikle uzak durun ve Allah'a tevekkül edin.",
+            " Ticaret/Alışveriş Sonucu": "Helâl ticaret ile faizcilik arasında büyük fark vardır. Kendinizi aldatmayın."
+        },
+        {
+            "Sure Adı": "Bakara ",
+            "Sure No": 2,
+            "Ayet": 283,
+            "Sayfa": 49,
+            "İstihare Sonucu": "Yap.",
+            "Genel Sonuç": "Hayırlıdır. Ancak ihtiyatlı davranın ve gerekli tedbirleri aldıktan sonra harekete geçin ki sonradan pişman olmayasınız.",
+            "Evlilik Sonucu": "Evlilikten önce konuşulması gereken tüm konuları netleştirin. Ardından evliliğe adım atın ki ileride pişmanlık yaşamayasınız.",
+            " Ticaret/Alışveriş Sonucu": "Dikkatli olun; anlaşmanın tüm şartlarını sağlam ve açık şekilde güvence altına aldıktan sonra işlemi gerçekleştirin."
+        },
+        {
+            "Sure Adı": "Ali İmran ",
+            "Sure No": 3,
+            "Ayet": 10,
+            "Sayfa": 51,
+            "İstihare Sonucu": "Asla yapma.",
+            "Genel Sonuç": "Çok kötüdür. Kesinlikle yapmayın; aksi hâlde derin bir pişmanlık yaşarsınız.",
+            "Evlilik Sonucu": "Bu evlilikten size mutsuzluk ve pişmanlıktan başka bir şey nasip olmaz. Mutlaka vazgeçin.",
+            " Ticaret/Alışveriş Sonucu": "Bu işte zarar ve sıkıntıdan başka bir şey yoktur. Kesinlikle yapmayın."
+        },
+        {
+            "Sure Adı": "Ali İmran ",
+            "Sure No": 3,
+            "Ayet": 23,
+            "Sayfa": 53,
+            "İstihare Sonucu": "Yapma.",
+            "Genel Sonuç": "Kötüdür. İşleriniz istediğiniz gibi ilerlemez ve zarar edersiniz. Vazgeçin.",
+            "Evlilik Sonucu": "Size uygun kişiler değiller. Size üzüntü ve sıkıntı verirler. Onları unutun.",
+            " Ticaret/Alışveriş Sonucu": "Sizi aldatırlar ve dolandırırlar. Bu işe kesinlikle girmeyin."
+        },
+        {
+            "Sure Adı": "Ali İmran ",
+            "Sure No": 3,
+            "Ayet": 38,
+            "Sayfa": 55,
+            "İstihare Sonucu": "Mutlaka yap.",
+            "Genel Sonuç": "Çok hayırlıdır. Allah'a tevekkül ederek harekete geçin; inşallah bütün hedeflerinize ulaşırsınız.",
+            "Evlilik Sonucu": "İnşallah size salih evlatlar nasip olur. Şimdiden hayırlı ve mübarek olsun.",
+            " Ticaret/Alışveriş Sonucu": "İnşallah çok büyük kazanç ve fayda elde edersiniz."
+        },
+        {
+            "Sure Adı": "Ali İmran ",
+            "Sure No": 3,
+            "Ayet": 53,
+            "Sayfa": 57,
+            "İstihare Sonucu": "Yap.",
+            "Genel Sonuç": "Hayırlıdır. Allah'a ve Masum İmamlara tevekkül ederek bu işe girişin; inşallah başarılı olursunuz.",
+            "Evlilik Sonucu": "İnşallah hayırlı ve mübarektir. Evlilik için adım atın; namazınızı ilk vaktinde kılın ve sadaka verin.",
+            " Ticaret/Alışveriş Sonucu": "Dinî ölçülere riayet ederek bu işi yapın. İnşallah güzel bir kazanç elde edersiniz."
+        },
+        {
+            "Sure Adı": "Ali İmran ",
+            "Sure No": 3,
+            "Ayet": 71,
+            "Sayfa": 59,
+            "İstihare Sonucu": "Yapma.",
+            "Genel Sonuç": "Kötüdür. Bu işte aldatma ve hile vardır. Kesinlikle yapmayın; aksi hâlde pişman olursunuz.",
+            "Evlilik Sonucu": "Sizden bazı gerçekleri gizliyor ve size yalan söylüyorlar. Bu uygun bir evlilik değildir. Sabredin; inşallah daha hayırlı bir kısmet nasip olacaktır.",
+            " Ticaret/Alışveriş Sonucu": "Size doğruyu söylemiyorlar ve anlaşmanın bazı yönlerini sizden gizliyorlar. Bu yüzden zarar edersiniz."
+        },
+        {
+            "Sure Adı": "Ali İmran ",
+            "Sure No": 3,
+            "Ayet": 84,
+            "Sayfa": 61,
+            "İstihare Sonucu": "Yap.",
+            "Genel Sonuç": "Hayırlıdır. Dinî ölçülere riayet ederek harekete geçin; inşallah işinizde başarılı olursunuz.",
+            "Evlilik Sonucu": "İnşallah hayırlı ve mübarektir. Bolca sadaka verin ve dinî hükümlere riayet edin.",
+            " Ticaret/Alışveriş Sonucu": "Hayırlıdır. Allah'a tevekkül ederek bu işe başlayın. Sadaka vermeyi de ihmal etmeyin."
+        },
+        {
+            "Sure Adı": "Ali İmran ",
+            "Sure No": 3,
+            "Ayet": 101,
+            "Sayfa": 63,
+            "İstihare Sonucu": "Mutlaka yap.",
+            "Genel Sonuç": "Çok hayırlıdır. Ancak hiçbir durumda Allah'ı anmayı ve O'na yönelmeyi ihmal etmeyin.",
+            "Evlilik Sonucu": "Evlilik için adım atın; uygun ve hayırlı bir kısmettir. Sadaka vermeyi unutmayın.",
+            " Ticaret/Alışveriş Sonucu": "İnşallah bol kazançlı ve bereketli olacaktır; yeter ki Allah'ı unutmayın."
+        },
+        {
+            "Sure Adı": "Ali İmran ",
+            "Sure No": 3,
+            "Ayet": 116,
+            "Sayfa": 65,
+            "İstihare Sonucu": "Asla yapma.",
+            "Genel Sonuç": "Çok kötüdür. Kesinlikle yapmayın; ciddi zararlar görürsünüz.",
+            "Evlilik Sonucu": "Eğer yaparsanız öyle bir pişmanlık yaşarsınız ki ne ileri gidebilir ne geri dönebilirsiniz.",
+            " Ticaret/Alışveriş Sonucu": "Görünüşe aldanmayın, büyük zarar edersiniz. Bu işten vazgeçin."
+        },
+        {
+            "Sure Adı": "Ali İmran ",
+            "Sure No": 3,
+            "Ayet": 133,
+            "Sayfa": 67,
+            "İstihare Sonucu": "Mutlaka yap.",
+            "Genel Sonuç": "Çok hayırlıdır. Bu işi yaparken acele edin ve dinî ölçülere riayet etmeyi unutmayın.",
+            "Evlilik Sonucu": "Bu evlilik hayatınızda açılım ve kolaylık getirir. Ancak belirtilen iki şarta dikkat edilmelidir.",
+            " Ticaret/Alışveriş Sonucu": "Çok kârlı ve bereketlidir. Ancak iki şart vardır: dinî ölçülere uymak ve uygun miktarda sadaka vermek."
+        },
+        {
+            "Sure Adı": "Ali İmran ",
+            "Sure No": 3,
+            "Ayet": 149,
+            "Sayfa": 69,
+            "İstihare Sonucu": "Yapma.",
+            "Genel Sonuç": "Kötüdür. Büyük bir üzüntü yaşarsınız ve geri dönüşü olmayan bir yola girersiniz.",
+            "Evlilik Sonucu": "İçinde hiçbir hayır yoktur. Bu ilişkiden vazgeçin.",
+            " Ticaret/Alışveriş Sonucu": "Harama düşme ve aldatılma riski vardır. Bu işten uzak durun."
+        },
+        {
+            "Sure Adı": "Ali İmran ",
+            "Sure No": 3,
+            "Ayet": 158,
+            "Sayfa": 71,
+            "İstihare Sonucu": "Tercih sana aittir.",
+            "Genel Sonuç": "Orta düzeydedir. İyi düşünün, işin ehli kişilerle istişare edin. Yapmamanız daha iyi olabilir.",
+            "Evlilik Sonucu": "Sabırlı olun, acele etmeyin. Daha iyi bir kısmet çıkabilir. Yine uzmanlarla/deneyimli kişilerle danışın; yapmamak daha hayırlı olabilir.",
+            " Ticaret/Alışveriş Sonucu": "İşin ehli kişilerle istişare edin. Çok da parlak bir durum görünmüyor."
+        },
+        {
+            "Sure Adı": "Ali İmran ",
+            "Sure No": 3,
+            "Ayet": 174,
+            "Sayfa": 73,
+            "İstihare Sonucu": "Yap.",
+            "Genel Sonuç": "Hayırlıdır. Dinî ölçülere riayet ederek hareket edin; inşallah hedeflerinize ulaşırsınız.",
+            "Evlilik Sonucu": "İnşallah mübarektir. Allah’a tevekkül edin, namazınızı vaktinde kılın; inşallah hayırlı bir sona ulaşırsınız.",
+            " Ticaret/Alışveriş Sonucu": "Dürüstlük ve Allah’a tevekkül başarı anahtarıdır. İnşallah güzel bir kazanç elde edersiniz."
+        },
+        {
+            "Sure Adı": "Ali İmran ",
+            "Sure No": 3,
+            "Ayet": 187,
+            "Sayfa": 75,
+            "İstihare Sonucu": "Yapma.",
+            "Genel Sonuç": "Kötüdür. Değeriniz bundan daha fazladır, bu işe girişmeyin.",
+            "Evlilik Sonucu": "Sizin için uygun bir eş değildir. Bu kişiyi unutun.",
+            " Ticaret/Alışveriş Sonucu": "Yalan söylenme ve aldatılma ihtimali vardır. Bu işi yapmayın."
+        },
+        {
+            "Sure Adı": "Nisa",
+            "Sure No": 4,
+            "Ayet": 1,
+            "Sayfa": 77,
+            "İstihare Sonucu": "Mutlaka yap.",
+            "Genel Sonuç": "Çok hayırlıdır. Allah’a tevekkül ederek harekete geçin ve hiçbir durumda O’nu unutmayın.",
+            "Evlilik Sonucu": "Hayırlı bir eş ve inşallah hayırlı evlatlar nasip olur. Evlilik mübarektir.",
+            " Ticaret/Alışveriş Sonucu": "Kazançlı ve bereketli bir iştir. Sadaka vermeyi ve dinî ölçülere riayeti unutmayın."
+        },
+        {
+            "Sure Adı": "Nisa",
+            "Sure No": 4,
+            "Ayet": 12,
+            "Sayfa": 79,
+            "İstihare Sonucu": "Tercih sana aittir.",
+            "Genel Sonuç": "Orta düzeydedir. Yapmakta ısrar ederseniz mutlaka istişare ve tam dikkatle ilerleyin; aksi hâlde bırakmak daha hayırlıdır.",
+            "Evlilik Sonucu": "Tüm konuşmaları ve şartları netleştirin ki anlaşmazlık çıkmasın. Aksi hâlde sabredin; inşallah daha hayırlı bir kısmet nasip olur.",
+            " Ticaret/Alışveriş Sonucu": "Dikkatli ve danışarak hareket edin; aksi takdirde bu işten vazgeçmek daha doğru olur."
+        },
+        {
+            "Sure Adı": "Nisa",
+            "Sure No": 4,
+            "Ayet": 20,
+            "Sayfa": 81,
+            "İstihare Sonucu": "Yapma.",
+            "Genel Sonuç": "Kötüdür. İftira ve suçlamalarla karşılaşabilirsiniz ve pişman olursunuz.",
+            "Evlilik Sonucu": "Sabredin; bu evlilikte hayır yoktur. İnşallah daha iyi bir kısmet nasip olur.",
+            " Ticaret/Alışveriş Sonucu": "Görünüşe fazla aldanmayın; zarar etme ihtimaliniz vardır."
+        },
+        {
+            "Sure Adı": "Nisa",
+            "Sure No": 4,
+            "Ayet": 27,
+            "Sayfa": 83,
+            "İstihare Sonucu": "Yapma.",
+            "Genel Sonuç": "Kötüdür. Günaha düşersiniz ve içinde hayır yoktur; mutlaka terk edilmelidir.",
+            "Evlilik Sonucu": "Kötüdür ve ciddi sorunlara yol açar; sonradan pişmanlık ve öfke yaşarsınız. Bu ilişkiden uzak durun.",
+            " Ticaret/Alışveriş Sonucu": "Harama düşme ve zarar etme riski vardır. Kesinlikle yapılmamalıdır."
+        },
+        {
+            "Sure Adı": "Nisa",
+            "Sure No": 4,
+            "Ayet": 38,
+            "Sayfa": 85,
+            "İstihare Sonucu": "Asla yapma",
+            "Genel Sonuç": "Çok kötüdür, bunu hiç düşünme bile; dış görünüşe aldanan insanlar zarar görür.",
+            "Evlilik Sonucu": "Her şeyin görünen yüzü ile iç yüzü aynı değildir; bu fikri tamamen aklından çıkar, hiç uygun bir seçenek değildir.",
+            " Ticaret/Alışveriş Sonucu": "Haram bir duruma düşersin ve çok zarar edersin; görüneni ile gerçeği farklıdır."
+        },
+        {
+            "Sure Adı": "Nisa",
+            "Sure No": 4,
+            "Ayet": 52,
+            "Sayfa": 87,
+            "İstihare Sonucu": "Asla yapma.",
+            "Genel Sonuç": "Çok kötüdür, itibarın ve şerefin zedelenir / yok olur.",
+            "Evlilik Sonucu": "Çok kötüdür, çok kötü ve perişan bir hayatın olur; her an kendine lanet edersin, bunu bırak.",
+            " Ticaret/Alışveriş Sonucu": "Bunlar hilekâr ve aldatıcı insanlardır, kesinlikle yapma."
+        },
+        {
+            "Sure Adı": "Nisa",
+            "Sure No": 4,
+            "Ayet": 66,
+            "Sayfa": 89,
+            "İstihare Sonucu": "Yap.",
+            "Genel Sonuç": "İyidir, sabır ve dikkatle istediğin sonuca ulaşırsın.",
+            "Evlilik Sonucu": "Hiçbir şey zahmetsiz olmaz; ama emekle elde edilen şeyin değeri farklıdır. İnşallah hayırlı ve bereketlidir.",
+            " Ticaret/Alışveriş Sonucu": "İşin ehli kişilerle istişare et, sonra karar ver ve yap."
+        },
+        {
+            "Sure Adı": " Nisa",
+            "Sure No": 4,
+            "Ayet": 80,
+            "Sayfa": 91,
+            "İstihare Sonucu": "Yapma.",
+            "Genel Sonuç": "Kötüdür; “ağrımayan başa bandaj sarılmaz.”",
+            "Evlilik Sonucu": "Tartışma ve kavgaya yol açar, bundan uzak durun.",
+            " Ticaret/Alışveriş Sonucu": "Zarar edersin ve sorunlarla karşılaşırsın, bırak."
+        },
+        {
+            "Sure Adı": "Nisa",
+            "Sure No": 4,
+            "Ayet": 92,
+            "Sayfa": 93,
+            "İstihare Sonucu": "Yapma.",
+            "Genel Sonuç": "Hayırlı değildir. Can ve mal açısından tehlike vardır. Bu işi yapmayın.",
+            "Evlilik Sonucu": "Bu evlilikte hayır yoktur. İtibarınız ve saygınlığınız zarar görür.",
+            " Ticaret/Alışveriş Sonucu": "İtibar ve şeref açısından risk taşır. Malınızı kaybedebilirsiniz. Bu işi yapmayın."
+        },
+        {
+            "Sure Adı": "Nisa",
+            "Sure No": 4,
+            "Ayet": 102,
+            "Sayfa": 95,
+            "İstihare Sonucu": "Yapma.",
+            "Genel Sonuç": "Hayırlı değildir. Bunu yapmanın sonunda pişmanlıktan başka bir şey yoktur.",
+            "Evlilik Sonucu": "Bu evlilik sizin için uygun değildir. Bu evliliği yaparsanız çok büyük pişmanlık duyacaksınız. Yapmayın.",
+            " Ticaret/Alışveriş Sonucu": "Sonuçsuz kalacak bir alışveriştir. Ondan vazgeçin."
+        },
+        {
+            "Sure Adı": "Nisa",
+            "Sure No": 4,
+            "Ayet": 114,
+            "Sayfa": 97,
+            "İstihare Sonucu": "Yap.",
+            "Genel Sonuç": "Hayırlıdır. Ancak dinî ölçülere riayet ederek ve sadaka vererek bu işe girişin.",
+            "Evlilik Sonucu": "İnşallah hayırlı ve mübarektir. Ancak yukarıdaki iki şart (şer'î ölçülere riayet etmek ve sadaka vermek) unutulmamalıdır.",
+            " Ticaret/Alışveriş Sonucu": "Oldukça kârlı bir iştir. Fakat bunun için dinî ölçülere uymanız ve uygun miktarda sadaka vermeniz şarttır."
+        },
+        {
+            "Sure Adı": "Nisa",
+            "Sure No": 4,
+            "Ayet": 128,
+            "Sayfa": 99,
+            "İstihare Sonucu": "Tercih sana kalmıştır.",
+            "Genel Sonuç": "Orta derecede hayırlıdır. İşin bütün yönlerini iyice değerlendirdikten sonra yapın; aksi takdirde vazgeçmeniz daha iyidir.",
+            "Evlilik Sonucu": "İyice araştırın, konuşulması gereken her konuyu açıkça konuşup tamamlayın ve sadaka verin. Bundan sonra evlenebilirsiniz; aksi hâlde beklemeniz daha hayırlıdır.",
+            " Ticaret/Alışveriş Sonucu": "Bu işte başarılı olmanın anahtarı, işin ehli kimselere danışmak ve sadaka vermektir. Bunlar yapılmazsa vazgeçmeniz daha iyidir."
+        },
+        {
+            "Sure Adı": "Nisa",
+            "Sure No": 4,
+            "Ayet": 141,
+            "Sayfa": 101,
+            "İstihare Sonucu": "Asla yapma.",
+            "Genel Sonuç": "Çok kötüdür. Haram bir işe düşersiniz ve zarar görürsünüz. İkiyüzlü insanlarla karşılaşırsınız; onlar sizi sadece kendi amaçlarına ulaşmak için kullanmak isterler.",
+            "Evlilik Sonucu": "Çok kötüdür. Sizi yanlış yola sevk ederler. Kesinlikle bu evliliği yapmayın.",
+            " Ticaret/Alışveriş Sonucu": "Sizi aldatırlar ve büyük bir maddi zarara uğratırlar."
+        },
+        {
+            "Sure Adı": "Nisa",
+            "Sure No": 4,
+            "Ayet": 155,
+            "Sayfa": 103,
+            "İstihare Sonucu": "Asla yapma.",
+            "Genel Sonuç": "Çok kötüdür. Son derece kötü niyetli insanlarla karşılaşırsınız. Bu işi terk edin.",
+            "Evlilik Sonucu": "Çok kötüdür. Kesinlikle bu evliliği yapmayın; aksi hâlde çok büyük pişmanlık duyarsınız.",
+            " Ticaret/Alışveriş Sonucu": "Karşınızdaki kişiler dolandırıcı kimselerdir. Bu işe kesinlikle girişmeyin."
+        },
+        {
+            "Sure Adı": "Nisa",
+            "Sure No": 4,
+            "Ayet": 171,
+            "Sayfa": 105,
+            "İstihare Sonucu": "Yapma.",
+            "Genel Sonuç": "Hayırlı değildir. İşiniz istediğiniz gibi ilerlemez ve başarısızlığa uğrarsınız.",
+            "Evlilik Sonucu": "Görünüşe aldanmayın. Bu evlilik sizin için kesinlikle uygun değildir. Ondan vazgeçin.",
+            " Ticaret/Alışveriş Sonucu": "Her ne kadar dışarıdan iyi bir alışveriş gibi görünse de gerçekte öyle değildir ve zarar edersiniz."
+        },
+        {
+            "Sure Adı": "Maide",
+            "Sure No": 5,
+            "Ayet": 3,
+            "Sayfa": 107,
+            "İstihare Sonucu": "Yap.",
+            "Genel Sonuç": "Hayırlıdır. Ancak dinî (şer'î) ölçülere riayet ederek hareket edin.",
+            "Evlilik Sonucu": "İnşallah hayırlı ve mübarektir. Allah'ı hiçbir zaman unutmayın.",
+            " Ticaret/Alışveriş Sonucu": "Çok kârlıdır. Ancak dinî (şer'î) kurallara riayet edin."
+        },
+        {
+            "Sure Adı": "Maide",
+            "Sure No": 5,
+            "Ayet": 10,
+            "Sayfa": 109,
+            "İstihare Sonucu": "Asla yapma.",
+            "Genel Sonuç": "Çok kötüdür. Bu işi yapmayın; aksi hâlde çok büyük pişmanlık duyarsınız.",
+            "Evlilik Sonucu": "Bu evliliğin sonu pişmanlıktan başka bir şey olmayacaktır. Kesinlikle yapmayın.",
+            " Ticaret/Alışveriş Sonucu": "Bu işte hile ve aldatmaca vardır. Kesinlikle bu alışverişi yapmayın."
+        },
+        {
+            "Sure Adı": "Maide",
+            "Sure No": 5,
+            "Ayet": 18,
+            "Sayfa": 111,
+            "İstihare Sonucu": "Yapma.",
+            "Genel Sonuç": "Hayırlı değildir. Hakkınızda dedikodular çıkar ve sizi yarı yolda bırakırlar, desteğinizi çekerler.",
+            "Evlilik Sonucu": "Bu evlilik hakkında dedikodular ve çeşitli söylentiler vardır. Karşı taraf size kesinlikle uygun değildir. Vazgeçin.",
+            " Ticaret/Alışveriş Sonucu": "Size bir fayda sağlamaz. Ayrıca vaat edildiği gibi de değildir. Bu alışverişten vazgeçin."
+        },
+        {
+            "Sure Adı": "Maide",
+            "Sure No": 5,
+            "Ayet": 32,
+            "Sayfa": 113,
+            "İstihare Sonucu": "Yapma.",
+            "Genel Sonuç": "Hayırlı değildir. İtibarınız ve can güvenliğiniz açısından risk taşır. Bu işten vazgeçin.",
+            "Evlilik Sonucu": "Bu evlilik, uğrayacağınız itibar kaybına ve aşağılanmaya değmez. Hatta sağ salim kurtulabilirseniz vazgeçmeniz daha iyidir.",
+            " Ticaret/Alışveriş Sonucu": "Bu iş kavga ve anlaşmazlıklara yol açar. Ayrıca büyük maddi zarara uğrarsınız. Bu işi terk edin."
+        },
+        {
+            "Sure Adı": "Maide",
+            "Sure No": 5,
+            "Ayet": 42,
+            "Sayfa": 115,
+            "İstihare Sonucu": "Tercih sana kalmıştır.",
+            "Genel Sonuç": "Orta derecededir. Ancak vazgeçmeniz sevaba daha yakındır.",
+            "Evlilik Sonucu": "Bu evliliği yapmanız hâlinde hayatınız boyunca sıkıntı ve mutsuzluklarla mücadele etmek zorunda kalırsınız. Vazgeçin.",
+            " Ticaret/Alışveriş Sonucu": "Haram bir işe düşersiniz. Bu işten uzak durun."
+        },
+        {
+            "Sure Adı": "Maide",
+            "Sure No": 5,
+            "Ayet": 51,
+            "Sayfa": 117,
+            "İstihare Sonucu": "Asla yapma.",
+            "Genel Sonuç": "Çok kötüdür. Bu işi yaparsanız farkında olmadan başkalarının haklarını ihlal edebilirsiniz. Kesinlikle vazgeçin.",
+            "Evlilik Sonucu": "Bu evliliğe girişmeyin; aksi hâlde çok büyük pişmanlık duyarsınız.",
+            " Ticaret/Alışveriş Sonucu": "Bu işe girişmeyin. Çünkü sizin yararınıza değildir ve zarar görürsünüz."
+        },
+        {
+            "Sure Adı": "Maide",
+            "Sure No": 5,
+            "Ayet": 65,
+            "Sayfa": 119,
+            "İstihare Sonucu": "Yap.",
+            "Genel Sonuç": "Hayırlıdır. Allah'a tevekkül ederek bu işe girişin. İnşallah hedeflerinize ulaşırsınız.",
+            "Evlilik Sonucu": "Bu, dininizin yarısını tamamlayacak olan evliliktir. Geriye kalan yarısını da korumaya özen gösterin.",
+            " Ticaret/Alışveriş Sonucu": "Hayırlıdır. Allah'a tevekkül ederek bu işi yapın. İnşallah güzel bir kazanç elde edersiniz."
+        },
+        {
+            "Sure Adı": "Maide",
+            "Sure No": 5,
+            "Ayet": 77,
+            "Sayfa": 121,
+            "İstihare Sonucu": "Yapma.",
+            "Genel Sonuç": "Hayırlı değildir. Haram bir işe düşersiniz. Bu işi yapmayın.",
+            "Evlilik Sonucu": "Bu evlilik sizin hayrınıza değildir. Dinî hayatınız zarar görür. Dış görünüşe aldanmayın; bu evlilik kesinlikle sizin için uygun değildir. Yapmayın.",
+            " Ticaret/Alışveriş Sonucu": "Haram bir işe düşersiniz ve hiçbir fayda da elde edemezsiniz. Bu işi mutlaka terk edin."
+        },
+        {
+            "Sure Adı": "Maide",
+            "Sure No": 5,
+            "Ayet": 90,
+            "Sayfa": 123,
+            "İstihare Sonucu": "Yapma.",
+            "Genel Sonuç": "Hayırlı değildir. Haram bir işe düşersiniz. Bu işi bırakın. İnşallah ileride size daha hayırlı bir seçenek sunulacaktır.",
+            "Evlilik Sonucu": "Günaha düşersiniz ve öyle büyük sıkıntılara girersiniz ki her gün kendinize lanet edersiniz. Sabredin; inşallah size daha hayırlı bir evlilik nasip olacaktır.",
+            " Ticaret/Alışveriş Sonucu": "Bu alışverişte hiçbir hayır yoktur. Acele etmeyin; iyi kazanç sağlayacak başka bir fırsat yoldadır. Bu işe kesinlikle girişmeyin."
+        },
+        {
+            "Sure Adı": "Maide",
+            "Sure No": 5,
+            "Ayet": 104,
+            "Sayfa": 125,
+            "İstihare Sonucu": "Yapma.",
+            "Genel Sonuç": "Hayırlı değildir. Sadece kendi bildiğini okuyan, anlayışsız insanlarla karşılaşırsınız. Bu işe kesinlikle girişmeyin.",
+            "Evlilik Sonucu": "Bu evlilik adayı size hiç uygun değildir ve size yakışacak bir eş değildir. Kesinlikle bu evliliğe adım atmayın; aksi hâlde pişman olursunuz.",
+            " Ticaret/Alışveriş Sonucu": "Bu alışverişte sizin için hiçbir hayır yoktur. Vazgeçin; aksi takdirde bunun olumsuz sonuçları peşinizi bırakmayacaktır."
+        },
+        {
+            "Sure Adı": "Maide",
+            "Sure No": 5,
+            "Ayet": 114,
+            "Sayfa": 127,
+            "İstihare Sonucu": "Mutlaka yap.",
+            "Genel Sonuç": "Çok hayırlıdır. Kesinlikle bu işe girişin. Yoksullara sadaka vermeyi ihmal etmeyin.",
+            "Evlilik Sonucu": "İnşallah hayırlı ve mübarektir. Kesinlikle bu evliliğe adım atın; her bakımdan uygun görünmektedir. Uygun miktarda sadaka vermeyi de unutmayın.",
+            " Ticaret/Alışveriş Sonucu": "Size güzel bir kazanç nasip olacaktır. Allah'a tevekkül ederek bu işe girişin ve yoksulları unutmayın."
+        },
+        {
+            "Sure Adı": "Enam",
+            "Sure No": 6,
+            "Ayet": 9,
+            "Sayfa": 129,
+            "İstihare Sonucu": "Yapma.",
+            "Genel Sonuç": "Hayırlı değildir. Bu iş çok fazla dedikoduya ve söylentiye yol açacaktır. Vazgeçin; sizin hayrınıza değildir.",
+            "Evlilik Sonucu": "Bu evlilikte o kadar çok sıkıntı çekersiniz ki hayattan bıkacak hâle gelirsiniz. Bu evliliğe girişmeyin; sizin için uygun değildir.",
+            " Ticaret/Alışveriş Sonucu": "Dış görünüşe fazla aldanmayın. Bu kesinlikle iyi bir alışveriş değildir. Ondan vazgeçin."
+        },
+        {
+            "Sure Adı": "Enam",
+            "Sure No": 6,
+            "Ayet": 28,
+            "Sayfa": 131,
+            "İstihare Sonucu": "Yapma.",
+            "Genel Sonuç": "Hayırlı değildir. Bu işte çok fazla yalan ve hile vardır. Bu işe girişmeyin; aksi hâlde pişman olursunuz.",
+            "Evlilik Sonucu": "Yalancı insanlarla karşı karşıyasınız. Bu evliliği kesinlikle yapmayın.",
+            " Ticaret/Alışveriş Sonucu": "Bu işte aldatma ve yalan görülmektedir. Sizi kandırıp zarara uğratırlar. Bu işten vazgeçin."
+        },
+        {
+            "Sure Adı": "Enam",
+            "Sure No": 6,
+            "Ayet": 45,
+            "Sayfa": 133,
+            "İstihare Sonucu": "Mutlaka yap.",
+            "Genel Sonuç": "Çok hayırlıdır. Bu işe girişin ve başlamadan önce sadaka verin.",
+            "Evlilik Sonucu": "İnşallah hayırlı ve mübarektir. Haset eden kimselere karşı dikkatli olun. Sadaka vermeyi unutmayın.",
+            " Ticaret/Alışveriş Sonucu": "İnşallah kazançlıdır. Elbette, başkaları engel olmazsa iyi kâr elde edersiniz. Sadaka verin ve Allah'a tevekkül ederek bu işe başlayın."
+        },
+        {
+            "Sure Adı": "Enam",
+            "Sure No": 6,
+            "Ayet": 60,
+            "Sayfa": 135,
+            "İstihare Sonucu": "Yapma.",
+            "Genel Sonuç": "Hayırlı değildir. Bu iş birçok sorun ve sıkıntı barındırmaktadır. Eğer yaparsanız çok büyük pişmanlık duyarsınız. Bu işten vazgeçin.",
+            "Evlilik Sonucu": "Zorlu ve sıkıntılarla dolu bir evlilik olur. Huzur ve rahat yüzü göremezsiniz. Bu evliliği aklınızdan çıkarın.",
+            " Ticaret/Alışveriş Sonucu": "Pek çok zahmet ve sıkıntı çektikten sonra sonunda yine zarar edersiniz. Bu işe girişmeyin."
+        },
+        {
+            "Sure Adı": "Enam",
+            "Sure No": 6,
+            "Ayet": 74,
+            "Sayfa": 137,
+            "İstihare Sonucu": "Yapma.",
+            "Genel Sonuç": "Hayırlı değildir. Sonu bozulma ve sapmaya çıkar. Bu işi mutlaka terk edin.",
+            "Evlilik Sonucu": "Bu evlilikte sizin için bir hayır yoktur. Eğer itibar kaybı ve sıkıntı arıyorsanız yapın; aksi hâlde vazgeçin.",
+            " Ticaret/Alışveriş Sonucu": "Bu işten hiçbir kazanç elde edemezsiniz. Üstelik insanların dedikodusuna ve itibarınızın zedelenmesine de sebep olur."
+        },
+        {
+            "Sure Adı": "Enam",
+            "Sure No": 6,
+            "Ayet": 91,
+            "Sayfa": 139,
+            "İstihare Sonucu": "Yapma.",
+            "Genel Sonuç": "Hayırlı değildir. Sizden bir şey gizleniyor; eğer bunu bilseydiniz bu işe asla girişmezdiniz. Bu işi terk edin.",
+            "Evlilik Sonucu": "Bu evlilikle ilgili sizden gizlenen bir durum vardır. Eğer bundan haberdar olsaydınız, kesinlikle bu evliliğe adım atmazdınız. Bu nedenle yapmayın.",
+            " Ticaret/Alışveriş Sonucu": "Bu alışveriş hile ve aldatmacayla iç içedir. Hile ve düzenbazlık bulunan bir işi yapmamak sevaba daha yakındır. Bu yüzden bu işe girişmeyin."
+        },
+        {
+            "Sure Adı": "Enam",
+            "Sure No": 6,
+            "Ayet": 102,
+            "Sayfa": 141,
+            "İstihare Sonucu": "Yap.",
+            "Genel Sonuç": "Hayırlıdır. Allah'a tevekkül ederek bu işe girişin ve dinî yükümlülüklerinizi (farz ibadetlerinizi) yerine getirmede özenli olun.",
+            "Evlilik Sonucu": "Hayırlıdır. Evliliğin başında konuşulması gereken bütün konuları açıkça konuşun, ardından Allah'a tevekkül ederek bu evliliğe adım atın.",
+            " Ticaret/Alışveriş Sonucu": "Allah'a tevekkül ederek ve dinî (şer'î) ölçülere riayet ederek bu işe girişin. İnşallah kazanç elde edersiniz."
+        },
+        {
+            "Sure Adı": "Enam",
+            "Sure No": 6,
+            "Ayet": 119,
+            "Sayfa": 143,
+            "İstihare Sonucu": "Yapma.",
+            "Genel Sonuç": "Hayırlı değildir. Bu iş sıkıntı ve musibetlere yol açar. Bu nedenle yapmayın.",
+            "Evlilik Sonucu": "Bu evlilik sizin için uygun değildir. Bundan vazgeçin ve Allah'a tevekkül edin. İnşallah size daha uygun bir eş nasip olacaktır.",
+            " Ticaret/Alışveriş Sonucu": "Pek çok sıkıntı yaşadıktan sonra maddi zarara uğrarsınız. Bu işe kesinlikle girişmeyin."
+        },
+        {
+            "Sure Adı": "Enam",
+            "Sure No": 6,
+            "Ayet": 132,
+            "Sayfa": 145,
+            "İstihare Sonucu": "Yapma.",
+            "Genel Sonuç": "Hayırlı değildir. Her ne kadar dış görünüşü cazip olsa da gerçekte öyle değildir. Bu işe girişmeyin.",
+            "Evlilik Sonucu": "Karşı tarafın gerçek hâli, sizin gördüğünüz gibi değildir. Bu evliliği yaparsanız çok büyük pişmanlık duyarsınız.",
+            " Ticaret/Alışveriş Sonucu": "Bu alışverişte sizin için hiçbir hayır yoktur. Bu işi yapmayın."
+        },
+        {
+            "Sure Adı": "Enam",
+            "Sure No": 6,
+            "Ayet": 143,
+            "Sayfa": 147,
+            "İstihare Sonucu": "Tercih sana kalmıştır.",
+            "Genel Sonuç": "Orta derecede hayırlıdır. İşin bütün yönlerini dikkatlice değerlendirdikten ve işin ehli kimselere danıştıktan sonra harekete geçin.",
+            "Evlilik Sonucu": "Orta derecede hayırlıdır. İyice araştırıp tüm yönleri ve meseleleri değerlendirin; konuşulması gereken her şeyi açıkça konuştuktan sonra evliliğe adım atın.",
+            " Ticaret/Alışveriş Sonucu": "İşin bütün yönleri dikkatlice incelenir ve tüm hususları kapsayan sağlam bir sözleşme yapılırsa hayırlıdır. Aksi takdirde uygun değildir."
+        },
+        {
+            "Sure Adı": "Enam ",
+            "Sure No": 6,
+            "Ayet": 152,
+            "Sayfa": 149,
+            "İstihare Sonucu": "Yapma.",
+            "Genel Sonuç": "Hayırlı değildir. Haram mala bulaşırsınız ve bunun etkisi bütün hayatınızı olumsuz yönde etkiler. Bu işi terk edin.",
+            "Evlilik Sonucu": "Gücünüzün üstünde sorumluluk ve yükümlülükler altına girersiniz. Bu evlilikten vazgeçin; aksi takdirde olumsuz sonuçlarla karşılaşabilirsiniz.",
+            " Ticaret/Alışveriş Sonucu": "Hayatınıza haram mal girer ve bu sizi felakete sürükler. Bu işi terk edin."
+        },
+        {
+            "Sure Adı": "Araf",
+            "Sure No": 7,
+            "Ayet": 1,
+            "Sayfa": 151,
+            "İstihare Sonucu": "Mutlaka yap.",
+            "Genel Sonuç": "Çok hayırlıdır. Korkmayın; Allah'a tevekkül ederek bu işe girişin.",
+            "Evlilik Sonucu": "İnşallah hayırlı ve mübarektir. Bu uygun bir evlilik adayıdır ve sizin için iyi bir hayat arkadaşı olacaktır.",
+            " Ticaret/Alışveriş Sonucu": "Allah'a tevekkül ederek bu işe girişin. İnşallah çok kazançlı ve faydalı olacaktır."
+        },
+        {
+            "Sure Adı": "Araf",
+            "Sure No": 7,
+            "Ayet": 23,
+            "Sayfa": 153,
+            "İstihare Sonucu": "Yapma.",
+            "Genel Sonuç": "Hayırlı değildir. Bu işi yapma; aksi takdirde zarara uğrayanlardan olursun.",
+            "Evlilik Sonucu": "Bu evlilik itibar kaybına yol açacaktır. Eğer bu evliliği yaparsan, her gün büyük pişmanlık duyarsın.",
+            " Ticaret/Alışveriş Sonucu": "Bu alışveriş yüzünden büyük maddi zarar edersin. Bundan vazgeçmezsen sıkıntı ve üzüntüyle karşılaşırsın."
+        },
+        {
+            "Sure Adı": "Araf",
+            "Sure No": 7,
+            "Ayet": 38,
+            "Sayfa": 155,
+            "İstihare Sonucu": "Yapma.",
+            "Genel Sonuç": "Çok kötüdür. Bu işi yapmayın; aksi hâlde çok büyük pişmanlık duyarsınız.",
+            "Evlilik Sonucu": "Kınama ve bedduaya maruz kalırsınız, ardından da pişman olursunuz. Bu nedenle bu düşünceyi şimdiden aklınızdan çıkarın.",
+            " Ticaret/Alışveriş Sonucu": "Bu alışverişten hiçbir kazanç elde edemezsiniz; aksine büyük bir maddi zarara uğrarsınız. Bu yüzden bu işi terk edin."
+        },
+        {
+            "Sure Adı": "Araf",
+            "Sure No": 7,
+            "Ayet": 52,
+            "Sayfa": 157,
+            "İstihare Sonucu": "Yap.",
+            "Genel Sonuç": "Hayırlıdır. Allah'a tevekkül ederek bu işe girişin. İnşallah bunun güzel sonucunu göreceksiniz.",
+            "Evlilik Sonucu": "Hayırlıdır. Ancak evliliğin en başında bütün önemli meseleleri açıkça konuşun. Araştırmanızı yaptıktan sonra Allah'a tevekkül ederek bu evliliğe adım atın.",
+            " Ticaret/Alışveriş Sonucu": "Hayırlıdır. Dinî (şer'î) ölçülere riayet ederek bu işe girişin."
+        },
+        {
+            "Sure Adı": "Araf",
+            "Sure No": 7,
+            "Ayet": 68,
+            "Sayfa": 159,
+            "İstihare Sonucu": "Yap.",
+            "Genel Sonuç": "Hayırlıdır. Dinî (şer'î) ölçülere riayet ederek ve Allah'a tevekkül ederek bu işe girişin.",
+            "Evlilik Sonucu": "Bu uygun bir evlilik adayıdır. Bazı sorunlar bulunsa da çözülebilir niteliktedir. Bu evliliğe adım atabilirsiniz.",
+            " Ticaret/Alışveriş Sonucu": "Hayırlıdır. Bir miktar emek ve zahmet gerektirse de sonunda güzel bir sonuç elde edersiniz."
+        },
+        {
+            "Sure Adı": "Araf",
+            "Sure No": 7,
+            "Ayet": 82,
+            "Sayfa": 161,
+            "İstihare Sonucu": "Yapma.",
+            "Genel Sonuç": "Hayırlı değildir. Çeşitli sorunlar, sıkıntılar ve eziyetlerle karşılaşırsınız. Bu işi terk edin.",
+            "Evlilik Sonucu": "Bu evlilik sizin için uygun değildir. Bu evliliği yapmayın; aksi hâlde pişman olursunuz.",
+            " Ticaret/Alışveriş Sonucu": "Çok fazla zahmet ve emek gerektirir. Sonunda ise buna değmediğini anlarsınız. Bu nedenle bu işe girişmeyin."
+        },
+        {
+            "Sure Adı": "Araf",
+            "Sure No": 7,
+            "Ayet": 96,
+            "Sayfa": 163,
+            "İstihare Sonucu": "Yapma.",
+            "Genel Sonuç": "Hayırlı değildir. Pek çok sorunla karşılaşırsınız ve sonunda insanların kınama ve ayıplamalarına maruz kalırsınız.",
+            "Evlilik Sonucu": "Bu evlilik adayı size uygun değildir ve size yakışacak bir eş değildir. Kendinizi boş yere oyalamamanız daha iyidir.",
+            " Ticaret/Alışveriş Sonucu": "Çekeceğiniz zahmet ve sıkıntılara değmez. Üstelik sizi aldatırlar ve büyük bir maddi zarara uğrarsınız. Bu işi yapmayın."
+        },
+        {
+            "Sure Adı": "Araf",
+            "Sure No": 7,
+            "Ayet": 121,
+            "Sayfa": 165,
+            "İstihare Sonucu": "Mutlaka yap.",
+            "Genel Sonuç": "Çok hayırlıdır. Allah'a tevekkül ederek bu işe girişin.",
+            "Evlilik Sonucu": "İnşallah hayırlı ve mübarektir. Bu evliliğe adım atın; Allah'ın izniyle mutlu ve huzurlu bir yuva kurarsınız.",
+            " Ticaret/Alışveriş Sonucu": "Bu iş kazançlı ve faydalıdır. Allah'a tevekkül ederek bu işe girişin."
+        },
+        {
+            "Sure Adı": "Araf",
+            "Sure No": 7,
+            "Ayet": 138,
+            "Sayfa": 167,
+            "İstihare Sonucu": "Yapma.",
+            "Genel Sonuç": "Hayırlı değildir. Bilgisiz ve anlayışsız bir grupla karşılaşırsınız ve bu işe giriştiğinize çok büyük pişmanlık duyarsınız.",
+            "Evlilik Sonucu": "Bu evlilik adayı size kesinlikle uygun değildir ve size yakışacak biri değildir. Bu düşünceyi aklınızdan çıkarın.",
+            " Ticaret/Alışveriş Sonucu": "Büyük emek ve zahmetten sonra maddi zarara uğrarsınız. Bu işe girişmeyin."
+        },
+        {
+            "Sure Adı": "Araf",
+            "Sure No": 7,
+            "Ayet": 150,
+            "Sayfa": 169,
+            "İstihare Sonucu": "Yapma.",
+            "Genel Sonuç": "Hayırlı değildir. Ne kadar uğraşırsanız uğraşın, istediğiniz sonuca ulaşamazsınız. Bu işi terk edin.",
+            "Evlilik Sonucu": "Karşı taraf kararsız ve değişken mizaçlı kimselerdir; sürekli fikir ve davranış değiştirirler. Bu evlilikten vazgeçin; size mutsuzluktan başka bir şey getirmez.",
+            " Ticaret/Alışveriş Sonucu": "Çok emek verdikten sonra yine de zarara uğrar ve aldanmış olursunuz. Bu nedenle bu düşünceyi şimdiden aklınızdan çıkarın."
+        },
+        {
+            "Sure Adı": "Araf",
+            "Sure No": 7,
+            "Ayet": 160,
+            "Sayfa": 171,
+            "İstihare Sonucu": "Yapma.",
+            "Genel Sonuç": "Hayırlı değildir. Çok fazla emek ve zahmet verseniz bile yine de istediğiniz sonuca ulaşamazsınız. Bu işi terk edin.",
+            "Evlilik Sonucu": "Karşı taraf aşırı beklentili ve kıymet bilmeyen kimselerdir. Size ve ailenize uygun değillerdir. Bu evliliği kesinlikle yapmayın.",
+            " Ticaret/Alışveriş Sonucu": "Kısacası, çok fazla emek ve zahmet; fakat hiçbir kazanç yoktur. Bu nedenle bu işe girişmeyin."
+        },
+        {
+            "Sure Adı": "Araf",
+            "Sure No": 7,
+            "Ayet": 171,
+            "Sayfa": 173,
+            "İstihare Sonucu": "Yapma.",
+            "Genel Sonuç": "Hayırlı değildir. Boşuna emek ve faydasız çaba harcarsınız; sonunda da istediğiniz sonuca ulaşamazsınız. Bu işi terk edin.",
+            "Evlilik Sonucu": "Karşı taraf çok fazla beklenti içinde olan insanlardır. Siz çok çaba göstermenize rağmen sonu boşanma ve ayrılıkla biter; üstelik bunun ardından birçok dedikodu ve söylenti çıkar. Bu evlilikten vazgeçin.",
+            " Ticaret/Alışveriş Sonucu": "Çok uğraşırsınız; bilgisiz ve yalancı insanlarla karşılaşırsınız. Sonunda hem maddi zarar edersiniz hem de büyük bir strese girersiniz. Bu işi yapmayın."
+        },
+        {
+            "Sure Adı": "Araf",
+            "Sure No": 7,
+            "Ayet": 188,
+            "Sayfa": 175,
+            "İstihare Sonucu": "Yapma.",
+            "Genel Sonuç": "Hayırlı değildir. Zarar ve sıkıntıya uğrarsınız; ardından da büyük bir pişmanlık yaşarsınız. Ancak o pişmanlığın artık size bir faydası olmaz.",
+            "Evlilik Sonucu": "Bu evlilik sizin için uygun değildir. Sıkıntı ve eziyet görürsünüz; sonunda iş ayrılığa kadar varır. Bu evliliği yapmayın.",
+            " Ticaret/Alışveriş Sonucu": "Bu alışveriş sizin için uygun değildir. Maddi zarar ve kayıp yaşarsınız. Bu işi terk edin."
+        },
+        {
+            "Sure Adı": "Enfal",
+            "Sure No": 8,
+            "Ayet": 1,
+            "Sayfa": 177,
+            "İstihare Sonucu": "Yap.",
+            "Genel Sonuç": "Hayırlıdır. Allah'a tevekkül ederek bu işe girişin; inşallah hedeflerinize ulaşırsınız.",
+            "Evlilik Sonucu": "Bu uygun bir evlilik adayıdır. Dinî (şer'î) ölçülere riayet ederek bu evliliğe adım atın. İnşallah mutlu bir yuva kurarsınız.",
+            " Ticaret/Alışveriş Sonucu": "Bu, kazançlı ve kârlı bir alışveriştir. Dinî (şer'î) ölçülere riayet ettiğiniz sürece zarar görmezsiniz."
+        },
+        {
+            "Sure Adı": "Enfal",
+            "Sure No": 8,
+            "Ayet": 17,
+            "Sayfa": 179,
+            "İstihare Sonucu": "Yap.",
+            "Genel Sonuç": "Hayırlıdır. Eğer Allah'a dayanıp güvenirseniz, Allah da size yardım edecektir.",
+            "Evlilik Sonucu": "Bu uygun bir evlilik adayıdır. Güzel bir evlilik hayatınız olacaktır. Her durumda dinî (şer'î) ölçülere riayet edin; Allah da size yardım edecektir.",
+            " Ticaret/Alışveriş Sonucu": "Allah'a tevekkül ederek ve dinî (şer'î) ölçülere riayet ederek bu işe girişin. İnşallah güzel bir kazanç elde edersiniz."
+        },
+        {
+            "Sure Adı": "Enfal",
+            "Sure No": 8,
+            "Ayet": 34,
+            "Sayfa": 181,
+            "İstihare Sonucu": "Yapma.",
+            "Genel Sonuç": "Hayırlı değildir. Bu işi yapmayın; aksi hâlde pişman olursunuz.",
+            "Evlilik Sonucu": "Bu evlilikte sizin için bir hayır yoktur. Hemen her konuda aranızda anlaşmazlık ve sorun yaşanacaktır. Bu evliliği yapmayın.",
+            " Ticaret/Alışveriş Sonucu": "Bu alışverişte harama düşersiniz ve sizin için çeşitli sorunlar ortaya çıkar. Bu işi terk edin."
+        },
+        {
+            "Sure Adı": "Enfal",
+            "Sure No": 8,
+            "Ayet": 46,
+            "Sayfa": 183,
+            "İstihare Sonucu": "Yapma.",
+            "Genel Sonuç": "Hayırlı değildir. Bu iş anlaşmazlık ve ayrılıklara sebep olur; ayrıca hedeflerinize ulaşamayıp başarısız olursunuz.",
+            "Evlilik Sonucu": "Bu evlilik boşanma ve ayrılıkla sonuçlanır. Bu evliliği yapmayın. Sabredin; inşallah önünüze daha hayırlı bir kısmet çıkacaktır.",
+            " Ticaret/Alışveriş Sonucu": "Hayırlı değildir. Zarar edersiniz. Sabredin; inşallah size daha iyi ve daha kazançlı bir fırsat teklif edilecektir."
+        },
+        {
+            "Sure Adı": "Enfal",
+            "Sure No": 8,
+            "Ayet": 62,
+            "Sayfa": 185,
+            "İstihare Sonucu": "Yap.",
+            "Genel Sonuç": "Hayırlıdır. Allah sizin destekçinizdir. Endişe etmeyin ve bu işe girişin.",
+            "Evlilik Sonucu": "Hayırlıdır. Allah'a tevekkül ederek bu evliliğe adım atın. İnşallah sonunuz hayırlı olur ve mutlu bir yuva kurarsınız.",
+            " Ticaret/Alışveriş Sonucu": "İnşallah Allah'ın yardımıyla bu alışveriş çok kazançlı olacaktır. Bu işe girişebilirsiniz."
+        },
+        {
+            "Sure Adı": "Tevbe",
+            "Sure No": 9,
+            "Ayet": 1,
+            "Sayfa": 187,
+            "İstihare Sonucu": "Asla yapma.",
+            "Genel Sonuç": "Çok kötü ve hayırsızdır. Kesinlikle bu işe girişmeyin.",
+            "Evlilik Sonucu": "Çok olumsuzdur. Bu evlilikin sonu boşanma ve ayrılığa varır. Kesinlikle bu evliliğe adım atmayın.",
+            " Ticaret/Alışveriş Sonucu": "Hem maddi kayıp hem de itibar zedelenmesi riski taşımaktadır. Bu işi mutlaka terk edin."
+        },
+        {
+            "Sure Adı": "Tevbe",
+            "Sure No": 9,
+            "Ayet": 14,
+            "Sayfa": 189,
+            "İstihare Sonucu": "Yap.",
+            "Genel Sonuç": "Hayırlıdır. Allah'a tevekkül ederek bu işe girişin.",
+            "Evlilik Sonucu": "Hayırlıdır. Karşılaşabileceğiniz zorluklardan korkmayın ve bu evliliğe adım atın. İnşallah mutlu ve huzurlu bir hayatınız olur.",
+            " Ticaret/Alışveriş Sonucu": "Bu alışveriş kazançlı olacaktır. Allah'a tevekkül ederek bu işe girişin; inşallah başarıya ulaşırsınız."
+        },
+        {
+            "Sure Adı": "Tevbe",
+            "Sure No": 9,
+            "Ayet": 27,
+            "Sayfa": 191,
+            "İstihare Sonucu": "Mutlaka yap.",
+            "Genel Sonuç": "Çok hayırlıdır. Allah'a tevekkül ederek bu işe girişin.",
+            "Evlilik Sonucu": "İnşallah hayırlı ve mübarektir. Dinî (şer'î) ölçülere uymaya özen gösterin.",
+            " Ticaret/Alışveriş Sonucu": "Bu alışveriş oldukça kazançlıdır; ancak bunun için dinî (şer'î) ölçülere riayet etmeniz şarttır."
+        },
+        {
+            "Sure Adı": "Tevbe",
+            "Sure No": 9,
+            "Ayet": 37,
+            "Sayfa": 193,
+            "İstihare Sonucu": "Asla yapma.",
+            "Genel Sonuç": "Hayırlı değildir. Bu işten vazgeçin; sizin yararınıza olan budur.",
+            "Evlilik Sonucu": "Kendinizi kandırmayın. Bu evlilik adayı size uygun değildir. Bu düşünceden vazgeçin.",
+            " Ticaret/Alışveriş Sonucu": "Bu işten hiçbir kazanç elde edemezsiniz; aksine zarar görme ihtimali vardır. Bu nedenle bu işe girişmeyin."
+        },
+        {
+            "Sure Adı": "Tevbe",
+            "Sure No": 9,
+            "Ayet": 48,
+            "Sayfa": 195,
+            "İstihare Sonucu": "Yapma.",
+            "Genel Sonuç": "Hayırlı değildir. Sıkıntı ve zorluklarla karşılaşırsınız; bu işte sizin için hiçbir hayır yoktur.",
+            "Evlilik Sonucu": "Dış görünüşe aldanmayın. Bu evlilik adayı kesinlikle sizin için uygun değildir.",
+            " Ticaret/Alışveriş Sonucu": "Bu işle ilgili bazı hususlar sizden gizlenmektedir. Eğer bunları bilseydiniz, bu işe kesinlikle girişmezdiniz."
+        },
+        {
+            "Sure Adı": "Tevbe",
+            "Sure No": 9,
+            "Ayet": 62,
+            "Sayfa": 197,
+            "İstihare Sonucu": "Yapma.",
+            "Genel Sonuç": "Hayırlı değildir. Bu iş, sizin gördüğünüz gibi değildir; görünenin arkasında farklı gerçekler vardır. Bu nedenle mutlaka vazgeçin.",
+            "Evlilik Sonucu": "Bu evlilik adayı size uygun değildir ve size yakışacak biri değildir. Bu evlilikten vazgeçin.",
+            " Ticaret/Alışveriş Sonucu": "Bu alışverişte sizin için hiçbir kazanç yoktur. Üstelik farkında olmadan harama da düşebilirsiniz. Bu nedenle bu işe girişmeyin"
+        },
+        {
+            "Sure Adı": "Tevbe",
+            "Sure No": 9,
+            "Ayet": 73,
+            "Sayfa": 199,
+            "İstihare Sonucu": "Yapma.",
+            "Genel Sonuç": "Hayırlı değildir. Kesinlikle bu işi yapmayın; aksi hâlde çok büyük pişmanlık duyarsınız.",
+            "Evlilik Sonucu": "Bu evlilik adayı kesinlikle uygun değildir. Mutlaka bu evlilikten vazgeçin.",
+            " Ticaret/Alışveriş Sonucu": "Bu alışverişten büyük maddi zarar görürsünüz. Bu işi terk edin."
+        },
+        {
+            "Sure Adı": "Tevbe",
+            "Sure No": 9,
+            "Ayet": 87,
+            "Sayfa": 201,
+            "İstihare Sonucu": "Yapma.",
+            "Genel Sonuç": "Hayırlı değildir. Bu işi terk etmek, dinen daha faziletli ve sevaba daha yakındır.",
+            "Evlilik Sonucu": "Çok uygun bir evlilik adayı değildir. Huzurlu ve mutlu bir evlilik hayatı yaşamanız beklenmez.",
+            " Ticaret/Alışveriş Sonucu": "Bu işe girişmemeniz daha iyidir. Çok emek harcamanıza rağmen kayda değer bir kazanç elde edemezsiniz."
+        },
+        {
+            "Sure Adı": "Tevbe",
+            "Sure No": 9,
+            "Ayet": 100,
+            "Sayfa": 203,
+            "İstihare Sonucu": "Mutlaka yap.",
+            "Genel Sonuç": "Çok hayırlıdır. Allah'a tevekkül ederek bu işe girişin.",
+            "Evlilik Sonucu": "İnşallah hayırlı ve mübarektir. Hayatta bazı zorluklar da mutluluğun ve evlilik hayatının doğal bir parçasıdır. Bu evliliğe adım atabilirsiniz.",
+            " Ticaret/Alışveriş Sonucu": "İnşallah güzel bir kazanç elde edersiniz; ancak bunun için dinî (şer'î) ölçülere riayet etmeniz şarttır."
+        },
+        {
+            "Sure Adı": "Tevbe",
+            "Sure No": 9,
+            "Ayet": 112,
+            "Sayfa": 205,
+            "İstihare Sonucu": "Yap.",
+            "Genel Sonuç": "Hayırlıdır. Ancak dinî (şer'î) ölçülere riayet etmeniz şartıyla bu işe girişin.",
+            "Evlilik Sonucu": "Hayırlıdır. Ancak bu süreçte günaha düşmemeye dikkat etmeniz şarttır.",
+            " Ticaret/Alışveriş Sonucu": "Hayırlıdır. Fakat dinî (şer'î) ölçülere uygun hareket etmeniz şartıyla bu işe girişebilirsiniz."
+        },
+        {
+            "Sure Adı": "Tevbe",
+            "Sure No": 9,
+            "Ayet": 123,
+            "Sayfa": 207,
+            "İstihare Sonucu": "Yap.",
+            "Genel Sonuç": "Hayırlıdır. Azim ve kararlılıkla hareket edin; başarılı olacaksınız.",
+            "Evlilik Sonucu": "Hayırlıdır. Allah'a tevekkül ederek ve dinî (şer'î) ölçülere riayet ederek bu evliliğe adım atın. Ancak ileride sorun yaşamamak için evlilikten önce konuşulması gereken bütün konuları açıkça konuşun.",
+            " Ticaret/Alışveriş Sonucu": "Bu işe başlamadan önce bütün yönlerini dikkatlice değerlendirin. Ardından kararlı ve sağlam bir şekilde harekete geçin; korku ve tereddüdü bir kenara bırakın."
+        },
+        {
+            "Sure Adı": "Yunus",
+            "Sure No": 10,
+            "Ayet": 7,
+            "Sayfa": 209,
+            "İstihare Sonucu": "Yapma.",
+            "Genel Sonuç": "Hayırlı değildir. Bu işe girişmeyin; aksi takdirde pişman olursunuz.",
+            "Evlilik Sonucu": "Bu evlilik adayı size uygun değildir ve size yakışacak biri değildir. Sizi dinî değerlerden uzaklaştırabilir ve harama düşmenize sebep olabilir.",
+            " Ticaret/Alışveriş Sonucu": "Bu işte harama düşme tehlikesi vardır. Bu nedenle bu işi terk edin."
+        },
+        {
+            "Sure Adı": "Yunus",
+            "Sure No": 10,
+            "Ayet": 21,
+            "Sayfa": 211,
+            "İstihare Sonucu": "Yapma.",
+            "Genel Sonuç": "Hayırlı değildir. Bu işte hile ve düzen vardır. Bu nedenle vazgeçin.",
+            "Evlilik Sonucu": "Sizi aldatmaya çalışıyorlar. Bu evlilik sizin hayrınıza değildir; vazgeçin.",
+            " Ticaret/Alışveriş Sonucu": "Bu işte aldatma ve hile söz konusudur. Bu işe girişirseniz zarar görürsünüz. Bu nedenle yapmayın."
+        },
+        {
+            "Sure Adı": "Yunus",
+            "Sure No": 10,
+            "Ayet": 34,
+            "Sayfa": 213,
+            "İstihare Sonucu": "Yapma.",
+            "Genel Sonuç": "Hayırlı değildir. Bu işte hile ve tuzak vardır. Bu nedenle vazgeçin.",
+            "Evlilik Sonucu": "Bu evlilik kesinlikle sizin hayrınıza değildir. Öyle sorunlarla karşılaşırsınız ki hayattan bıkacak hâle gelirsiniz. Bu evlilikten vazgeçin.",
+            " Ticaret/Alışveriş Sonucu": "Bu işte aldatma ve hile vardır. Bu işe girişmeyin; aksi takdirde pişman olursunuz."
+        },
+        {
+            "Sure Adı": "Yunus",
+            "Sure No": 10,
+            "Ayet": 54,
+            "Sayfa": 215,
+            "İstihare Sonucu": "Yapma.",
+            "Genel Sonuç": "Hayırlı değildir. Kesinlikle bu işe girişmeyin; aksi hâlde büyük pişmanlık duyarsınız.",
+            "Evlilik Sonucu": "Bu evliliği yaparsanız ömür boyu sıkıntı ve acı çekersiniz; sonradan da bunu telafi etmek kolay olmaz.",
+            " Ticaret/Alışveriş Sonucu": "Büyük maddi zarara uğrarsınız. Bu işi mutlaka terk edin."
+        },
+        {
+            "Sure Adı": "Yunus",
+            "Sure No": 10,
+            "Ayet": 71,
+            "Sayfa": 217,
+            "İstihare Sonucu": "Yap.",
+            "Genel Sonuç": "Hayırlıdır. Allah'a tevekkül ederek ve istişarede bulunarak bu işe girişin.",
+            "Evlilik Sonucu": "Bazı zorluklarla karşılaşabilirsiniz; ancak inşallah sonu hayırlı olacaktır. Evlilikten önce konuşulması gereken bütün konuları açıkça konuşup netleştirin.",
+            " Ticaret/Alışveriş Sonucu": "Bir miktar sıkıntı ve zahmet yaşayabilirsiniz. İşin ehli kimselere danışarak hareket edin; inşallah kazanç elde edersiniz."
+        },
+        {
+            "Sure Adı": "Yunus",
+            "Sure No": 10,
+            "Ayet": 89,
+            "Sayfa": 219,
+            "İstihare Sonucu": "Yap.",
+            "Genel Sonuç": "Hayırlıdır. Allah'a tevekkül ederek bu işe girişin.",
+            "Evlilik Sonucu": "İnşallah hayırlı ve mübarektir. Dinî (şer'î) ölçülere riayet ederek bu evliliğe adım atın ve insanların sözlerine aldırmayın.",
+            " Ticaret/Alışveriş Sonucu": "Bu iyi ve kazançlı bir alışveriştir. Ancak harama bulaşmamak için dinî (şer'î) ölçülere riayet ederek hareket edin."
+        },
+        {
+            "Sure Adı": "Yunus",
+            "Sure No": 10,
+            "Ayet": 107,
+            "Sayfa": 221,
+            "İstihare Sonucu": "Yap.",
+            "Genel Sonuç": "Hayırlıdır. Allah'a tevekkül ederek bu işe girişin.",
+            "Evlilik Sonucu": "Allah'a tevekkül edin ve dinî (şer'î) ölçülere riayet ederek bu evliliğe adım atın. Başkalarının sözlerine ve olumsuz yorumlarına aldırmayın.",
+            " Ticaret/Alışveriş Sonucu": "Allah'a tevekkül ederek bu işe girişin. Ancak harama düşmemeye çok dikkat edin; aksi takdirde zarara uğrarsınız."
+        },
+        {
+            "Sure Adı": "Hud",
+            "Sure No": 11,
+            "Ayet": 13,
+            "Sayfa": 223,
+            "İstihare Sonucu": "Yapma.",
+            "Genel Sonuç": "Hayırlı değildir. Kesinlikle bu işe girişmeyin; aksi hâlde büyük pişmanlık duyarsınız.",
+            "Evlilik Sonucu": "Bu evlilik sizin için uygun değildir. Bu düşünceden vazgeçin; aksi takdirde bir ömür sıkıntı ve zorluk çekersiniz.",
+            " Ticaret/Alışveriş Sonucu": "Bu alışverişte sizin için bir hayır yoktur. Bu işi terk edin."
+        },
+        {
+            "Sure Adı": "Hud",
+            "Sure No": 11,
+            "Ayet": 29,
+            "Sayfa": 225,
+            "İstihare Sonucu": "Yapma.",
+            "Genel Sonuç": "Hayırlı değildir. Harcayacağınız emek boşa gidecektir. Bu nedenle bu işi terk edin.",
+            "Evlilik Sonucu": "Bilgisiz ve anlayışsız kimselerle karşılaşırsınız. Zor ve meşakkatli bir evlilik hayatınız olur. Bu evliliği yapmayın.",
+            " Ticaret/Alışveriş Sonucu": "Çok emek harcarsınız ama elde edeceğiniz kazanç az olur. Bu kadar zahmete değmez. Bu işi terk edin."
+        },
+        {
+            "Sure Adı": "Hud",
+            "Sure No": 11,
+            "Ayet": 46,
+            "Sayfa": 227,
+            "İstihare Sonucu": "Yapma.",
+            "Genel Sonuç": "Hayırlı değildir. İtibar ve şeref açısından risk taşımaktadır. Bu nedenle vazgeçin.",
+            "Evlilik Sonucu": "Birbirinize denk ve uyumlu değilsiniz. Bu uyumsuzluklar sonunda boşanma ve ayrılıkla sonuçlanacaktır.",
+            " Ticaret/Alışveriş Sonucu": "Bu iş hem maddi kayıp hem de itibar zedelenmesi riski taşımaktadır. Bu işe girişmeyin; aksi hâlde pişman olursunuz."
+        },
+        {
+            "Sure Adı": "Hud",
+            "Sure No": 11,
+            "Ayet": 63,
+            "Sayfa": 229,
+            "İstihare Sonucu": "Asla yapma.",
+            "Genel Sonuç": "Çok olumsuzdur. Bilgisiz ve anlayışsız kişilerle karşılaşırsınız; ayrıca itibarınızın zedelenmesi riskiyle karşı karşıya kalırsınız.",
+            "Evlilik Sonucu": "Kesinlikle bu evliliğe adım atmayın. Aksi hâlde büyük sıkıntılar yaşar, ömrünüzü hasret ve pişmanlık içinde geçirirsiniz",
+            " Ticaret/Alışveriş Sonucu": "Büyük maddi zarar ve kayıplar yaşarsınız. Bu işi mutlaka terk edin."
+        },
+        {
+            "Sure Adı": "Hud",
+            "Sure No": 11,
+            "Ayet": 82,
+            "Sayfa": 231,
+            "İstihare Sonucu": "Asla yapma.",
+            "Genel Sonuç": "Çok olumsuzdur. Kesinlikle vazgeçin; çünkü hem can güvenliği hem de itibar açısından risk taşımaktadır.",
+            "Evlilik Sonucu": "Mutlaka bu evlilikten vazgeçin. Bu evlilik size mutsuzluk ve sıkıntıdan başka bir şey getirmez.",
+            " Ticaret/Alışveriş Sonucu": "Bu iş hem maddi kayıp hem de itibar zedelenmesi riski taşımaktadır. Bu nedenle kesinlikle yapmayın."
+        },
+        {
+            "Sure Adı": "Hud",
+            "Sure No": 11,
+            "Ayet": 98,
+            "Sayfa": 233,
+            "İstihare Sonucu": "Asla yapma.",
+            "Genel Sonuç": "Çok hayırsızdır. Kesinlikle vazgeçin; çünkü bu yolun sonu pişmanlık ve nedamet olacaktır.",
+            "Evlilik Sonucu": "Kesinlikle bu evliliğe adım atmayın. Çok büyük pişmanlık duyarsınız ve sizi oldukça zor bir evlilik hayatı bekler.",
+            " Ticaret/Alışveriş Sonucu": "Büyük maddi zarar ve kayıplar yaşarsınız. Bu işi mutlaka terk edin."
+        },
+        {
+            "Sure Adı": "Hud",
+            "Sure No": 11,
+            "Ayet": 118,
+            "Sayfa": 235,
+            "İstihare Sonucu": "Yapma.",
+            "Genel Sonuç": "Hayırlı değildir. Çok sayıda anlaşmazlık ve sorunla karşılaşırsınız. Bu nedenle vazgeçin.",
+            "Evlilik Sonucu": "Hayırlı değildir. Evlilik hayatınızda çok fazla anlaşmazlık yaşanır; sıkıntı ve eziyet görürsünüz. Bu evlilikten vazgeçin.",
+            " Ticaret/Alışveriş Sonucu": "Bu işte çeşitli anlaşmazlıklar ortaya çıkar ve sonunda zarara uğrayan siz olursunuz. Bu işi terk edin."
+        },
+        {
+            "Sure Adı": "Yusuf",
+            "Sure No": 12,
+            "Ayet": 15,
+            "Sayfa": 237,
+            "İstihare Sonucu": "Yapma.",
+            "Genel Sonuç": "Hayırlı değildir. Bilgisiz ve anlayışsız kişilerle karşılaşırsınız; bu yüzden sıkıntı ve eziyet çekersiniz.",
+            "Evlilik Sonucu": "Hayırlı değildir. Bu evlilik adayı size uygun değildir. Sizden bazı önemli şeyleri gizliyorlar. Bu nedenle mutlaka vazgeçin.",
+            " Ticaret/Alışveriş Sonucu": "Hayırlı değildir. Sizi aldatırlar ve bunun sonucunda maddi zarara uğrarsınız. Bu işi mutlaka terk edin."
+        },
+        {
+            "Sure Adı": "Yusuf",
+            "Sure No": 12,
+            "Ayet": 31,
+            "Sayfa": 239,
+            "İstihare Sonucu": "Mutlaka yap.",
+            "Genel Sonuç": "Çok hayırlıdır. Başlangıçta yaptığınız işi eleştiren kişiler bile daha sonra sizi takdir edeceklerdir.",
+            "Evlilik Sonucu": "Bu uygun bir evlilik adayıdır. Karşılaşacağınız zorluk ve sıkıntılardan korkmayın; çünkü bu evlilik buna değecektir.",
+            " Ticaret/Alışveriş Sonucu": "Bazı zorluklar olacaktır; ancak elde edeceğiniz kazanç ve fayda yanında bunlar önemsiz kalacaktır."
+        },
+        {
+            "Sure Adı": "Yusuf",
+            "Sure No": 12,
+            "Ayet": 44,
+            "Sayfa": 241,
+            "İstihare Sonucu": "Yap.",
+            "Genel Sonuç": "Hayırlıdır. Biraz sabır ve metanet gösterirseniz, istediğiniz sonuca ulaşırsınız.",
+            "Evlilik Sonucu": "Güzel ve huzurlu bir evlilik hayatınız olacaktır. Allah'a tevekkül ederek bu evliliğe adım atın.",
+            " Ticaret/Alışveriş Sonucu": "Hayırlıdır. İnşallah bu alışverişten güzel bir kazanç elde edersiniz."
+        },
+        {
+            "Sure Adı": "Yusuf",
+            "Sure No": 12,
+            "Ayet": 79,
+            "Sayfa": 245,
+            "İstihare Sonucu": "Yap.",
+            "Genel Sonuç": "Hayırlıdır. Ancak bazı zorluklar ve zahmetler olacaktır. Hatta hakkınızda dedikodular veya söylentiler çıkabilir. Buna rağmen sonunda iyi bir sonuca ulaşırsınız.",
+            "Evlilik Sonucu": "Hayırlıdır; fakat emek ve sabır gerektirir. Bazı konularda anlayışlı olmanız ve geniş bir hoşgörü göstermeniz gerekir.",
+            " Ticaret/Alışveriş Sonucu": "Bu süreçte bazı sorunlarla karşılaşabilirsiniz; ancak sonunda olumlu ve kazançlı bir sonuca ulaşırsınız."
+        },
+        {
+            "Sure Adı": "Yusuf",
+            "Sure No": 12,
+            "Ayet": 96,
+            "Sayfa": 247,
+            "İstihare Sonucu": "Yap.",
+            "Genel Sonuç": "Hayırlıdır. Sevinç ve mutluluğa vesile olacaktır. Sadaka vermeyi ihmal etmeyin.",
+            "Evlilik Sonucu": "Hayırlıdır. İnşallah mübarek olur. Sadaka vermeyi unutmayın.",
+            " Ticaret/Alışveriş Sonucu": "Hayırlıdır. Güzel bir kazanç elde edersiniz. Allah'a tevekkül ederek bu işe girişin."
+        },
+        {
+            "Sure Adı": "Rad",
+            "Sure No": 13,
+            "Ayet": 1,
+            "Sayfa": 249,
+            "İstihare Sonucu": "Mutlaka yap.",
+            "Genel Sonuç": "Çok hayırlıdır. Ancak meselelerinizi ve planlarınızı herkese anlatmamanız şarttır; çünkü bazı insanlar bunu hazmedemez ve kıskançlık gösterebilir.",
+            "Evlilik Sonucu": "Çok hayırlıdır. Yukarıdaki tavsiyeleri ciddiye alın ve sadaka vermeyi ihmal etmeyin.",
+            " Ticaret/Alışveriş Sonucu": "Bu oldukça kazançlı bir alışveriştir. Ancak işe başlamadan önce bu işle ilgili sırlarınızı ve planlarınızı kimseyle paylaşmayın."
+        },
+        {
+            "Sure Adı": "Rad",
+            "Sure No": 13,
+            "Ayet": 14,
+            "Sayfa": 251,
+            "İstihare Sonucu": "Yapma.",
+            "Genel Sonuç": "Hayırlı değildir. Görünen güzellikleri bir seraptan ibarettir. Mutlaka vazgeçin; aksi hâlde pişman olursunuz.",
+            "Evlilik Sonucu": "Dış görünüşe ve görünen güzelliklere aldanmayın. Bu evlilik sizin için uygun değildir.",
+            " Ticaret/Alışveriş Sonucu": "Hayırlı değildir. Bu işte sizin için bir kazanç yoktur."
+        },
+        {
+            "Sure Adı": "Rad",
+            "Sure No": 13,
+            "Ayet": 29,
+            "Sayfa": 253,
+            "İstihare Sonucu": "Mutlaka yap.",
+            "Genel Sonuç": "Çok hayırlıdır. Allah'a tevekkül ederek bu işe girişin. İnşallah bütün hedeflerinize ulaşırsınız.",
+            "Evlilik Sonucu": "İnşallah hayırlı ve mübarektir. Bu evliliğe gönül rahatlığıyla adım atabilirsiniz.",
+            " Ticaret/Alışveriş Sonucu": "Güzel bir kazanç elde edersiniz. Allah'a tevekkül ederek bu işe girişin."
+        },
+        {
+            "Sure Adı": "Rad",
+            "Sure No": 13,
+            "Ayet": 43,
+            "Sayfa": 255,
+            "İstihare Sonucu": "Mutlaka yap.",
+            "Genel Sonuç": "Çok hayırlıdır. Yapılan itirazlara ve olumsuz eleştirilere aldırmayın; kendi işinizi kararlılıkla sürdürün.",
+            "Evlilik Sonucu": "Çok hayırlıdır. Allah'a tevekkül ederek bu evliliğe adım atın.",
+            " Ticaret/Alışveriş Sonucu": "Önce işin ehli ve tecrübeli kimselere danışın, ardından bu işe girişin. Böylece inşallah iyi bir kazanç elde edersiniz."
+        },
+        {
+            "Sure Adı": "İbrahim",
+            "Sure No": 14,
+            "Ayet": 11,
+            "Sayfa": 257,
+            "İstihare Sonucu": "Mutlaka yap.",
+            "Genel Sonuç": "Çok hayırlıdır. Allah'a tevekkül ederek bu işe girişin.",
+            "Evlilik Sonucu": "Bu uygun bir evlilik adayıdır. Bu evliliğe adım atın; inşallah sonunuz hayırlı olur ve mutlu bir hayat yaşarsınız.",
+            " Ticaret/Alışveriş Sonucu": "Allah'a tevekkül ederek bu işe girişin. İnşallah güzel bir kazanç elde edersiniz."
+        },
+        {
+            "Sure Adı": "İbrahim",
+            "Sure No": 14,
+            "Ayet": 25,
+            "Sayfa": 259,
+            "İstihare Sonucu": "Yap.",
+            "Genel Sonuç": "Hayırlıdır. Bu işe girişin; inşallah hedeflerinize ulaşırsınız.",
+            "Evlilik Sonucu": "Bu evliliğe adım atabilirsiniz. Ancak ileride sorun yaşanmaması için önceden konuşulması gereken bütün konuları açıkça konuşup netleştirin.",
+            " Ticaret/Alışveriş Sonucu": "Bütün yönlerini dikkatlice değerlendirerek bu işe girişin. İnşallah güzel bir kazanç elde edersiniz."
+        },
+        {
+            "Sure Adı": "İbrahim",
+            "Sure No": 14,
+            "Ayet": 43,
+            "Sayfa": 261,
+            "İstihare Sonucu": "Asla yapma.",
+            "Genel Sonuç": "Çok hayırsızdır. Kesinlikle bu işe girişmeyin; aksi takdirde büyük bir pişmanlık yaşarsınız.",
+            "Evlilik Sonucu": "Bu düşünceyi aklınızdan çıkarın. Bu evlilik kesinlikle sizin hayrınıza değildir. Böyle bir evlilik yapmanız hâlinde mutsuz ve sıkıntılı bir hayat yaşarsınız.",
+            " Ticaret/Alışveriş Sonucu": "Bu işe girişirseniz çok büyük maddi zarar görürsünüz. Kesinlikle yapmayın."
+        },
+        {
+            "Sure Adı": "Hicr",
+            "Sure No": 15,
+            "Ayet": 16,
+            "Sayfa": 263,
+            "İstihare Sonucu": "Yap.",
+            "Genel Sonuç": "Hayırlıdır. Allah'a tevekkül ederek bu işe girişin; bu iş sizin için başarı ve itibar vesilesi olacaktır.",
+            "Evlilik Sonucu": "Bu uygun bir evlilik adayıdır. Allah'a tevekkül ederek bu evliliğe adım atın. Sadaka vermeyi ihmal etmeyin.",
+            " Ticaret/Alışveriş Sonucu": "Güzel bir kazanç elde edersiniz. Ancak mutlaka sadaka vermeyi unutmayın."
+        },
+        {
+            "Sure Adı": "Hicr",
+            "Sure No": 15,
+            "Ayet": 52,
+            "Sayfa": 265,
+            "İstihare Sonucu": "Yap.",
+            "Genel Sonuç": "Hayırlıdır. Endişeniz yersizdir. Bu işe girişin; Allah'ın izniyle hedeflerinize ulaşırsınız.",
+            "Evlilik Sonucu": "Bu uygun bir evlilik adayıdır. Allah'a tevekkül ederek bu evliliğe adım atın ve karşılaşabileceğiniz zorluklardan korkmayın.",
+            " Ticaret/Alışveriş Sonucu": "Bu kadar tereddüt etmeyin; bu işe girişin. Allah rızık verendir. İnşallah hayırlı ve kazançlı olur."
+        },
+        {
+            "Sure Adı": "Hicr",
+            "Sure No": 15,
+            "Ayet": 91,
+            "Sayfa": 267,
+            "İstihare Sonucu": "Asla yapma.",
+            "Genel Sonuç": "Çok olumsuzdur. Bazı kişiler sizi sadece kendi amaçlarına ulaşmak için kullanmak istiyorlar. Bu nedenle mutlaka vazgeçin.",
+            "Evlilik Sonucu": "Bu evlilik adayı kesinlikle size uygun değildir ve size yakışacak biri değildir. Bu evliliği yapmayın; aksi hâlde çok büyük pişmanlık duyarsınız.",
+            " Ticaret/Alışveriş Sonucu": "Bu işe girişmeyin. Sizi büyük maddi zarar beklemektedir."
+        },
+        {
+            "Sure Adı": "Nahl",
+            "Sure No": 16,
+            "Ayet": 15,
+            "Sayfa": 269,
+            "İstihare Sonucu": "Yap.",
+            "Genel Sonuç": "Hayırlıdır. Korku ve endişeye kapılmayın; Allah'a tevekkül ederek bu işe girişin.",
+            "Evlilik Sonucu": "Bu uygun bir evlilik adayıdır. Karşılaşacağınız zorluklardan korkmayın; çünkü hayatın güzelliği ve mutluluğu, bu tür zorlukları birlikte aşabilmektedir.",
+            " Ticaret/Alışveriş Sonucu": "Güzel bir kazanç elde edersiniz. Bir miktar koşuşturma ve emek gerektirebilir; ancak sonunda buna değecektir."
+        },
+        {
+            "Sure Adı": "Nahl",
+            "Sure No": 16,
+            "Ayet": 35,
+            "Sayfa": 271,
+            "İstihare Sonucu": "Karar sana kalmış.",
+            "Genel Sonuç": "Sonuç orta düzeydedir. Bu işi terk etmek sevap ve hayır bakımından daha uygundur.",
+            "Evlilik Sonucu": "Anlaşmazlık ve tartışmalar görülmektedir. Bu evliliği yapmamanız tavsiye edilir.",
+            " Ticaret/Alışveriş Sonucu": "Güvenilir ve iyi kişilerle karşılaşmayabilirsiniz. Bu nedenle bu işe girişmemeniz daha uygun olur."
+        },
+        {
+            "Sure Adı": "Nahl",
+            "Sure No": 16,
+            "Ayet": 55,
+            "Sayfa": 273,
+            "İstihare Sonucu": "Yapma.",
+            "Genel Sonuç": "Hayırlı değildir. Bu işe girişmeyin; çünkü sizin için kesinlikle uygun değildir.",
+            "Evlilik Sonucu": "Paraya düşkün ve maddiyatı ön planda tutan kişilerle karşılaşırsınız. Bu yüzden sıkıntı ve üzüntü yaşarsınız. Bu evliliği yapmayın.",
+            " Ticaret/Alışveriş Sonucu": "Hayırlı değildir. Bu işten kazanç elde edemezsiniz. Kazanç olsa bile harama düşme ihtimali vardır. Bu nedenle bu işi terk edin."
+        },
+        {
+            "Sure Adı": "Nahl",
+            "Sure No": 16,
+            "Ayet": 73,
+            "Sayfa": 275,
+            "İstihare Sonucu": "Yapma.",
+            "Genel Sonuç": "Hayırlı değildir. Güveneceğiniz kişiler sizi harama sürükleyebilir ve mutsuzluğa neden olabilir. Bu nedenle bu işi terk edin.",
+            "Evlilik Sonucu": "Bu evlilik adayı size uygun değildir ve size yakışacak biri değildir. Bu evliliği yapmayın; aksi hâlde çok büyük pişmanlık duyarsınız.",
+            " Ticaret/Alışveriş Sonucu": "Bu ticarette sizin için takdir edilmiş bir nasip ve rızık görünmemektedir. Bu nedenle bu işe girişmeyin."
+        },
+        {
+            "Sure Adı": "Nahl",
+            "Sure No": 16,
+            "Ayet": 88,
+            "Sayfa": 277,
+            "İstihare Sonucu": "Asla yapma.",
+            "Genel Sonuç": "Çok olumsuzdur. Hem maddi kayıp hem de itibar zedelenmesi riski taşımaktadır. Bu nedenle mutlaka vazgeçin.",
+            "Evlilik Sonucu": "Bu evlilik ne dünya hayatınız ne de ahiretiniz açısından hayırlı görünmektedir. Kesinlikle sizin için uygun değildir; bu düşünceden vazgeçin.",
+            " Ticaret/Alışveriş Sonucu": "Çok büyük maddi zarar görürsünüz. Bu işi mutlaka terk edin."
+        },
+        {
+            "Sure Adı": "Nahl",
+            "Sure No": 16,
+            "Ayet": 103,
+            "Sayfa": 279,
+            "İstihare Sonucu": "Yap.",
+            "Genel Sonuç": "Hayırlıdır. Bilgisiz kimselerin sözleri ve iğneleyici eleştirileri sizi yıldırmasın. Allah'a tevekkül edin; inşallah hedeflerinize ulaşırsınız.",
+            "Evlilik Sonucu": "Bilgisiz insanların sözlerine ve alaycı ifadelerine aldırmayın. Bu uygun bir evlilik adayıdır. Gönül rahatlığıyla adım atın; inşallah sonunuz hayırlı olur.",
+            " Ticaret/Alışveriş Sonucu": "Hayırlıdır. Karşılaşacağınız zorluklardan ve insanların sözlerinden korkmayın; kararlılıkla hareket edin."
+        },
+        {
+            "Sure Adı": "Nahl",
+            "Sure No": 16,
+            "Ayet": 119,
+            "Sayfa": 281,
+            "İstihare Sonucu": "Mutlaka yap.",
+            "Genel Sonuç": "Çok hayırlıdır. Eğer şimdiye kadar bir hata veya yanlış yaptıysanız, bunu telafi etmek için güzel bir fırsattır.",
+            "Evlilik Sonucu": "Çok hayırlıdır. Bu evlilik sayesinde huzur ve sükûnete kavuşursunuz. Ancak günaha düşmemeye dikkat edin.",
+            " Ticaret/Alışveriş Sonucu": "Hayırlıdır. Geçmişte uğradığınız bazı zararların telafisine vesile olabilir. Ancak bunun için harama veya günaha düşmemeye özen gösterin."
+        },
+        {
+            "Sure Adı": "İsra",
+            "Sure No": 17,
+            "Ayet": 8,
+            "Sayfa": 283,
+            "İstihare Sonucu": "Asla yapma.",
+            "Genel Sonuç": "Çok olumsuzdur. Çok sayıda sorunla karşılaşırsınız. Bu nedenle kesinlikle bu işe girişmeyin.",
+            "Evlilik Sonucu": "Pek çok sıkıntı ve problem sizi beklemektedir. Mutlaka bu evlilikten vazgeçin; aksi hâlde çok zor ve mutsuz bir hayat yaşarsınız.",
+            " Ticaret/Alışveriş Sonucu": "Çok emek harcarsınız; ancak sonunda zarar ve ziyanla karşılaşırsınız. Bu işe girişmeyin; aksi takdirde büyük pişmanlık duyarsınız."
+        },
+        {
+            "Sure Adı": "İsra",
+            "Sure No": 17,
+            "Ayet": 28,
+            "Sayfa": 285,
+            "İstihare Sonucu": "Yap.",
+            "Genel Sonuç": "Hayırlıdır. Bazen bir işte ayrıntılar, işin kendisinden daha önemli olabilir. Bu yüzden dikkatli ve özenli davranırsanız başarılı olursunuz.",
+            "Evlilik Sonucu": "Yukarıdaki tavsiyeleri göz önünde bulundurun ve Allah'a tevekkül ederek bu evliliğe adım atın. Güzel söz ve tatlı dil, bazı sıkıntı ve kırgınlıkları ortadan kaldıracaktır.",
+            " Ticaret/Alışveriş Sonucu": "Bu işi acele etmeden, iyice düşünüp bütün ayrıntıları dikkatle değerlendirerek yapın. Böyle davranırsanız başarılı olursunuz."
+        },
+        {
+            "Sure Adı": "İsra",
+            "Sure No": 17,
+            "Ayet": 50,
+            "Sayfa": 287,
+            "İstihare Sonucu": "Asla yapma.",
+            "Genel Sonuç": "Çok olumsuzdur. Kesinlikle bu işe girişmeyin; çünkü size zarar ve pişmanlıktan başka bir şey getirmeyecektir.",
+            "Evlilik Sonucu": "Çok olumsuzdur. Bu evliliği kesinlikle yapmayın; aksi hâlde çok büyük pişmanlık duyarsınız.",
+            " Ticaret/Alışveriş Sonucu": "Çok olumsuzdur. Aldatılırsınız ve büyük maddi zarar görürsünüz. Bu işe kesinlikle girişmeyin."
+        },
+        {
+            "Sure Adı": "İsra",
+            "Sure No": 17,
+            "Ayet": 67,
+            "Sayfa": 289,
+            "İstihare Sonucu": "Yapma.",
+            "Genel Sonuç": "Hayırlı değildir. Bazı kişiler sizi kendi yükselişleri için bir basamak olarak kullanacak, işlerini gördükten sonra da sizi yüzüstü bırakacaklardır. Bu nedenle bu işe girişmeyin.",
+            "Evlilik Sonucu": "Dış görünüşe aldanmayın. Nankör ve kıymet bilmeyen kişilerle karşılaşabilirsiniz. Bu evlilikten mutlaka vazgeçin.",
+            " Ticaret/Alışveriş Sonucu": "Sizi aldatacaklar ve büyük maddi zararlar yükleyeceklerdir. Bu nedenle bu işi terk edin."
+        },
+        {
+            "Sure Adı": "İsra",
+            "Sure No": 17,
+            "Ayet": 87,
+            "Sayfa": 291,
+            "İstihare Sonucu": "Mutlaka yap.",
+            "Genel Sonuç": "Çok hayırlıdır. Hem dünya hem de ahiret açısından hayır ve bereket vardır. Bu işe gönül rahatlığıyla girişin.",
+            "Evlilik Sonucu": "Bu uygun bir evlilik adayıdır. Allah'a tevekkül ederek bu evliliğe adım atın. İnşallah sonunuz hayırlı olur.",
+            " Ticaret/Alışveriş Sonucu": "Sizi güzel bir kazanç beklemektedir. Allah'a tevekkül ederek bu işe girişin."
+        },
+        {
+            "Sure Adı": "İsra",
+            "Sure No": 17,
+            "Ayet": 105,
+            "Sayfa": 293,
+            "İstihare Sonucu": "Mutlaka yap.",
+            "Genel Sonuç": "Çok hayırlıdır. Bu iş, hem dünya hem de ahiret hayatınız için hayır ve berekete vesile olacaktır. Allah'a tevekkül ederek bu işe girişin.",
+            "Evlilik Sonucu": "Çok uygun bir evlilik adayıdır. Karşılaşabileceğiniz zorluklardan korkmayın. Bu evlilik size hem dünyevî hem de uhrevî yönden ilerleme ve hayır sağlayacaktır.",
+            " Ticaret/Alışveriş Sonucu": "Güzel bir kazanç elde edersiniz. Allah'a tevekkül ederek bu işe girişin."
+        },
+        {
+            "Sure Adı": "Kehf",
+            "Sure No": 18,
+            "Ayet": 16,
+            "Sayfa": 295,
+            "İstihare Sonucu": "Yap.",
+            "Genel Sonuç": "Hayırlıdır. Bu iş, rızkınızın genişlemesine, bereketin artmasına ve hedeflerinize ulaşmanıza vesile olacaktır.",
+            "Evlilik Sonucu": "Bu uygun bir evlilik adayıdır. Karşılaşabileceğiniz zorluklardan korkmayın. Allah'a tevekkül ederek bu evliliğe adım atın; çünkü bu evlilik birçok sorununuzun çözümüne vesile olacaktır.",
+            " Ticaret/Alışveriş Sonucu": "Hayırlıdır. Güzel bir kazanç elde edersiniz. Allah'a tevekkül ederek bu işe girişin."
+        },
+        {
+            "Sure Adı": "Kehf",
+            "Sure No": 18,
+            "Ayet": 28,
+            "Sayfa": 297,
+            "İstihare Sonucu": "Yapma.",
+            "Genel Sonuç": "Hayırlı değildir. Maddiyatı ön planda tutan kişilerle karşılaşırsınız. Ayrıca itibarınızı zedeleyecek riskler bulunmaktadır. Bu nedenle mutlaka vazgeçin.",
+            "Evlilik Sonucu": "Bu evlilik adayı kesinlikle uygun değildir. Mutlaka bu evlilikten vazgeçin.",
+            " Ticaret/Alışveriş Sonucu": "Çok büyük maddi zarar görürsünüz. Bu işe girişmeyin; aksi hâlde büyük pişmanlık yaşarsınız."
+        },
+        {
+            "Sure Adı": "Kehf",
+            "Sure No": 18,
+            "Ayet": 46,
+            "Sayfa": 299,
+            "İstihare Sonucu": "Yap.",
+            "Genel Sonuç": "Hayırlıdır. Allah'a tevekkül ederek bu işe girişin. İnşallah başarılı olursunuz.",
+            "Evlilik Sonucu": "Hayırlıdır. İnşallah size salih ve hayırlı evlatlar nasip olur. Her durumda Allah'ı anmayı ve O'nu unutmamayı ihmal etmeyin.",
+            " Ticaret/Alışveriş Sonucu": "Hayırlıdır. İnşallah güzel bir kazanç elde edersiniz. Ancak harama düşmemeye dikkat ettiğiniz sürece bu hayır gerçekleşecektir."
+        },
+        {
+            "Sure Adı": "Kehf",
+            "Sure No": 18,
+            "Ayet": 62,
+            "Sayfa": 301,
+            "İstihare Sonucu": "Mutlaka yapın.",
+            "Genel Sonuç": "Çok hayırlıdır. İnşallah hem dünyevî hem de uhrevî hayrı vardır. Allah'a tevekkül ederek yapın.",
+            "Evlilik Sonucu": "İnşallah mübarek ve hayırlıdır. Allah'a tevekkül ederek evlilik için adım atın.",
+            " Ticaret/Alışveriş Sonucu": "İnşallah iyi bir kazanç elde edersiniz. Allah'a tevekkül ederek bu işe girişin."
+        },
+        {
+            "Sure Adı": "Kehf",
+            "Sure No": 18,
+            "Ayet": 84,
+            "Sayfa": 303,
+            "İstihare Sonucu": "Mutlaka yapın.",
+            "Genel Sonuç": "Çok hayırlıdır. Maddi açıdan ve itibar bakımından size fayda sağlayacaktır. Bu işe girişin.",
+            "Evlilik Sonucu": "Uygun bir eş adaydır. Allah'a tevekkül ederek ve On İki İmam'a tevessül ederek evlilik için adım atın. Bu evlilik, inşallah ruh huzuruna ve rızkın artmasına vesile olacaktır.",
+            " Ticaret/Alışveriş Sonucu": "İyi bir kazanç elde edeceksiniz. Sadaka vermeyi ihmal etmeyin."
+        },
+        {
+            "Sure Adı": "Meryem",
+            "Sure No": 19,
+            "Ayet": 1,
+            "Sayfa": 305,
+            "İstihare Sonucu": "Yapın.",
+            "Genel Sonuç": "Çok hayırlıdır. Hedeflerinize tam anlamıyla ulaşacaksınız. Allah'a tevekkül edin ki O'nun rahmetinin gölgesinde arzu ettiğiniz sonuca erişesiniz.",
+            "Evlilik Sonucu": "Çok uygun ve hayırlı bir eşleşmedir. İnşallah mübarek olur. Bu evlilikten gelecekte salih ve hayırlı bir evladın nasip olacağı görülmektedir.",
+            " Ticaret/Alışveriş Sonucu": "İyi bir kazanç elde edeceksiniz. Allah'ı hiçbir zaman unutmayın; çünkü sahip olduğunuz her şey O'nun lütfu ve ihsanıdır."
+        },
+        {
+            "Sure Adı": "Meryem",
+            "Sure No": 19,
+            "Ayet": 26,
+            "Sayfa": 307,
+            "İstihare Sonucu": "Mutlaka yapın.",
+            "Genel Sonuç": "Çok hayırlıdır. Ancak işe başlamadan önce bir adakta bulunun ve sadaka verin ki bütün hedeflerinize ulaşabilesiniz.",
+            "Evlilik Sonucu": "İnşallah hayırlı ve mübarektir. Allah'a tevekkül ederek evlilik için adım atın.",
+            " Ticaret/Alışveriş Sonucu": "Bu ticarette iyi bir kazanç ve fayda görülmektedir. Ancak bunun için sırlarınızı ve planlarınızı herkese açıklamamanız tavsiye edilir."
+        },
+        {
+            "Sure Adı": "Meryem",
+            "Sure No": 19,
+            "Ayet": 52,
+            "Sayfa": 309,
+            "İstihare Sonucu": "Mutlaka yapın.",
+            "Genel Sonuç": "Çok hayırlıdır. Üzüntü ve sıkıntılarınızdan kurtulacak, huzur ve sükûna kavuşacaksınız. Karşılaşabileceğiniz küçük sorunlardan endişe etmeyin.",
+            "Evlilik Sonucu": "Uygun bir eşleşmedir. Size zihinsel ve ruhsal huzur sağlayacaktır. Allah'a tevekkül ederek evlilik için adım atın.",
+            " Ticaret/Alışveriş Sonucu": "İnşallah büyük bir kazanç elde edeceksiniz ve sorunlarınızın önemli bir kısmı çözüme kavuşacaktır."
+        },
+        {
+            "Sure Adı": "Meryem",
+            "Sure No": 19,
+            "Ayet": 77,
+            "Sayfa": 311,
+            "İstihare Sonucu": "Asla yapmayın.",
+            "Genel Sonuç": "Çok olumsuzdur. Maddi ve manevi açıdan büyük zararlar doğuracağı belirtilmektedir. Bu işten kesinlikle vazgeçin.",
+            "Evlilik Sonucu": "Kesinlikle uygun bir evlilik değildir. Hatta engelli çocuk sahibi olma veya kısırlık gibi ihtimallerin bulunduğu ifade edilmektedir. Bu evlilikten vazgeçilmesi tavsiye edilmektedir.",
+            " Ticaret/Alışveriş Sonucu": "Zarar edeceğiniz ve sonu gelmeyen pek çok sorunla karşılaşacağınız belirtilmektedir. Bu ticaretten vazgeçmeniz tavsiye edilir."
+        },
+        {
+            "Sure Adı": "Taha",
+            "Sure No": 20,
+            "Ayet": 13,
+            "Sayfa": 313,
+            "İstihare Sonucu": "Mutlaka yapın.",
+            "Genel Sonuç": "Çok hayırlıdır. Hedeflerinize ulaşacaksınız. Her durumda Allah'ı anmayı ve O'nu unutmamayı ihmal etmeyin.",
+            "Evlilik Sonucu": "Uygun ve mutlulukla sonuçlanacak bir evliliktir. Mutluluğunuzun kalıcı olması için dinî/şer'î hükümlere riayet edin.",
+            " Ticaret/Alışveriş Sonucu": "İyi bir kazanç elde edeceksiniz. Ticaretinizde de dinî/şer'î kurallara riayet edin."
+        },
+        {
+            "Sure Adı": "Taha",
+            "Sure No": 20,
+            "Ayet": 52,
+            "Sayfa": 315,
+            "İstihare Sonucu": "Yapın.",
+            "Genel Sonuç": "Hayırlıdır. Allah'ı hiçbir zaman unutmayın ve Allah'a tevekkül ederek bu işe girişin.",
+            "Evlilik Sonucu": "Hayırlıdır. Her durumda Allah'ı gözetin. Başlangıçta önemli konuları açıkça konuşup netleştirin ki ileride sorun yaşamayasınız.",
+            " Ticaret/Alışveriş Sonucu": "Bütün yönlerini dikkatlice değerlendirerek hareket edin. İnşallah iyi bir kazanç elde edersiniz."
+        },
+        {
+            "Sure Adı": "Taha",
+            "Sure No": 20,
+            "Ayet": 77,
+            "Sayfa": 317,
+            "İstihare Sonucu": "Yapın.",
+            "Genel Sonuç": "Hayırlıdır. İyi niyet taşıyan kimse, karşılaşabileceği sorun ve zorluklardan korkmamalıdır. Allah'a tevekkül ederek bu işe girişin.",
+            "Evlilik Sonucu": "Karşılaşabileceğiniz zorluklardan endişe etmeyin. Evliliğin güzelliği ve tatlılığı, bu tür meseleleri birlikte aşabilmektedir. Her durumda Allah'ı gözetin ve O'nu unutmayın.",
+            " Ticaret/Alışveriş Sonucu": "Sorunları sürekli düşünüp büyütmek size bir fayda sağlamaz. Allah'a tevekkül edin; çünkü size takdir edilen rızık mutlaka size ulaşacaktır."
+        },
+        {
+            "Sure Adı": "Taha",
+            "Sure No": 20,
+            "Ayet": 99,
+            "Sayfa": 319,
+            "İstihare Sonucu": "Yapın.",
+            "Genel Sonuç": "Hayırlıdır. Bu kadar tereddüt etmeyin; bir an önce harekete geçin. Aksi takdirde iş işten geçtikten sonra pişman olabilirsiniz ve o pişmanlığın faydası olmaz.",
+            "Evlilik Sonucu": "Uygun bir evliliktir. Kararsız kalmayın; aksi hâlde ileride \"Keşke...\" diye pişman olabilirsiniz.",
+            " Ticaret/Alışveriş Sonucu": "Bu işe girişin. Allah Teâlâ bereketini ihsan edecektir."
+        },
+        {
+            "Sure Adı": "Taha",
+            "Sure No": 20,
+            "Ayet": 126,
+            "Sayfa": 321,
+            "İstihare Sonucu": "Asla yapmayın.",
+            "Genel Sonuç": "Çok olumsuzdur. Bu işi yapmayın; aksi takdirde çok büyük bir pişmanlık ve nedamet duyacaksınız.",
+            "Evlilik Sonucu": "Son derece olumsuzdur. Birbirinizle hiçbir uyumunuz bulunmamaktadır. Bu evlilikten kesinlikle vazgeçilmesi tavsiye edilmektedir.",
+            " Ticaret/Alışveriş Sonucu": "Bunu düşünmekten bile vazgeçin. Haram bir duruma düşeceğiniz ve bunun hayatınızda çok kötü etkiler bırakacağı ifade edilmektedir."
+        },
+        {
+            "Sure Adı": "Enbiya",
+            "Sure No": 21,
+            "Ayet": 11,
+            "Sayfa": 323,
+            "İstihare Sonucu": "Asla yapmayın.",
+            "Genel Sonuç": "Çok olumsuzdur. Can güvenliği ve itibar açısından risk taşıdığı belirtilmektedir. Bu işten kesinlikle vazgeçilmesi tavsiye edilir.",
+            "Evlilik Sonucu": "Aranızda çok fazla anlaşmazlık ve uyumsuzluk bulunmaktadır. Bu evlilik gerçekleşirse büyük bir pişmanlık duyacağınız, ancak o zaman bunun için geç kalınmış olacağı ifade edilmektedir.",
+            " Ticaret/Alışveriş Sonucu": "Kesinlikle iyi bir ticaret değildir. Bu işe girişmemeniz tavsiye edilmektedir."
+        },
+        {
+            "Sure Adı": "Enbiya",
+            "Sure No": 21,
+            "Ayet": 36,
+            "Sayfa": 325,
+            "İstihare Sonucu": "Yapmayın.",
+            "Genel Sonuç": "Olumsuzdur. Bu işin kavga ve anlaşmazlıklara yol açacağı, ayrıca itibar açısından risk taşıdığı belirtilmektedir. Bu nedenle vazgeçilmesi tavsiye edilir.",
+            "Evlilik Sonucu": "Olumsuzdur. Sürekli tartışma ve anlaşmazlıklarla dolu bir evlilik olacağı ifade edilmektedir. Bu evlilikten vazgeçilmesi tavsiye edilir.",
+            " Ticaret/Alışveriş Sonucu": "Çok sayıda sorunla karşılaşacağınız ve sonunda da bir kazanç elde edemeyeceğiniz belirtilmektedir. Bu ticaretten vazgeçilmesi tavsiye edilir."
+        },
+        {
+            "Sure Adı": "Enbiya",
+            "Sure No": 21,
+            "Ayet": 58,
+            "Sayfa": 327,
+            "İstihare Sonucu": "Yapmayın.",
+            "Genel Sonuç": "Olumsuzdur. Çok sayıda sorunla karşılaşacağınız, sonunda istediğiniz sonuca ulaşamayacağınız ve hatta itibar kaybı yaşama ihtimalinin bulunduğu belirtilmektedir.",
+            "Evlilik Sonucu": "Uygun bir evlilik değildir. Gerçekleşmesi hâlinde büyük bir pişmanlık duyacağınız ifade edilmekte ve bu evlilikten vazgeçilmesi tavsiye edilmektedir.",
+            " Ticaret/Alışveriş Sonucu": "Çok emek gerektirecek, ancak sonunda hedeflediğiniz sonuca ulaşamayacaksınız. Bu nedenle olumsuz görülmektedir."
+        },
+        {
+            "Sure Adı": "Enbiya",
+            "Sure No": 21,
+            "Ayet": 82,
+            "Sayfa": 329,
+            "İstihare Sonucu": "Yapın.",
+            "Genel Sonuç": "Hayırlıdır. Hedeflerinize ulaşacaksınız. Allah'a tevekkül ederek bu işe girişin.",
+            "Evlilik Sonucu": "Uygun bir evliliktir. Allah'a tevekkül ederek adım atın. Sadaka vermeyi ihmal etmeyin.",
+            " Ticaret/Alışveriş Sonucu": "İyi bir kazanç elde edeceksiniz. Allah'a tevekkül ederek ve dinî/şer'î ölçülere riayet ederek bu işe girişin."
+        },
+        {
+            "Sure Adı": "Enbiya",
+            "Sure No": 21,
+            "Ayet": 102,
+            "Sayfa": 331,
+            "İstihare Sonucu": "Mutlaka yapın.",
+            "Genel Sonuç": "Çok hayırlıdır. Allah'a tevekkül ederek bu işe girişin. Sadaka vermeyi ihmal etmeyin.",
+            "Evlilik Sonucu": "Hayırlıdır. Allah'a tevekkül ederek evlilik için adım atın. İnşallah sonunuz hayırlı olur (akıbetiniz hayırla sonuçlanır).",
+            " Ticaret/Alışveriş Sonucu": "Hayırlıdır. Allah'a tevekkül ederek ve gerekli şartlara riayet ederek bu işe girişin. İnşallah iyi bir kazanç elde edersiniz."
+        },
+        {
+            "Sure Adı": "Hac",
+            "Sure No": 22,
+            "Ayet": 6,
+            "Sayfa": 333,
+            "İstihare Sonucu": "Mutlaka yapın.",
+            "Genel Sonuç": "Çok hayırlıdır. Bu işi yapmanızla birlikte sorunlarınızın büyük bir kısmı çözülecektir. Bu işe girişin.",
+            "Evlilik Sonucu": "Uygun bir evliliktir. Allah'a tevekkül ederek adım atın. Bu evlilik sayesinde sıkıntılarınızın ve üzüntülerinizin önemli bir kısmı giderilecektir.",
+            " Ticaret/Alışveriş Sonucu": "Gerekli hususlara dikkat ederek bu işe girişin ki iyi bir kazanç elde edesiniz."
+        },
+        {
+            "Sure Adı": "Hac",
+            "Sure No": 22,
+            "Ayet": 24,
+            "Sayfa": 335,
+            "İstihare Sonucu": "Yapın.",
+            "Genel Sonuç": "Hayırlıdır. Allah'a tevekkül ederek bu işe girişin. Hedeflerinize ulaşacaksınız.",
+            "Evlilik Sonucu": "Hayırlıdır. İnsan evlilikten başka ne ister ki? Allah'a tevekkül ederek evlilik için adım atın.",
+            " Ticaret/Alışveriş Sonucu": "Hayırlıdır. Tecrübeli ve işin ehli kimselere danışarak hareket ederseniz daha iyi bir kazanç elde edersiniz."
+        },
+        {
+            "Sure Adı": "Hac",
+            "Sure No": 22,
+            "Ayet": 39,
+            "Sayfa": 337,
+            "İstihare Sonucu": "Yapın.",
+            "Genel Sonuç": "Hayırlıdır. Karşılaşabileceğiniz zorluklardan korkmayın. Allah'a tevekkül ederek bu işe girişin. İnşallah hedeflerinize ulaşacaksınız.",
+            "Evlilik Sonucu": "Uygun bir evliliktir. İnşallah bu evlilikle birlikte sorunlarınızın tamamı veya büyük bir kısmı çözülecektir.",
+            " Ticaret/Alışveriş Sonucu": "Hayırlıdır. İnşallah iyi bir kazanç elde edeceksiniz."
+        },
+        {
+            "Sure Adı": "Hac",
+            "Sure No": 22,
+            "Ayet": 52,
+            "Sayfa": 339,
+            "İstihare Sonucu": "Mutlaka yapın.",
+            "Genel Sonuç": "Çok hayırlıdır. Allah'a tevekkül ederek bu işe girişin. İnşallah hedeflerinize ulaşacaksınız.",
+            "Evlilik Sonucu": "Çok uygun bir evliliktir. Allah'a tevekkül ederek evlilik için adım atın. İnşallah akıbetiniz hayırlı olur ve güzel bir sonuca ulaşırsınız.",
+            " Ticaret/Alışveriş Sonucu": "Hayırlıdır. İnşallah iyi bir kazanç elde edeceksiniz. Ancak harama düşmemeye çok dikkat edin; aksi takdirde pişman olabilirsiniz."
+        },
+        {
+            "Sure Adı": "Hac",
+            "Sure No": 22,
+            "Ayet": 73,
+            "Sayfa": 341,
+            "İstihare Sonucu": "Asla yapmayın.",
+            "Genel Sonuç": "Çok olumsuzdur. Çok sayıda sorunla karşılaşacağınız ve sonunda büyük bir pişmanlık duyacağınız belirtilmektedir.",
+            "Evlilik Sonucu": "Kesinlikle bu evliliği yapmayın. Gerçekleşmesi hâlinde çok büyük bir pişmanlık yaşayacağınız ifade edilmektedir.",
+            " Ticaret/Alışveriş Sonucu": "Bu işe girişmeniz durumunda büyük bir maddi zarar edeceğiniz belirtilmektedir. Bu nedenle kesinlikle vazgeçilmesi tavsiye edilir."
+        },
+        {
+            "Sure Adı": "Muminun",
+            "Sure No": 23,
+            "Ayet": 18,
+            "Sayfa": 343,
+            "İstihare Sonucu": "Tercih size kalmış.",
+            "Genel Sonuç": "Orta derecede uygundur. Bir faydası vardır; ancak buna çok büyük emek ve zahmetle ulaşılacaktır. Yapmayı düşünüyorsanız sadaka verin ve sabırlı olun.",
+            "Evlilik Sonucu": "Orta derecede uygundur. Eğer çok sabırlı ve tahammüllü biriyseniz yapabilirsiniz; aksi hâlde vazgeçmeniz daha uygun olur.",
+            " Ticaret/Alışveriş Sonucu": "Sermayenizin bir süre bağlı kalması veya kullanılamaması mümkündür. Bu sizin için sorun değilse yapabilirsiniz; aksi takdirde vazgeçmeniz daha uygun olur."
+        },
+        {
+            "Sure Adı": "Muminun",
+            "Sure No": 23,
+            "Ayet": 43,
+            "Sayfa": 345,
+            "İstihare Sonucu": "Yapmayın.",
+            "Genel Sonuç": "Olumsuzdur. Hiç uygun görülmemektedir. Bu işten vazgeçmeniz tavsiye edilir.",
+            "Evlilik Sonucu": "Size uygun bir eşleşme değildir. Bu evlilik gerçekleşirse çeşitli tartışmalar ve anlaşmazlıklar yaşayacağınız ifade edilmektedir.",
+            " Ticaret/Alışveriş Sonucu": "Olumsuzdur. Zarar edeceğiniz ve umduğunuz hedeflerin hiçbirine ulaşamayacağınız belirtilmektedir."
+        },
+        {
+            "Sure Adı": "Muminun",
+            "Sure No": 23,
+            "Ayet": 75,
+            "Sayfa": 347,
+            "İstihare Sonucu": "Asla yapmayın.",
+            "Genel Sonuç": "Çok olumsuzdur. Kötü niyetli insanlarla karşılaşacağınız, bunun da sizi sıkıntı ve zorluklara sürükleyeceği belirtilmektedir. Bu işten kesinlikle vazgeçilmesi tavsiye edilir.",
+            "Evlilik Sonucu": "Kesinlikle uygun bir evlilik değildir. Bu evlilikten mutlaka vazgeçilmesi tavsiye edilmektedir.",
+            " Ticaret/Alışveriş Sonucu": "Dolandırıcı kimselerle karşılaşabileceğiniz belirtilmektedir. Bu kişiler dışarıdan çok iyi ve güvenilir görünebilirler; bu nedenle bu ticaretten kesinlikle vazgeçilmesi tavsiye edilir."
+        },
+        {
+            "Sure Adı": "Muminun",
+            "Sure No": 23,
+            "Ayet": 105,
+            "Sayfa": 349,
+            "İstihare Sonucu": "Yapmayın.",
+            "Genel Sonuç": "Olumsuzdur. Çok sayıda sorunla karşılaşacağınız ve sonunda da istediğiniz sonuca ulaşamayacağınız belirtilmektedir.",
+            "Evlilik Sonucu": "Uygun bir evlilik değildir. Sürekli tartışma ve kavga içinde olacağınız, huzursuz bir evlilik yaşayacağınız ifade edilmektedir. Bu evlilikten vazgeçilmesi tavsiye edilir.",
+            " Ticaret/Alışveriş Sonucu": "Çok emek verdikten sonra bile sonunda zarara uğrayacağınız belirtilmektedir. Bu nedenle bu işe girişmemeniz tavsiye edilir."
+        },
+        {
+            "Sure Adı": "Nur",
+            "Sure No": 24,
+            "Ayet": 11,
+            "Sayfa": 351,
+            "İstihare Sonucu": "Yapmayın.",
+            "Genel Sonuç": "Olumsuzdur. İftira ve asılsız suçlamalara maruz kalabileceğiniz belirtilmektedir. Bu işten vazgeçilmesi tavsiye edilir.",
+            "Evlilik Sonucu": "Hayatınızdan bıktıracak derecede zorluk ve sıkıntılar yaşayabileceğiniz ifade edilmektedir. Bu evlilikten vazgeçilmesi tavsiye edilir.",
+            " Ticaret/Alışveriş Sonucu": "Olumsuzdur. Maddi zarar ve kayıpla karşılaşabileceğiniz belirtilmektedir. Bu nedenle bu işe girişmemeniz tavsiye edilir."
+        },
+        {
+            "Sure Adı": "Nur",
+            "Sure No": 24,
+            "Ayet": 28,
+            "Sayfa": 353,
+            "İstihare Sonucu": "Tercih size kalmış.",
+            "Genel Sonuç": "Orta derecede hayırlıdır. Eğer bütün şartlar uygunsa bu işe girişin; aksi hâlde vazgeçmeniz daha uygundur.",
+            "Evlilik Sonucu": "Başlangıçta konuşulması gereken her şeyi açıkça konuşun ve bütün yönleri dikkatlice değerlendirin. Eğer tüm şartlar uygunsa evlilik için adım atın; aksi hâlde vazgeçmeniz daha uygun olur.",
+            " Ticaret/Alışveriş Sonucu": "Eğer işin bütün yönlerini değerlendirdiyseniz ve bir sorun görünmüyorsa bu işe girişebilirsiniz; aksi takdirde vazgeçmeniz daha iyi olacaktır."
+        },
+        {
+            "Sure Adı": "Nur",
+            "Sure No": 24,
+            "Ayet": 37,
+            "Sayfa": 355,
+            "İstihare Sonucu": "Mutlaka yapın.",
+            "Genel Sonuç": "Çok hayırlıdır. Hem dünya hem de ahiret hayrı bu iştedir. Bu işe mutlaka girişin.",
+            "Evlilik Sonucu": "Çok hayırlıdır. İyi bir evlilikten beklenen bütün güzellikleri taşıyan bir evliliktir. Bu evlilik için mutlaka adım atın.",
+            " Ticaret/Alışveriş Sonucu": "İyi bir kazanç elde edeceksiniz. Bu işe girişin."
+        },
+        {
+            "Sure Adı": "Nur",
+            "Sure No": 24,
+            "Ayet": 54,
+            "Sayfa": 357,
+            "İstihare Sonucu": "Tercih size kalmış.",
+            "Genel Sonuç": "Orta derecede hayırlıdır. Bu işe girişebilirsiniz; ancak bütün hedeflerinize ulaşamama ihtimaliniz de vardır.",
+            "Evlilik Sonucu": "Hayırlıdır; elbette şartlar gerçekleşirse ve mümkün olursa.",
+            " Ticaret/Alışveriş Sonucu": "Hayırlıdır. Ancak bu işten beklediğiniz bütün hedeflere veya kazançlara tam olarak ulaşamayabilirsiniz."
+        },
+        {
+            "Sure Adı": "Nur",
+            "Sure No": 24,
+            "Ayet": 62,
+            "Sayfa": 359,
+            "İstihare Sonucu": "Yapın.",
+            "Genel Sonuç": "Hayırlıdır. Tecrübeli ve işin ehli kimselere danışarak ve Allah'a tevekkül ederek bu işe girişin.",
+            "Evlilik Sonucu": "Gerekli bir izin alınması gerekmektedir. Daha fazla araştırma yaparak ve gerekli şartları yerine getirerek hareket edin ki sonradan sorun yaşamayasınız.",
+            " Ticaret/Alışveriş Sonucu": "Şartlar uygunsa ve gerekli hususlar gözetilirse hayırlıdır; aksi takdirde vazgeçmeniz daha uygun olur."
+        },
+        {
+            "Sure Adı": "Furkan",
+            "Sure No": 25,
+            "Ayet": 12,
+            "Sayfa": 361,
+            "İstihare Sonucu": "Yapmayın.",
+            "Genel Sonuç": "Olumsuzdur. Sonunda büyük bir pişmanlık duyacağınız belirtilmektedir. Bu işten vazgeçilmesi tavsiye edilir.",
+            "Evlilik Sonucu": "Sürekli anlaşmazlık ve kavgaya sürüklenecek, çok sıkıntılı bir evlilik yaşayacağınız ifade edilmektedir. Bu evlilikten vazgeçilmesi tavsiye edilir.",
+            " Ticaret/Alışveriş Sonucu": "Olumsuzdur. Maddi zarar göreceğiniz ve sonunda büyük bir pişmanlık yaşayacağınız belirtilmektedir. Bu nedenle bu işe girişmemeniz tavsiye edilir."
+        },
+        {
+            "Sure Adı": "Furkan",
+            "Sure No": 25,
+            "Ayet": 33,
+            "Sayfa": 363,
+            "İstihare Sonucu": "Yapın.",
+            "Genel Sonuç": "Hayırlıdır; ancak çok emek ve zahmet gerektirir. Allah'a tevekkül ederek bu işe girişin.",
+            "Evlilik Sonucu": "Hayırlıdır; fakat bu evlilikte çok sıkıntı ve zorluk yaşayacağınız ifade edilmektedir. Eğer buna sabır ve dayanma gücünüz varsa evlilik için adım atabilirsiniz.",
+            " Ticaret/Alışveriş Sonucu": "İyi bir kazanç elde edeceksiniz. Allah'a tevekkül ederek bu işe girişin ve karşılaşabileceğiniz zorluklardan korkmayın."
+        },
+        {
+            "Sure Adı": "Furkan",
+            "Sure No": 25,
+            "Ayet": 52,
+            "Sayfa": 365,
+            "İstihare Sonucu": "Mutlaka yapın.",
+            "Genel Sonuç": "Çok hayırlıdır. Allah'a tevekkül ederek bu işe girişin. İnşallah bütün hedeflerinize ulaşacaksınız.",
+            "Evlilik Sonucu": "Uygun bir evliliktir. İnşallah akıbetiniz hayırlı olacak ve güzel bir sonuca ulaşacaksınız.",
+            " Ticaret/Alışveriş Sonucu": "İnşallah düşündüğünüz ve hedeflediğiniz şekilde sonuçlanacaktır. Allah'a tevekkül ederek bu işe girişin."
+        },
+        {
+            "Sure Adı": "Şuara",
+            "Sure No": 26,
+            "Ayet": 10,
+            "Sayfa": 367,
+            "İstihare Sonucu": "Mutlaka yapın.",
+            "Genel Sonuç": "Çok hayırlıdır. Karşılaşabileceğiniz zorluklardan korkmayın ve Allah'a tevekkül ederek bu işe girişin. İnşallah düşündüğünüz ve arzu ettiğiniz her şey gerçekleşecektir.",
+            "Evlilik Sonucu": "İyi bir evlilikten beklenebilecek bütün güzellikler bu evlilikte bulunmaktadır. Bu nedenle gecikmeyin; ertelemeniz uygun görülmemektedir.",
+            " Ticaret/Alışveriş Sonucu": "İyi bir kazanç elde edeceksiniz. Allah'a tevekkül ederek bu işe girişin."
+        },
+        {
+            "Sure Adı": "Şuara",
+            "Sure No": 26,
+            "Ayet": 40,
+            "Sayfa": 369,
+            "İstihare Sonucu": "Asla yapmayın.",
+            "Genel Sonuç": "Çok olumsuzdur. Bu işte aldatma ve hile bulunduğu belirtilmektedir. Bu nedenle kesinlikle vazgeçilmesi tavsiye edilir.",
+            "Evlilik Sonucu": "Sizden gizlenmiş önemli bir husus olduğu, bunu bilmiş olsaydınız bu evliliği asla istemeyeceğiniz ifade edilmektedir. Bu evlilikten kesinlikle vazgeçilmesi tavsiye edilir.",
+            " Ticaret/Alışveriş Sonucu": "Hilekâr ve düzenbaz kimselerle karşılaşabileceğiniz, bunun sonucunda büyük zarara uğrayacağınız belirtilmektedir. Bu nedenle bu işe girişmemeniz tavsiye edilir."
+        },
+        {
+            "Sure Adı": "Şuara",
+            "Sure No": 26,
+            "Ayet": 84,
+            "Sayfa": 371,
+            "İstihare Sonucu": "Yapın.",
+            "Genel Sonuç": "Hayırlıdır. Güzel bir üslup ve iyi bir niyetle hareket ederseniz, inşallah arzu ettiğiniz sonuca ulaşırsınız.",
+            "Evlilik Sonucu": "Uygun bir evliliktir. Siz de meselelerinizi nazik ve güzel bir dille ifade edin. İnşallah akıbetiniz hayırlı olur.",
+            " Ticaret/Alışveriş Sonucu": "Güzel ve yumuşak bir üslupla hareket ederseniz, inşallah hayırlı ve kazançlı bir ticaret olacaktır."
+        },
+        {
+            "Sure Adı": "Şuara",
+            "Sure No": 26,
+            "Ayet": 137,
+            "Sayfa": 373,
+            "İstihare Sonucu": "Yapmayın.",
+            "Genel Sonuç": "Olumsuzdur. Çok söz verilecek, çok konuşulacak; ancak bunlar uygulamaya geçirilmeyecektir. Bu nedenle vazgeçmeniz tavsiye edilir.",
+            "Evlilik Sonucu": "Her şey sözde kalacak, verilen vaatler yerine getirilmeyecektir. Bu evlilik için adım atmayın; aksi hâlde sonradan pişman olabilirsiniz.",
+            " Ticaret/Alışveriş Sonucu": "Olumsuzdur. Karşı taraf söylediklerini yerine getirmeyecek ve bu durum anlaşmazlıklara yol açacaktır. Bu nedenle bu ticaretten vazgeçilmesi tavsiye edilir."
+        },
+        {
+            "Sure Adı": "Şuara",
+            "Sure No": 26,
+            "Ayet": 184,
+            "Sayfa": 375,
+            "İstihare Sonucu": "Yapmayın.",
+            "Genel Sonuç": "Olumsuzdur. Sonradan “Ne yapacağım?” diye büyük bir çıkmaz ve pişmanlık yaşayacağınız belirtilmektedir. Bu işten vazgeçilmesi tavsiye edilir.",
+            "Evlilik Sonucu": "Karakter ve mizaç bakımından birbirinize hiç uygun olmadığınız, bu nedenle çok sayıda sorun yaşayacağınız ifade edilmektedir. Bu evlilikten vazgeçilmesi tavsiye edilir.",
+            " Ticaret/Alışveriş Sonucu": "Dürüst ve doğru yolda olmayan kimselerle karşılaşacağınız belirtilmektedir. Bu nedenle bu ticaretten vazgeçilmesi tavsiye edilir."
+        },
+        {
+            "Sure Adı": "Neml",
+            "Sure No": 27,
+            "Ayet": 1,
+            "Sayfa": 377,
+            "İstihare Sonucu": "Mutlaka yapın.",
+            "Genel Sonuç": "Çok hayırlıdır. Allah'a tevekkül ederek bu işe girişin. İnşallah bütün hedeflerinize ulaşacaksınız.",
+            "Evlilik Sonucu": "Çok uygun bir evliliktir. İnşallah akıbetiniz hayırlı olur ve güzel bir sonuca ulaşırsınız.",
+            " Ticaret/Alışveriş Sonucu": "İyi bir kazanç elde edeceksiniz. Yoksul ve ihtiyaç sahiplerini unutmayın; onlara yardım etmeyi ihmal etmeyin."
+        },
+        {
+            "Sure Adı": "Neml",
+            "Sure No": 27,
+            "Ayet": 23,
+            "Sayfa": 379,
+            "İstihare Sonucu": "Yapın.",
+            "Genel Sonuç": "Hayırlıdır. Karşılaşabileceğiniz zorluklardan korkmayın. Allah'a tevekkül ederek bu işe girişirseniz, inşallah başarılı olursunuz.",
+            "Evlilik Sonucu": "Hayırlıdır. Hem dünya hem de ahiret açısından hayır ve bereket taşıyan bir evlilik olarak değerlendirilmektedir. Allah'a tevekkül ederek evlilik için adım atın.",
+            " Ticaret/Alışveriş Sonucu": "Hayırlıdır. Hem dünyevî hem de uhrevî hayır ve bereket taşıyan bir ticaret olarak görülmektedir. Allah'a tevekkül ederek bu işe girişin."
+        },
+        {
+            "Sure Adı": "Neml",
+            "Sure No": 27,
+            "Ayet": 45,
+            "Sayfa": 381,
+            "İstihare Sonucu": "Yapmayın.",
+            "Genel Sonuç": "Olumsuzdur. Anlaşmazlık ve tartışmalarla karşılaşacağınız belirtilmektedir. Bu işten vazgeçilmesi tavsiye edilir.",
+            "Evlilik Sonucu": "Sürekli anlaşmazlık ve çatışmalar yaşayacağınız, bunun da sonunda ayrılıkla sonuçlanabileceği ifade edilmektedir.",
+            " Ticaret/Alışveriş Sonucu": "Anlaşmazlık ve ihtilaflarla karşılaşacağınız belirtilmektedir. Bu nedenle bu ticaretten vazgeçilmesi tavsiye edilir."
+        },
+        {
+            "Sure Adı": "Neml",
+            "Sure No": 27,
+            "Ayet": 64,
+            "Sayfa": 383,
+            "İstihare Sonucu": "Yapmayın.",
+            "Genel Sonuç": "Olumsuzdur. Sonradan “Ne yapacağım?” diye büyük bir çıkmaza düşeceğiniz belirtilmektedir. Bu nedenle bu işten vazgeçilmesi tavsiye edilir.",
+            "Evlilik Sonucu": "Evlilik hayatınız boyunca anlaşmazlıklar yaşayacağınız ve yaptığınız her işten dolayı sürekli sorgulanacağınız ifade edilmektedir. Bu evlilikten vazgeçilmesi tavsiye edilir.",
+            " Ticaret/Alışveriş Sonucu": "Çeşitli sorunlar ve zor şartlarla karşılaşacağınız belirtilmektedir. Bu nedenle bu işe girişmemeniz tavsiye edilir."
+        },
+        {
+            "Sure Adı": "Neml",
+            "Sure No": 27,
+            "Ayet": 89,
+            "Sayfa": 385,
+            "İstihare Sonucu": "Yapın.",
+            "Genel Sonuç": "Hayırlıdır. Şu anda bu işi yapmak için gerekli şartlara sahipsiniz. Allah'a tevekkül ederek bu işe girişin. İnşallah bütün hedeflerinize ulaşacaksınız.",
+            "Evlilik Sonucu": "İnşallah hayırlı ve mübarektir. Çok uygun bir evliliktir. Evlilik için adım atın.",
+            " Ticaret/Alışveriş Sonucu": "Hayırlıdır. İnşallah hedeflediğiniz sonuca ulaşacaksınız. Ancak bütün yönleri dikkatle değerlendirerek hareket edin."
+        },
+        {
+            "Sure Adı": "Kasas",
+            "Sure No": 28,
+            "Ayet": 14,
+            "Sayfa": 387,
+            "İstihare Sonucu": "Yapın.",
+            "Genel Sonuç": "Hayırlıdır. Şu anda bu işi gerçekleştirmek için gerekli şartlara sahipsiniz. Allah'a tevekkül ederek bu işe girişin. İnşallah bütün hedeflerinize ulaşacaksınız.",
+            "Evlilik Sonucu": "İnşallah hayırlı ve mübarek bir evliliktir. Çok uygun bir eşleşmedir. Evlilik için adım atabilirsiniz.",
+            " Ticaret/Alışveriş Sonucu": "Hayırlıdır. İnşallah hedeflediğiniz sonuca ulaşacaksınız. Ancak karar verirken ve uygularken işin bütün yönlerini göz önünde bulundurmayı ihmal etmeyin."
+        },
+        {
+            "Sure Adı": "Kasas",
+            "Sure No": 28,
+            "Ayet": 29,
+            "Sayfa": 389,
+            "İstihare Sonucu": "Yapın.",
+            "Genel Sonuç": "Hayırlıdır. Karşılaşabileceğiniz zorluklardan korkmayın. Allah'a tevekkül ederek bu işe girişin.",
+            "Evlilik Sonucu": "Uygun bir evliliktir. Allah'a tevekkül ederek evlilik için adım atın. İnşallah akıbetiniz hayırlı olur.",
+            " Ticaret/Alışveriş Sonucu": "Bu ticarette iyi bir kazanç ve fayda bulunmaktadır. Allah'a tevekkül ederek bu işe girişin."
+        },
+        {
+            "Sure Adı": "Kasas",
+            "Sure No": 28,
+            "Ayet": 44,
+            "Sayfa": 391,
+            "İstihare Sonucu": "Yapın.",
+            "Genel Sonuç": "Hayırlıdır. Allah'a tevekkül ederek bu işe girişin. Siz üzerinize düşeni yapın; bereket ve başarı Allah'tandır.",
+            "Evlilik Sonucu": "Uygun bir evliliktir. Allah'a tevekkül ederek evlilik için adım atın ve karşılaşabileceğiniz zorluklardan korkmayın.",
+            " Ticaret/Alışveriş Sonucu": "Hayırlıdır. İyi bir kazanç elde edeceksiniz. Allah'a tevekkül ederek bu işe girişin."
+        },
+        {
+            "Sure Adı": "Kasas",
+            "Sure No": 28,
+            "Ayet": 60,
+            "Sayfa": 393,
+            "İstihare Sonucu": "Yapmayın.",
+            "Genel Sonuç": "Olumsuzdur. Bu işte aldatma ve hile bulunduğu belirtilmektedir. Bu nedenle bu işe girişmeyin; aksi hâlde büyük bir pişmanlık yaşayabilirsiniz.",
+            "Evlilik Sonucu": "İnsanların yalnızca dış görünüşüne bakarak karakterlerini veya gelecekte nasıl davranacaklarını anlamak mümkün değildir. Bu nedenle bu evlilikten vazgeçilmesi tavsiye edilmekte; aksi hâlde büyük bir pişmanlık duyulacağı ifade edilmektedir.",
+            " Ticaret/Alışveriş Sonucu": "İşin görünen yüzüne aldanmayın. Sizi aldatabilecekleri ve büyük bir maddi zarara uğratabilecekleri belirtilmektedir. Bu nedenle bu ticaretten vazgeçilmesi tavsiye edilir."
+        },
+        {
+            "Sure Adı": "Kasas",
+            "Sure No": 28,
+            "Ayet": 78,
+            "Sayfa": 395,
+            "İstihare Sonucu": "Yapmayın.",
+            "Genel Sonuç": "Olumsuzdur. Sonradan “Ne yapacağım?” diye büyük bir çıkmaza düşeceğiniz belirtilmektedir. Durumun farkına vardığınızda ise artık pişmanlığın bir faydası olmayacaktır.",
+            "Evlilik Sonucu": "Kesinlikle uygun bir evlilik değildir. Bu evlilikten mutlaka vazgeçilmesi tavsiye edilmektedir; aksi hâlde pişman olacağınız ifade edilmektedir.",
+            " Ticaret/Alışveriş Sonucu": "Bu işe girişmeniz hiçbir şekilde sizin yararınıza değildir. Kurtulması çok güç bir sıkıntının içine düşebileceğiniz belirtilmektedir. Bu nedenle bu ticaretten vazgeçilmesi tavsiye edilir."
+        },
+        {
+            "Sure Adı": "Ankebut",
+            "Sure No": 29,
+            "Ayet": 7,
+            "Sayfa": 397,
+            "İstihare Sonucu": "Yapın.",
+            "Genel Sonuç": "Hayırlıdır. Allah'a tevekkül ederek bu işe girişin. İnşallah bütün hedeflerinize ulaşacaksınız.",
+            "Evlilik Sonucu": "İnşallah hayırlı ve mübarektir. Bir ömür boyu birlikte yaşlanmanız temenni edilmektedir.",
+            " Ticaret/Alışveriş Sonucu": "Hayırlıdır. İyi bir kazanç elde edeceksiniz. Ayrıca geçmişte uğradığınız zararların da telafi edileceği ifade edilmektedir."
+        },
+        {
+            "Sure Adı": "Ankebut",
+            "Sure No": 29,
+            "Ayet": 24,
+            "Sayfa": 399,
+            "İstihare Sonucu": "Tercih size kalmış.",
+            "Genel Sonuç": "Orta derecede uygundur. Bu işte çok sayıda zorluk ve sıkıntı görülmektedir. Eğer sabrınız ve bunlara dayanacak gücünüz varsa yapabilirsiniz; aksi hâlde vazgeçmeniz tavsiye edilir.",
+            "Evlilik Sonucu": "Orta derecede uygundur. Bazı zorluklar ve sorunlar görülmektedir. Eğer bunları çözebileceğinize inanıyorsanız evlilik uygun olabilir; aksi takdirde uygun görülmemektedir.",
+            " Ticaret/Alışveriş Sonucu": "Bu iş emek ve sıkıntı gerektirir. Gücünüz ve imkânınız varsa yapabilirsiniz; aksi hâlde vazgeçmeniz daha uygun olur."
+        },
+        {
+            "Sure Adı": "Ankebut",
+            "Sure No": 29,
+            "Ayet": 39,
+            "Sayfa": 401,
+            "İstihare Sonucu": "Yapmayın.",
+            "Genel Sonuç": "Olumsuzdur. Dış görünüşü veya ilk izlenimi cazip olsa da aslında hiç uygun değildir.",
+            "Evlilik Sonucu": "Kesinlikle bu evliliği yapmayın. Görünenle gerçek arasında büyük bir fark olduğu ifade edilmektedir. Bu evlilikten vazgeçilmesi tavsiye edilir.",
+            " Ticaret/Alışveriş Sonucu": "İşin cazip görünen yönüne aldanmayın. Aksi hâlde büyük bir pişmanlık yaşayacağınız belirtilmektedir."
+        },
+        {
+            "Sure Adı": "Ankebut",
+            "Sure No": 29,
+            "Ayet": 53,
+            "Sayfa": 403,
+            "İstihare Sonucu": "Yapmayın.",
+            "Genel Sonuç": "Olumsuzdur. Can güvenliği ve itibar açısından risk taşıdığı, üstelik bunun hiç beklemediğiniz bir zamanda ve yerde ortaya çıkabileceği belirtilmektedir. Bu nedenle bu işten kesinlikle vazgeçilmesi tavsiye edilir.",
+            "Evlilik Sonucu": "Olumsuzdur. Size uygun bir eşleşme olmadığı, ayrıca itibar ve hatta can güvenliği açısından risk taşıdığı ifade edilmektedir. Bu evlilikten kesinlikle vazgeçilmesi tavsiye edilir.",
+            " Ticaret/Alışveriş Sonucu": "“Ağrımayan başa mendil bağlanmaz.” (Yani durup dururken kendinizi belaya sokmayın.) Bu nedenle bu işi kesinlikle bırakın; çünkü bu işte sizin için hiçbir hayır bulunmadığı ifade edilmektedir."
+        },
+        {
+            "Sure Adı": "Rum",
+            "Sure No": 30,
+            "Ayet": 6,
+            "Sayfa": 405,
+            "İstihare Sonucu": "Yapmayın.",
+            "Genel Sonuç": "Olumsuzdur. Bu işten vazgeçin. Allah, zamanı geldiğinde önünüze daha hayırlı ve daha uygun bir yol çıkaracaktır.",
+            "Evlilik Sonucu": "Uygun bir eş adayı seçmemişsiniz. Sabredin ve Allah'a tevekkül edin; sizin için daha uygun bir eş adayının sizi beklediği ifade edilmektedir.",
+            " Ticaret/Alışveriş Sonucu": "Olumsuzdur. Acele etmek zarara yol açabilir; bu akıllıca bir davranış değildir. Sabredin, önünüze daha iyi bir fırsat çıkacaktır."
+        },
+        {
+            "Sure Adı": "Rum",
+            "Sure No": 30,
+            "Ayet": 25,
+            "Sayfa": 407,
+            "İstihare Sonucu": "Yapın.",
+            "Genel Sonuç": "Hayırlıdır. Ancak yeterli araştırma yaptıktan ve tecrübeli, işin ehli kimselere danıştıktan sonra harekete geçin.",
+            "Evlilik Sonucu": "Hayırlıdır. Fakat önce yeterince araştırma yapın, ardından evlilik için adım atın. Ayrıca baştan konuşulması gereken bütün konuları açıkça konuşun ki ileride sorun yaşamayasınız.",
+            " Ticaret/Alışveriş Sonucu": "Tecrübeli kişilerle istişare ederek ve daha fazla araştırma yaptıktan sonra bu işe girişin. Böylece sonradan zarara uğrama ihtimalinizi azaltmış olursunuz."
+        },
+        {
+            "Sure Adı": "Rum",
+            "Sure No": 30,
+            "Ayet": 42,
+            "Sayfa": 409,
+            "İstihare Sonucu": "Yapmayın.",
+            "Genel Sonuç": "Olumsuzdur. Bu işe girişmeniz hâlinde büyük bir pişmanlık yaşayacağınız belirtilmektedir. Bu nedenle vazgeçilmesi tavsiye edilir.",
+            "Evlilik Sonucu": "Olumsuzdur. İlk bakışta güzel ve cazip görünebilir; ancak bir süre sonra durumun gerçekte öyle olmadığını anlayacaksınız, fakat o zaman iş işten geçmiş olur.",
+            " Ticaret/Alışveriş Sonucu": "Çok emek ve sıkıntı çektikten sonra bile elinize kayda değer bir kazanç geçmeyeceği belirtilmektedir. Dış görünüşüne aldanmayın; aksi hâlde sonradan pişman olabilirsiniz."
+        },
+        {
+            "Sure Adı": "Lokman",
+            "Sure No": 31,
+            "Ayet": 1,
+            "Sayfa": 411,
+            "İstihare Sonucu": "Mutlaka yapın.",
+            "Genel Sonuç": "Çok hayırlıdır. Hem dünya hem de ahiret açısından hayır ve bereket taşımaktadır. Allah'a tevekkül ederek bu işe girişin. İnşallah bütün hedeflerinize ulaşacaksınız.",
+            "Evlilik Sonucu": "Her bakımdan uygun bir evliliktir. İnşallah akıbetiniz hayırlı olur ve güzel bir sonuca ulaşırsınız.",
+            " Ticaret/Alışveriş Sonucu": "Çok kârlı ve kazançlı bir iştir. Allah'a tevekkül ederek bu işe girişin."
+        },
+        {
+            "Sure Adı": "Lokman",
+            "Sure No": 31,
+            "Ayet": 20,
+            "Sayfa": 413,
+            "İstihare Sonucu": "Yapmayın.",
+            "Genel Sonuç": "Olumsuzdur. Bu iş çok fazla dedikoduya, söylentiye ve çeşitli sorunlara yol açacaktır. Bu nedenle vazgeçilmesi tavsiye edilir.",
+            "Evlilik Sonucu": "Başından sonuna kadar tartışma, çekişme ve anlaşmazlıklarla dolu bir evlilik olacağı ifade edilmektedir. Bu yüzden daha en baştan bu evlilikten vazgeçmeniz tavsiye edilir.",
+            " Ticaret/Alışveriş Sonucu": "“Ağrımayan başa mendil bağlanmaz.” (Yani durup dururken kendinizi sıkıntıya sokmayın.) Bu işte çok sayıda sorunla karşılaşacağınız ve sonunda çıkmaza gireceğiniz belirtilmektedir. Bu nedenle bu ticaretten vazgeçilmesi tavsiye edilir."
+        },
+        {
+            "Sure Adı": "Secde",
+            "Sure No": 32,
+            "Ayet": 1,
+            "Sayfa": 415,
+            "İstihare Sonucu": "Mutlaka yapın.",
+            "Genel Sonuç": "Çok hayırlıdır. Karşılaşabileceğiniz zorluklardan korkmayın. Allah'a tevekkül ederek bu işe girişin. İnşallah bütün hedeflerinize ulaşacaksınız.",
+            "Evlilik Sonucu": "Zorluklardan endişe etmeyin. Bu, emek vermeye değer, uygun bir evliliktir. Evlilik için adım atın. İnşallah akıbetiniz hayırlı olur.",
+            " Ticaret/Alışveriş Sonucu": "O kadar iyi bir kazanç elde edeceksiniz ki çektiğiniz sıkıntıları unutacaksınız. Allah'a tevekkül ederek bu işe girişin."
+        },
+        {
+            "Sure Adı": "Secde",
+            "Sure No": 32,
+            "Ayet": 21,
+            "Sayfa": 417,
+            "İstihare Sonucu": "Asla yapmayın.",
+            "Genel Sonuç": "Çok olumsuzdur. İstiğfar edin ve bu işi kesinlikle yapmayın. Bu iş hem dünyada hem de ahirette kötü sonuçlar doğurur.",
+            "Evlilik Sonucu": "Kesinlikle bu evliliği yapmayın. Günahlarınız için tövbe edin ve bu düşünceden tamamen vazgeçin.",
+            " Ticaret/Alışveriş Sonucu": "Bu işe kesinlikle girişmeyin. Aksi hâlde sonradan çok büyük bir pişmanlık yaşarsınız."
+        },
+        {
+            "Sure Adı": "Ahzab",
+            "Sure No": 33,
+            "Ayet": 7,
+            "Sayfa": 419,
+            "İstihare Sonucu": "Yapmayın.",
+            "Genel Sonuç": "Olumsuzdur. Sürekli sorgulanacağınız ve yaptıklarınızdan dolayı hesap vermek zorunda kalacağınız belirtilmektedir. Bu nedenle bu işten vazgeçilmesi tavsiye edilir.",
+            "Evlilik Sonucu": "Sizin için kesinlikle uygun bir evlilik değildir. Sıkıntılı ve huzursuz bir evlilik yaşayacağınız, her konuda hesap vermek zorunda kalacağınız ve acı bir hayatın görüldüğü ifade edilmektedir. Bu nedenle bu evlilikten vazgeçilmesi tavsiye edilir.",
+            " Ticaret/Alışveriş Sonucu": "O kadar çok sorunla karşılaşacağınız belirtilmektedir ki sonunda yaptığınıza pişman olabilirsiniz. Bu nedenle bu ticaretten vazgeçilmesi tavsiye edilir."
+        },
+        {
+            "Sure Adı": "Ahzab",
+            "Sure No": 33,
+            "Ayet": 23,
+            "Sayfa": 421,
+            "İstihare Sonucu": "Mutlaka yapın.",
+            "Genel Sonuç": "Çok hayırlıdır. Düşündüğünüz yöntemle hareket edin. İnşallah bütün hedeflerinize ulaşacaksınız.",
+            "Evlilik Sonucu": "Çok uygun bir evliliktir. Evlilikten önce konuşulması gereken bütün konuları ve bağlı olduğunuz ilke ve değerleri açıkça ifade edin. İnşallah akıbetiniz hayırlı olacaktır.",
+            " Ticaret/Alışveriş Sonucu": "Planladığınız şartlar doğrultusunda hareket edin. İyi bir kazanç elde edeceksiniz ve itibarınız da artacaktır."
+        },
+        {
+            "Sure Adı": "Ahzab",
+            "Sure No": 33,
+            "Ayet": 36,
+            "Sayfa": 423,
+            "İstihare Sonucu": "Yapmayın.",
+            "Genel Sonuç": "Olumsuzdur. Haram bir duruma düşebileceğiniz ve önünüze pek çok engel ile sorun çıkacağı belirtilmektedir. Bu nedenle bu işten vazgeçilmesi tavsiye edilir.",
+            "Evlilik Sonucu": "Sürekli sıkıntı ve acı içinde geçecek bir evlilik yaşayacağınız ifade edilmektedir. Bu nedenle bu evlilikden kesinlikle vazgeçilmesi tavsiye edilir.",
+            " Ticaret/Alışveriş Sonucu": "Bu ticaret sizin için uygun görülmemektedir. Bu işe girmeniz hâlinde çok sayıda sorunla karşılaşabileceğiniz ve haram bir duruma düşebileceğiniz belirtilmektedir. Bu nedenle bu ticaretten vazgeçilmesi tavsiye edilir."
+        },
+        {
+            "Sure Adı": "Ahzab",
+            "Sure No": 33,
+            "Ayet": 51,
+            "Sayfa": 425,
+            "İstihare Sonucu": "Tercih size kalmış.",
+            "Genel Sonuç": "Orta derecede uygundur. Bazı sorunlar ve sıkıntılar görülmektedir. Eğer bunlara dayanacak sabrınız ve gücünüz varsa bu işe girişebilirsiniz; aksi hâlde vazgeçmeniz tavsiye edilir.",
+            "Evlilik Sonucu": "Orta derecede uygundur. Bazı zorluklar ve sıkıntılar görülmektedir. Genel değerlendirmeye göre vazgeçmek daha uygun görünmektedir; ancak bu zorluklara sabır gösterebileceğinize inanıyorsanız evlilik düşünülebilir.",
+            " Ticaret/Alışveriş Sonucu": "Orta derecede uygundur. Bu işi yapmakta ısrarcıysanız, önce bütün yönlerini dikkatlice inceleyin ve değerlendirin. Aksi takdirde vazgeçmeniz daha uygun olacaktır."
+        },
+        {
+            "Sure Adı": "Ahzab",
+            "Sure No": 33,
+            "Ayet": 63,
+            "Sayfa": 427,
+            "İstihare Sonucu": "Yapmayın.",
+            "Genel Sonuç": "Olumsuzdur. İtibarınızı zedeleyecek bir durumla karşılaşabilirsiniz. O noktadan sonra pişmanlığın faydası olmayacaktır. Bu nedenle bu işten vazgeçilmesi tavsiye edilir.",
+            "Evlilik Sonucu": "Kesinlikle uygun bir evlilik değildir. Sürekli kavga ve anlaşmazlık yaşar, bu da itibar kaybına değmez. Bu nedenle bu evlilikten vazgeçilmesi tavsiye edilir.",
+            " Ticaret/Alışveriş Sonucu": "Hem itibar hem de maddi açıdan risk taşımaktadır. Ayrıca güvenilirliğiniz ve saygınlığınız da zarar görebilir. Bu nedenle bu ticaretten vazgeçilmesi tavsiye edilir."
+        },
+        {
+            "Sure Adı": "Sebe",
+            "Sure No": 34,
+            "Ayet": 8,
+            "Sayfa": 429,
+            "İstihare Sonucu": "Yapmayın.",
+            "Genel Sonuç": "Olumsuzdur. Yolunuza pek çok engel ve sorun çıkacağı, sonunda da hedeflediğiniz sonuca ulaşamayacağınız belirtilmektedir. Bu nedenle bu işten vazgeçilmesi tavsiye edilir; aksi hâlde pişmanlık duyabilirsiniz.",
+            "Evlilik Sonucu": "Kesinlikle size uygun bir evlilik değildir. Bu evlilikte çok sayıda sorun bulunduğu, bunlardan bir tanesinin bile mutsuz olmanız için yeterli olacağı ifade edilmektedir. Bu nedenle bu evlilikden kesinlikle vazgeçilmesi tavsiye edilir.",
+            " Ticaret/Alışveriş Sonucu": "Çok sayıda sorun ortaya çıkacağı ve sonunda yaptığınıza pişman olacağınız belirtilmektedir. Bu nedenle bu ticaretten vazgeçilmesi tavsiye edilir."
+        },
+        {
+            "Sure Adı": "Sebe",
+            "Sure No": 34,
+            "Ayet": 23,
+            "Sayfa": 431,
+            "İstihare Sonucu": "Tercih size kalmış.",
+            "Genel Sonuç": "Orta derecede uygundur. Bu iş için gerekli izinlerin alınması ve tecrübeli kimselerle istişare edilmesi tavsiye edilmektedir. Uygun görülür ve gerekli izinler alınırsa bu işe girişebilirsiniz; aksi hâlde vazgeçmeniz daha uygundur.",
+            "Evlilik Sonucu": "Yukarıdaki hususlara riayet edilmelidir. Gerekli izinler alınır ve şartlar uygun şekilde yerine getirilirse evlilik için adım atılabilir; aksi takdirde vazgeçilmesi tavsiye edilir.",
+            " Ticaret/Alışveriş Sonucu": "İşin ehli ve tecrübeli kişilerle istişare edilirse uygun olabilir; aksi hâlde bu ticaretten vazgeçilmesi daha uygundur."
+        },
+        {
+            "Sure Adı": "Sebe",
+            "Sure No": 34,
+            "Ayet": 40,
+            "Sayfa": 433,
+            "İstihare Sonucu": "Yapmayın.",
+            "Genel Sonuç": "Olumsuzdur. Bu işe girişmeniz hâlinde pişman olacağınız ve hiç beklemediğiniz sorunlarla karşılaşacağınız belirtilmektedir. Bu nedenle vazgeçilmesi tavsiye edilir.",
+            "Evlilik Sonucu": "Çeşitli sorunlarla karşılaşacağınız, sıkıntı ve üzüntü yaşayacağınız ifade edilmektedir. Bu evlilikten vazgeçilmesi tavsiye edilir; aksi hâlde pişman olabilirsiniz.",
+            " Ticaret/Alışveriş Sonucu": "Çok emek verdikten sonra bile sonunda hedeflediğiniz sonuca ulaşamayacağınız belirtilmektedir. Bu nedenle bu ticaretten vazgeçilmesi tavsiye edilir."
+        },
+        {
+            "Sure Adı": "Fatır",
+            "Sure No": 35,
+            "Ayet": 4,
+            "Sayfa": 435,
+            "İstihare Sonucu": "Yapmayın.",
+            "Genel Sonuç": "Olumsuzdur. Sözlerinize inanılmayacağı, yalanlanacağınız ve çeşitli sıkıntı ve eziyetlere maruz kalacağınız belirtilmektedir. Bu nedenle bu işten vazgeçilmesi tavsiye edilir.",
+            "Evlilik Sonucu": "Hiç beklemediğiniz sorunlarla karşılaşacağınız ve sonradan pişman olacağınız, ancak o pişmanlığın artık bir fayda sağlamayacağı ifade edilmektedir. Bu evlilikten vazgeçilmesi tavsiye edilir.",
+            " Ticaret/Alışveriş Sonucu": "Çok sayıda sorunla karşılaşacağınız ve iddialarınızın veya sözlerinizin inkâr edileceği belirtilmektedir. Bu nedenle bu ticaretten vazgeçilmesi tavsiye edilir."
+        },
+        {
+            "Sure Adı": "Fatır",
+            "Sure No": 35,
+            "Ayet": 19,
+            "Sayfa": 437,
+            "İstihare Sonucu": "Yapmayın.",
+            "Genel Sonuç": "Olumsuzdur. Zihninizde tasarladığınız şey ile gerçek durum arasında büyük bir fark olduğu belirtilmektedir. Bu nedenle bu işten vazgeçilmesi tavsiye edilir; aksi hâlde büyük bir pişmanlık yaşayabilirsiniz.",
+            "Evlilik Sonucu": "İnsanların dış görünüşü ile gerçek karakterleri arasında büyük farklar olabileceği, bunu ise ancak çok geç olduğunda fark edebileceğiniz ifade edilmektedir. Bu nedenle bu evlilikten vazgeçilmesi tavsiye edilir.",
+            " Ticaret/Alışveriş Sonucu": "İlk bakışta çok cazip ve güzel görünse de gerçekte hem maddi açıdan hem de itibarınız bakımından büyük zararlara yol açabileceği belirtilmektedir. Bu nedenle bu ticaretten vazgeçilmesi tavsiye edilir."
+        },
+        {
+            "Sure Adı": "Fatır",
+            "Sure No": 35,
+            "Ayet": 39,
+            "Sayfa": 439,
+            "İstihare Sonucu": "Yapmayın.",
+            "Genel Sonuç": "Olumsuzdur. Bu işe girişmeniz hâlinde sonradan büyük bir pişmanlık yaşayacağınız belirtilmektedir. Bu nedenle kesinlikle vazgeçilmesi tavsiye edilir.",
+            "Evlilik Sonucu": "Kesinlikle uygun bir eş adayı seçmediğiniz ifade edilmektedir. Henüz vakit varken bu karardan vazgeçmeniz tavsiye edilir; çünkü daha sonra duyulacak pişmanlığın faydası olmayacaktır.",
+            " Ticaret/Alışveriş Sonucu": "Bu işe kesinlikle girişmeyin. Aksi hâlde hem maddi kayıp yaşayabileceğiniz hem de itibarınızın zarar görebileceği belirtilmektedir."
+        },
+        {
+            "Sure Adı": "Yasin",
+            "Sure No": 36,
+            "Ayet": 13,
+            "Sayfa": 441,
+            "İstihare Sonucu": "Yapmayın.",
+            "Genel Sonuç": "Olumsuzdur. Çok emek ve zahmet göstereceğiniz, ancak sonunda istediğiniz sonuca ulaşamayacağınız belirtilmektedir. Bu nedenle bu işten vazgeçilmesi tavsiye edilir.",
+            "Evlilik Sonucu": "Kesinlikle uygun bir evlilik değildir. Sürekli tartışma ve kavganın yaşanacağı ifade edilmektedir. Bu nedenle bu evlilikten vazgeçilmesi tavsiye edilir.",
+            " Ticaret/Alışveriş Sonucu": "Çok emek harcayacağınız, önünüze pek çok engel çıkacağı ve sonunda maddi zarara uğrayacağınız belirtilmektedir. Bu nedenle bu ticaretten vazgeçilmesi tavsiye edilir."
+        },
+        {
+            "Sure Adı": "Yasin",
+            "Sure No": 36,
+            "Ayet": 41,
+            "Sayfa": 443,
+            "İstihare Sonucu": "Yapmayın.",
+            "Genel Sonuç": "Olumsuzdur. Çok emek ve zahmet çekeceğiniz, ancak sonunda pişmanlıktan başka bir sonuç elde edemeyeceğiniz belirtilmektedir. Bu nedenle bu işten vazgeçilmesi tavsiye edilir.",
+            "Evlilik Sonucu": "Olumsuzdur. Tartışmalar, anlaşmazlıklar ve dedikodularla dolu bir evlilik yaşayacağınız ifade edilmektedir. Bu nedenle bu evlilikten vazgeçilmesi tavsiye edilir.",
+            " Ticaret/Alışveriş Sonucu": "Bu ticaretten vazgeçmeniz tavsiye edilir. Çünkü sonunda pişmanlıktan başka bir sonuç elde edemeyeceğiniz belirtilmektedir."
+        },
+        {
+            "Sure Adı": "Yasin",
+            "Sure No": 36,
+            "Ayet": 71,
+            "Sayfa": 445,
+            "İstihare Sonucu": "Yapmayın.",
+            "Genel Sonuç": "Olumsuzdur. Bu işe girişmeyin; çünkü sonunda pişmanlık duyacağınız belirtilmektedir.",
+            "Evlilik Sonucu": "Olumsuzdur. Çok sayıda sıkıntı ve zorluk yaşayacağınız, buna rağmen karşı tarafın sizden gücünüzü aşan beklentiler içinde olacağı ifade edilmektedir. Sonunda pişmanlık duyabileceğiniz için bu evlilikten vazgeçilmesi tavsiye edilir.",
+            " Ticaret/Alışveriş Sonucu": "Bu işten kazanç elde edemeyeceğiniz, ayrıca anlaşmazlık ve tartışmalara yol açacağı belirtilmektedir. Bu nedenle bu ticaretten vazgeçilmesi tavsiye edilir; aksi hâlde pişmanlık yaşayabilirsiniz."
+        },
+        {
+            "Sure Adı": "Saffat",
+            "Sure No": 37,
+            "Ayet": 25,
+            "Sayfa": 447,
+            "İstihare Sonucu": "Yapmayın.",
+            "Genel Sonuç": "Olumsuzdur. Bu iş nedeniyle sorgulanacağınız ve hesap vermek zorunda kalacağınız belirtilmektedir. Bu nedenle bu işten vazgeçilmesi tavsiye edilir.",
+            "Evlilik Sonucu": "“Eğer canınızdan bezdiyseniz, o zaman bu evliliğe girişin.” Bu ifade, evliliğin son derece uygunsuz görüldüğünü vurgulayan mecazî ve sert bir uyarıdır; yani bu evlilikten kesinlikle vazgeçilmesi tavsiye edilmektedir.",
+            " Ticaret/Alışveriş Sonucu": "Olumsuzdur. Maddi zarar göreceğiniz, hatta sermayenizi kaybetme ihtimalinizin bulunduğu belirtilmektedir. Bu nedenle bu ticaretten vazgeçilmesi tavsiye edilir."
+        },
+        {
+            "Sure Adı": "Saffat",
+            "Sure No": 37,
+            "Ayet": 77,
+            "Sayfa": 449,
+            "İstihare Sonucu": "Mutlaka yapın.",
+            "Genel Sonuç": "Çok hayırlıdır. Allah'a tevekkül ederek bu işe girişin. İnşallah bütün hedeflerinize ulaşacaksınız.",
+            "Evlilik Sonucu": "Çok hayırlı ve uygun bir evliliktir. Bu evliliğin meyvesi olarak salih ve iyi evlatlar nasip olacağı ifade edilmektedir. Allah'a tevekkül ederek evlilik için adım atın.",
+            " Ticaret/Alışveriş Sonucu": "Çok hayırlıdır. Allah'a tevekkül ederek bu işe girişin. İnşallah sizi güzel bir kazanç beklemektedir. İhtiyaç sahiplerini ve yoksulları da unutmayın."
+        },
+        {
+            "Sure Adı": "Saffat",
+            "Sure No": 37,
+            "Ayet": 127,
+            "Sayfa": 451,
+            "İstihare Sonucu": "Yapmayın.",
+            "Genel Sonuç": "Olumsuzdur. Sözlerinizin inkâr edileceği veya size inanılmayacağı ve bunun sonucunda çeşitli sorunlarla karşılaşacağınız belirtilmektedir. Bu nedenle bu işten vazgeçilmesi tavsiye edilir.",
+            "Evlilik Sonucu": "Evlilikte, birlikte yaşamayı sizin için neredeyse imkânsız hâle getirecek sorunlar ve sıkıntılarla karşılaşacağınız ifade edilmektedir. Bu nedenle bu evlilikten vazgeçilmesi tavsiye edilir.",
+            " Ticaret/Alışveriş Sonucu": "Bu işte, itibarınıza zarar verecek bazı sorunların bulunduğu ve maddi kayıp yaşayabileceğiniz belirtilmektedir. Bu nedenle bu ticaretten vazgeçilmesi tavsiye edilir."
+        },
+        {
+            "Sure Adı": "Sad",
+            "Sure No": 38,
+            "Ayet": 1,
+            "Sayfa": 453,
+            "İstihare Sonucu": "Yapın.",
+            "Genel Sonuç": "Hayırlıdır. Karşılaşabileceğiniz zorluklardan korkmayın. Allah'a tevekkül ederek bu işe girişin.",
+            "Evlilik Sonucu": "Hayırlıdır. Allah'a tevekkül ederek evlilik için adım atın. Evliliğin ilk dönemlerinde bazı sorunların yaşanması normaldir; önemli olan bunlardan korkmamak ve sabırla hareket etmektir.",
+            " Ticaret/Alışveriş Sonucu": "İyi bir kazanç sağlayacaktır ve harcanacak emeğe değecektir. Allah'a tevekkül ederek bu işe girişin."
+        },
+        {
+            "Sure Adı": "Sad",
+            "Sure No": 38,
+            "Ayet": 27,
+            "Sayfa": 455,
+            "İstihare Sonucu": "Yapmayın.",
+            "Genel Sonuç": "Olumsuzdur. Maddi kayıp ve itibar zedelenmesi riski taşımaktadır. Bu nedenle bu işten kesinlikle vazgeçilmesi tavsiye edilir.",
+            "Evlilik Sonucu": "Kesinlikle uygun bir evlilik değildir. Bu evliliği yapmanız hâlinde büyük bir pişmanlık yaşayacaksınız.",
+            " Ticaret/Alışveriş Sonucu": "Çok büyük bir maddi zarar görecek ve bunun sonucunda itibarınız da zedelenecektir. Bu nedenle bu ticaretten vazgeçilmesi tavsiye edilir."
+        },
+        {
+            "Sure Adı": "Sad",
+            "Sure No": 38,
+            "Ayet": 62,
+            "Sayfa": 457,
+            "İstihare Sonucu": "Yapmayın.",
+            "Genel Sonuç": "Olumsuzdur. Bazı cahil ve anlayışsız kimselerin eziyet ve sıkıntısına maruz kalacağınız, sonunda da yaptığınıza büyük bir pişmanlık duyacağınız belirtilmektedir. Bu nedenle bu işten vazgeçilmesi tavsiye edilir.",
+            "Evlilik Sonucu": "Bu evlilikte kavga, çatışma ve sonunda boşanma görüldüğü; bunun dışında hayırlı bir sonuç bulunmadığı ifade edilmektedir. Bu nedenle bu evlilikten vazgeçilmesi tavsiye edilir.",
+            " Ticaret/Alışveriş Sonucu": "Dolandırıcı ve kötü niyetli kimselerle karşılaşabileceğiniz belirtilmektedir. Bu nedenle bu işe kesinlikle girişmemeniz tavsiye edilir."
+        },
+        {
+            "Sure Adı": "Zumer",
+            "Sure No": 39,
+            "Ayet": 6,
+            "Sayfa": 459,
+            "İstihare Sonucu": "Tercih size kalmış.",
+            "Genel Sonuç": "Orta derecede uygundur. İşin bütün yönlerini dikkatlice değerlendirdikten ve şartların uygun olduğundan emin olduktan sonra bu işe girişebilirsiniz; aksi hâlde vazgeçmeniz tavsiye edilir.",
+            "Evlilik Sonucu": "Daha fazla araştırma yapın. Bütün yönleriyle değerlendirdikten sonra herhangi bir olumsuzluk görmezseniz evlilik için adım atabilirsiniz; aksi takdirde vazgeçmeniz daha uygun olur.",
+            " Ticaret/Alışveriş Sonucu": "Tecrübeli ve işin ehli kimselerle istişare edin, işin bütün yönlerini dikkatlice değerlendirin. Sonuç olumlu olursa bu işe girişin; aksi hâlde vazgeçin."
+        },
+        {
+            "Sure Adı": "Zumer",
+            "Sure No": 39,
+            "Ayet": 22,
+            "Sayfa": 461,
+            "İstihare Sonucu": "Yapmayın.",
+            "Genel Sonuç": "Olumsuzdur. Olayın dış görünüşüne bakarak gerçekte nasıl olduğunu anlamak mümkün değildir. Bu nedenle bu işten vazgeçilmesi tavsiye edilir.",
+            "Evlilik Sonucu": "Uygun bir evlilik değildir. Sadece dış görünüşe önem vermek, insanı pek çok önemli gerçeği görmez hâle getirebilir. Bu nedenle bu evlilikden vazgeçilmesi tavsiye edilir.",
+            " Ticaret/Alışveriş Sonucu": "“Rengârenk ve güzel görünen bir yılan gibidir; ama ona yaklaşmamaya çalış.” Bu ifade mecazî olarak, işin dışarıdan çok cazip görünse de aslında tehlikeli olduğunu anlatmaktadır. Bu nedenle bu ticaretten uzak durmanız tavsiye edilir."
+        },
+        {
+            "Sure Adı": "Zumer",
+            "Sure No": 39,
+            "Ayet": 41,
+            "Sayfa": 463,
+            "İstihare Sonucu": "Tercih size kalmış.",
+            "Genel Sonuç": "Orta derecede uygundur. Bütün yönleri dikkate alır ve dikkatli, temkinli hareket ederseniz uygun olabilir; aksi hâlde uygun değildir.",
+            "Evlilik Sonucu": "Bu evlilik, getireceği sıkıntı ve sorunlara değmeyecek gibi görünmektedir. Sıkıntılı bir evlilik yaşayabileceğiniz ifade edildiğinden, hiç başlamamanızın daha iyi olacağı tavsiye edilmektedir.",
+            " Ticaret/Alışveriş Sonucu": "Dolandırıcı ve kötü niyetli kişilerle karşılaşabileceğiniz belirtilmektedir. Bu nedenle çok dikkatli hareket edin; mümkünse bu ticaretten vazgeçmeniz tavsiye edilir."
+        },
+        {
+            "Sure Adı": "Zumer",
+            "Sure No": 39,
+            "Ayet": 57,
+            "Sayfa": 465,
+            "İstihare Sonucu": "Asla yapmayın.",
+            "Genel Sonuç": "Çok olumsuzdur. Bu işe girişmeniz hâlinde çok büyük bir pişmanlık yaşayacaksınız. Bu nedenle kesinlikle vazgeçilmesi tavsiye edilir.",
+            "Evlilik Sonucu": "Çok olumsuzdur. Birbirinizle hiçbir uyum ve ortak yönünüzün bulunmadığı, bu evliliğin gerçekleşmesi hâlinde ise büyük bir pişmanlık duyacağınız ifade edilmektedir.",
+            " Ticaret/Alışveriş Sonucu": "Bu ticareti yapmanız durumunda ağır maddi zarara uğrayacağınız ve büyük bir pişmanlık yaşayacağınız belirtilmektedir. Bu nedenle bu ticaretten kesinlikle vazgeçilmesi tavsiye edilir."
+        },
+        {
+            "Sure Adı": "Zumer",
+            "Sure No": 39,
+            "Ayet": 75,
+            "Sayfa": 467,
+            "İstihare Sonucu": "Yapın.",
+            "Genel Sonuç": "Hayırlıdır. Allah'a tevekkül ederek bu işe girişin. İnşallah bütün hedeflerinize ulaşacaksınız.",
+            "Evlilik Sonucu": "Her bakımdan uygun bir evliliktir. Allah'a tevekkül ederek evlilik için adım atın. İnşallah hayırlı bir akıbete ulaşırsınız.",
+            " Ticaret/Alışveriş Sonucu": "Bu ticaretten güzel bir kazanç elde edeceğiniz belirtilmektedir. İhtiyaç sahiplerini ve yoksulları da unutmayın."
+        },
+        {
+            "Sure Adı": "Mumin",
+            "Sure No": 40,
+            "Ayet": 17,
+            "Sayfa": 469,
+            "İstihare Sonucu": "Yapmayın.",
+            "Genel Sonuç": "Olumsuzdur. Bu iş çok hassas ve ince hesap gerektiren bir konudur; en küçük bir hata veya dikkatsizlik bile ciddi sonuçlara yol açabilir. Bu nedenle vazgeçmeniz daha isabetli olacaktır.",
+            "Evlilik Sonucu": "Dışarıdan çok cazip görünse de işin iç yüzü sizin için sıkıntılı olacaktır. Metindeki ifadeyle: “Dış görünüşü başkalarını cezbedebilir; fakat içi sizi yakar.” Bu nedenle bu evlilikten vazgeçilmesi tavsiye edilir.",
+            " Ticaret/Alışveriş Sonucu": "En küçük bir hatada bile büyük kayıplar yaşayabilirsiniz. Bu nedenle bu ticarete girişmemeniz tavsiye edilir."
+        },
+        {
+            "Sure Adı": "Mumin",
+            "Sure No": 40,
+            "Ayet": 34,
+            "Sayfa": 471,
+            "İstihare Sonucu": "Yapmayın.",
+            "Genel Sonuç": "Olumsuzdur. İftira ve asılsız suçlamalara maruz kalabileceğiniz, ayrıca insanların dikkatini olumsuz şekilde çeken biri hâline gelebileceğiniz belirtilmektedir. Bu nedenle bu işten vazgeçilmesi tavsiye edilir.",
+            "Evlilik Sonucu": "Dışarıdan bakıldığında bir sorun var gibi görünmese de gerçekte durumun farklı olduğu ifade edilmektedir. Bu evliliği yapmanız hâlinde büyük bir pişmanlık yaşayabileceğiniz belirtilmektedir. Bu nedenle vazgeçilmesi tavsiye edilir.",
+            " Ticaret/Alışveriş Sonucu": "Büyük bir maddi zarar görecek ve itibarınız da zedelenecektir. Bu nedenle bu ticaretten vazgeçilmesi tavsiye edilir."
+        },
+        {
+            "Sure Adı": "Mumin",
+            "Sure No": 40,
+            "Ayet": 50,
+            "Sayfa": 473,
+            "İstihare Sonucu": "Yapmayın.",
+            "Genel Sonuç": "Olumsuzdur. Bu işe girişmeniz hâlinde büyük bir pişmanlık yaşayacak, ancak o pişmanlık artık size bir fayda sağlamayacaktır.  Bu nedenle bu işten vazgeçilmesi tavsiye edilir.",
+            "Evlilik Sonucu": "Kesinlikle sizin için uygun bir evlilik değildir. Bu evliliği yapmamanız tavsiye edilir; çünkü sonradan duyacağınız pişmanlığın bir faydası olmayacaktır.",
+            " Ticaret/Alışveriş Sonucu": "Bu ticaret nedeniyle sıkıntı ve zorluklarla karşılaşacak, ayrıca maddi zarara uğrayacaksınız. Bu nedenle bu ticaretten vazgeçilmesi tavsiye edilir."
+        },
+        {
+            "Sure Adı": "Mumin",
+            "Sure No": 40,
+            "Ayet": 67,
+            "Sayfa": 475,
+            "İstihare Sonucu": "Yapmayın.",
+            "Genel Sonuç": "Olumsuzdur. Her ne kadar başlangıçta durum böyle görünmese de sonunda bu işten geriye yalnızca üzüntü, pişmanlık ve hasret kalacaktır.  Bu nedenle bu işten vazgeçilmesi tavsiye edilir.",
+            "Evlilik Sonucu": "“Başı da sonu da kanlı gözyaşıdır... Canım, bu söze kulak ver ve vazgeç.”",
+            " Ticaret/Alışveriş Sonucu": "Büyük bir maddi zarar görecek ve itibarınız da zedelenecektir. Bu nedenle bu ticaretten vazgeçilmesi tavsiye edilir."
+        },
+        {
+            "Sure Adı": "Fussilet",
+            "Sure No": 41,
+            "Ayet": 1,
+            "Sayfa": 477,
+            "İstihare Sonucu": "Mutlaka yapın.",
+            "Genel Sonuç": "Çok hayırlıdır. Allah'a tevekkül ederek bu işe girişin. İnşallah bütün hedeflerinize ulaşacaksınız.",
+            "Evlilik Sonucu": "İnşallah hayırlı ve bereketli bir evlilik olacaktır. Allah'a tevekkül ederek evlilik için adım atın.",
+            " Ticaret/Alışveriş Sonucu": "Bu ticaret çok kârlı ve bereketli olacaktır. İhtiyaç sahiplerini ve yoksulları da unutmayın."
+        },
+        {
+            "Sure Adı": "Fussilet",
+            "Sure No": 41,
+            "Ayet": 21,
+            "Sayfa": 479,
+            "İstihare Sonucu": "Yapmayın.",
+            "Genel Sonuç": "Olumsuzdur. Bu işin sonucu, amaçladığınızın tam tersi olacaktır. Bu nedenle bu işten vazgeçilmesi tavsiye edilir.",
+            "Evlilik Sonucu": "Sıkıntılı bir evlilik yaşayacaksınız ve zaman geçtikçe durum daha da kötüleşecek. Bu nedenle bu evlilikten vazgeçilmesi tavsiye edilir.",
+            " Ticaret/Alışveriş Sonucu": "Büyük bir maddi zarara uğrayacak ve ağır bir pişmanlık yaşayacaksınız. Bu nedenle bu ticarete girişmemeniz tavsiye edilir."
+        },
+        {
+            "Sure Adı": "Fussilet",
+            "Sure No": 41,
+            "Ayet": 39,
+            "Sayfa": 481,
+            "İstihare Sonucu": "Yapın.",
+            "Genel Sonuç": "Hayırlıdır. Allah'a tevekkül ederek bu işe girişin. İnşallah hedeflerinize ulaşacaksınız.",
+            "Evlilik Sonucu": "Uygun ve hayırlı bir evliliktir. Size huzur ve mutluluk getireceği, ayrıca sağlıklı ve hayırlı evlatlara vesile olacağı ifade edilmektedir.",
+            " Ticaret/Alışveriş Sonucu": "Bu ticaretten güzel bir kazanç elde edeceksiniz. Allah'a tevekkül ederek bu işe girişin."
+        },
+        {
+            "Sure Adı": "Şura",
+            "Sure No": 42,
+            "Ayet": 1,
+            "Sayfa": 483,
+            "İstihare Sonucu": "Mutlaka yapın.",
+            "Genel Sonuç": "Çok hayırlıdır. İnşallah bütün hedeflerinize ulaşacaksınız ve bu iş, itibarınızın artmasına da vesile olacaktır.",
+            "Evlilik Sonucu": "İnşallah hayırlı ve bereketli bir evlilik olacaktır. Birbirinizin kıymetini bilin ve her zaman Allah'ı unutmayın.",
+            " Ticaret/Alışveriş Sonucu": "Kârlı ve kazançlı bir iş olacaktır. Allah'a tevekkül ederek bu işe girişin."
+        },
+        {
+            "Sure Adı": "Şura",
+            "Sure No": 42,
+            "Ayet": 16,
+            "Sayfa": 485,
+            "İstihare Sonucu": "Asla yapmayın.",
+            "Genel Sonuç": "Çok olumsuzdur. Bu işe kesinlikle girişmeyin; aksi hâlde büyük bir pişmanlık yaşayacağınız belirtilmektedir.",
+            "Evlilik Sonucu": "Kesinlikle uygun bir evlilik değildir. Bu evliliğin sürekli tartışma, anlaşmazlık ve çekişmelerle dolu olacağı ifade edilmektedir. Bu nedenle vazgeçilmesi tavsiye edilir.",
+            " Ticaret/Alışveriş Sonucu": "Bu işe girmeniz hâlinde harama düşebileceğiniz, ayrıca ağır sıkıntı ve katlanılması zor zorluklarla karşılaşabileceğiniz belirtilmektedir. Bu nedenle bu ticarete kesinlikle girişmemeniz tavsiye edilir."
+        },
+        {
+            "Sure Adı": "Şura",
+            "Sure No": 42,
+            "Ayet": 32,
+            "Sayfa": 487,
+            "İstihare Sonucu": "Yapın.",
+            "Genel Sonuç": "Hayırlıdır. Sabır ve metanet gösterirseniz sorunlarınız çözülecek ve inşallah istediğiniz sonuca ulaşacaksınız.",
+            "Evlilik Sonucu": "Hayırlıdır. Ancak evliliğin ilk dönemlerinde karşılaşabileceğiniz zorluklardan korkmamanız, sabır ve sağduyu ile bu sorunları çözmeniz gerektiği ifade edilmektedir.",
+            " Ticaret/Alışveriş Sonucu": "Emek ve zahmet gerektirse de sonunda güzel bir kazanç elde edeceğiniz belirtilmektedir. Allah'a tevekkül edin ve hiçbir işinizde O'nu unutmayın."
+        },
+        {
+            "Sure Adı": "Şura",
+            "Sure No": 42,
+            "Ayet": 52,
+            "Sayfa": 489,
+            "İstihare Sonucu": "Mutlaka yapın.",
+            "Genel Sonuç": "Çok hayırlıdır. Allah'a tevekkül ederek bu işe girişin. İnşallah hem dünya hem de ahiret açısından hayır ve bereketi vardır.",
+            "Evlilik Sonucu": "Uygun ve hayırlı bir evliliktir. İnşallah hayırlı bir akıbete ulaşırsınız.",
+            " Ticaret/Alışveriş Sonucu": "Allah'a tevekkül ederek bu işe girişin. “Siz gayret edin, bereketi veren Allah'tır.” anlamındaki ifadeyle, çalışmanın sizden, bereket ve başarının ise Allah'tan olduğu vurgulanmaktadır."
+        },
+        {
+            "Sure Adı": "Zuhruf",
+            "Sure No": 43,
+            "Ayet": 23,
+            "Sayfa": 491,
+            "İstihare Sonucu": "Yapma.",
+            "Genel Sonuç": "Uygun değildir. Çok emek ve zahmet çekeceksiniz; ancak sonunda da istediğiniz sonuca ulaşamayacaksınız.",
+            "Evlilik Sonucu": "Kesinlikle birbirinize uygun değilsiniz. Aranızda neredeyse hiçbir ortak nokta yoktur ve sonunda da beklediğiniz sonucu elde edemezsiniz.",
+            " Ticaret/Alışveriş Sonucu": "Çok emek verilir; fakat sonunda zarar ve pişmanlık olur. Bu işten vazgeçilmesi tavsiye edilir."
+        },
+        {
+            "Sure Adı": "Zuhruf",
+            "Sure No": 43,
+            "Ayet": 48,
+            "Sayfa": 493,
+            "İstihare Sonucu": "Yapma.",
+            "Genel Sonuç": "Uygun değildir. Sıkıntı ve zorluk içine düşersiniz; yaptığınızdan da pişman olursunuz.",
+            "Evlilik Sonucu": "Büyük zorluk ve sıkıntılar yaşarsınız; yaptığınız evlilikten çok ağır bir şekilde pişman olursunuz. Kesinlikle vazgeçilmesi tavsiye edilir.",
+            " Ticaret/Alışveriş Sonucu": "Zarar ve ziyana uğrarsınız; sonunda da ciddi bir pişmanlık yaşanır."
+        },
+        {
+            "Sure Adı": "Zuhruf",
+            "Sure No": 43,
+            "Ayet": 74,
+            "Sayfa": 495,
+            "İstihare Sonucu": "Asla yapma.",
+            "Genel Sonuç": "Çok kötüdür. Kesinlikle bu işe girişmeyin. Sonunda ağır bir pişmanlık yaşar ve “Ne yapacağım?” diye çaresiz kalacağınız sıkıntılara düşersiniz.",
+            "Evlilik Sonucu": "Kesinlikle uygun bir eşleşme değildir. Büyük sıkıntı ve ağır acılar yaşarsınız. Bu evlilikten mutlaka vazgeçilmelidir.",
+            " Ticaret/Alışveriş Sonucu": "Çok büyük bir maddi zarara uğrarsınız. Ayrıca bu sebeple itibarınız ve saygınlığınız da zedelenebilir. Bu işten vazgeçilmesi tavsiye edilir."
+        },
+        {
+            "Sure Adı": "Duhan",
+            "Sure No": 44,
+            "Ayet": 19,
+            "Sayfa": 497,
+            "İstihare Sonucu": "Yapma.",
+            "Genel Sonuç": "Uygun değildir. Gücünüzün üstünde olacak zorluk ve sıkıntılarla karşılaşırsınız. Bu işten vazgeçilmesi tavsiye edilir.",
+            "Evlilik Sonucu": "Kavga, anlaşmazlık, çatışma, boşanma ve benzeri olumsuz sonuçlara yol açabilir. Kesinlikle vazgeçilmesi tavsiye edilir.",
+            " Ticaret/Alışveriş Sonucu": "Zarar, itibar kaybı, rezil olma (itibarın zedelenmesi) ve benzeri olumsuzluklar yaşanabilir. Kesinlikle bu işe girişilmemesi tavsiye edilir."
+        },
+        {
+            "Sure Adı": "Casiye",
+            "Sure No": 45,
+            "Ayet": 1,
+            "Sayfa": 499,
+            "İstihare Sonucu": "Mutlaka yap.",
+            "Genel Sonuç": "Çok hayırlıdır. Allah'a tevekkül ederek hareket ederseniz, inşallah bütün hedeflerinize ulaşırsınız.",
+            "Evlilik Sonucu": "Her bakımdan uygun bir eşleşmedir. İnşallah sonunuz hayırlı olur. Her durumda Allah'ı hatırınızdan çıkarmayın.",
+            " Ticaret/Alışveriş Sonucu": "Çok hayırlıdır. Size güzel bir kazanç nasip olacaktır. Allah'a tevekkül ederek bu işe girişin. İhtiyaç sahiplerini ve yoksulları da unutmayın."
+        },
+        {
+            "Sure Adı": "Casiye",
+            "Sure No": 45,
+            "Ayet": 23,
+            "Sayfa": 501,
+            "İstihare Sonucu": "Asla yapma.",
+            "Genel Sonuç": "Çok kötüdür. Geçmişten ders alın ve önceki hatalarınızı tekrarlamayın. Aksi hâlde bunun bedelini ağır bir şekilde ödemek zorunda kalırsınız.",
+            "Evlilik Sonucu": "Çok olumsuzdur. Kesinlikle birbirinize uygun değilsiniz. Bu evlilik gerçekleşirse çok büyük bir pişmanlık yaşarsınız; ancak o zaman pişmanlığın bir faydası olmaz.",
+            " Ticaret/Alışveriş Sonucu": "Büyük bir maddi zarara uğrar ve derin bir pişmanlık yaşarsınız. Bu işe kesinlikle girişmeyin."
+        },
+        {
+            "Sure Adı": "Ahkaf",
+            "Sure No": 46,
+            "Ayet": 6,
+            "Sayfa": 503,
+            "İstihare Sonucu": "Asla yapma.",
+            "Genel Sonuç": "Çok kötüdür. Karşınıza sizi kendi çıkarları için basamak olarak kullanacak insanlar çıkar ve sonunda sizi büyük bir yıkıma ve sefalete sürüklerler. Bu işe kesinlikle girişmeyin.",
+            "Evlilik Sonucu": "Kesinlikle bu evliliği yapmayın. Çünkü çok kötü, mutsuz ve sıkıntılarla dolu bir evlilik hayatınız olur.",
+            " Ticaret/Alışveriş Sonucu": "Bu iş yüzünden hem mal varlığınız hem de itibarınız zarar görür. Bu işe girişmekten vazgeçilmesi tavsiye edilir."
+        },
+        {
+            "Sure Adı": "Ahkaf",
+            "Sure No": 46,
+            "Ayet": 21,
+            "Sayfa": 505,
+            "İstihare Sonucu": "Asla yapma.",
+            "Genel Sonuç": "Çok kötüdür. Karşınıza hiçbir merhamet ve vicdan duygusu olmayan insanlar çıkar; sizi büyük bir yoksulluğa ve sefalete sürüklerler. Bu işten kesinlikle vazgeçilmelidir.",
+            "Evlilik Sonucu": "Çok olumsuzdur. Aranızda hiçbir ortak nokta yoktur. Kesinlikle bu evlilikten vazgeçilmesi tavsiye edilir.",
+            " Ticaret/Alışveriş Sonucu": "Çok kötüdür. Hem sermayeniz hem de itibarınız tehlikeye girer. Dolandırıcı ve sahtekâr kişilerin tuzağına düşebilir, bunun sonucunda büyük mağduriyet yaşayabilirsiniz. Bu işe kesinlikle girişmeyin."
+        },
+        {
+            "Sure Adı": "Muhammed",
+            "Sure No": 47,
+            "Ayet": 1,
+            "Sayfa": 507,
+            "İstihare Sonucu": "Asla yapma.",
+            "Genel Sonuç": "Çok kötüdür. Ne yaparsanız yapın istediğiniz sonuca ulaşamazsınız. Sonunda elinizde pişmanlıktan başka bir şey kalmaz.",
+            "Evlilik Sonucu": "Çok olumsuzdur. Mutsuz bir evlilik hayatı yaşarsınız; sürekli kavga, anlaşmazlık ve çatışmalar görülmektedir.",
+            " Ticaret/Alışveriş Sonucu": "Uygun değildir. Hem mal varlığınız hem de itibarınız tehlikeye girer. Ne kadar çabalarsanız çabalayın istediğiniz sonuca ulaşamazsınız. Bu işten vazgeçilmesi tavsiye edilir."
+        },
+        {
+            "Sure Adı": "Muhammed",
+            "Sure No": 47,
+            "Ayet": 20,
+            "Sayfa": 509,
+            "İstihare Sonucu": "Yapma.",
+            "Genel Sonuç": "Uygun değildir. Doğru yolda olmayan kimselerle karşılaşırsınız. Siz ne kadar uğraşırsanız uğraşın onlar kendi bildiklerini okumaya devam ederler. Bu işten vazgeçilmesi tavsiye edilir.",
+            "Evlilik Sonucu": "Sürekli kavga ve anlaşmazlık görülmektedir. Birbirinize uygun değilsiniz ve birçok sorun yaşarsınız. Bu evlilikten vazgeçilmesi tavsiye edilir.",
+            " Ticaret/Alışveriş Sonucu": "Uygun değildir. Söz dinlemeyen, anlaşması güç kişilerle karşılaşırsınız ve bunun sonucunda büyük maddi zararlar yaşarsınız. Bu işe girişilmemesi tavsiye edilir."
+        },
+        {
+            "Sure Adı": "Feth",
+            "Sure No": 48,
+            "Ayet": 1,
+            "Sayfa": 511,
+            "İstihare Sonucu": "Mutlaka yap.",
+            "Genel Sonuç": "Çok hayırlıdır. Böyle güzel fırsatlar bundan sonra elinize daha az geçebilir. Allah'a tevekkül ederek bu işe girişin.",
+            "Evlilik Sonucu": "Çok hayırlıdır. Her bakımdan uygun bir eşleşmedir. İnşallah sonunuz hayırlı olur.",
+            " Ticaret/Alışveriş Sonucu": "Size güzel bir kazanç nasip olacaktır. İhtiyaç sahiplerini ve yoksulları unutmayın."
+        },
+        {
+            "Sure Adı": "Feth",
+            "Sure No": 48,
+            "Ayet": 16,
+            "Sayfa": 513,
+            "İstihare Sonucu": "Yapma.",
+            "Genel Sonuç": "Uygun değildir. Büyük zorluk ve sıkıntılar yaşarsınız; sonunda da arzu ettiğiniz sonuca ulaşamazsınız.",
+            "Evlilik Sonucu": "Uygun değildir. Sürekli zorluk ve sıkıntılarla dolu bir evlilik hayatı yaşarsınız. Bu evlilikten vazgeçilmesi tavsiye edilir.",
+            " Ticaret/Alışveriş Sonucu": "Uygun değildir. Çok emek ve sıkıntı çekersiniz; ancak sonunda istediğiniz sonuca ulaşamazsınız. Bu işe girişilmemesi tavsiye edilir."
+        },
+        {
+            "Sure Adı": "Feth",
+            "Sure No": 48,
+            "Ayet": 29,
+            "Sayfa": 515,
+            "İstihare Sonucu": "Yap.",
+            "Genel Sonuç": "Hayırlıdır. Allah'a tevekkül ederek bu işe girişin. İnşallah hedeflerinize ulaşırsınız.",
+            "Evlilik Sonucu": "Hayırlıdır. Uygun bir eşleşme olacaktır. Allah'a tevekkül ederek bu evliliği gerçekleştirebilirsiniz.",
+            " Ticaret/Alışveriş Sonucu": "Size güzel bir kazanç nasip olacaktır. Allah'a tevekkül ederek bu işe girişin. İhtiyaç sahiplerini ve yoksulları unutmayın."
+        },
+        {
+            "Sure Adı": "Hucurat",
+            "Sure No": 49,
+            "Ayet": 12,
+            "Sayfa": 517,
+            "İstihare Sonucu": "Yapma.",
+            "Genel Sonuç": "Uygun değildir. Haram bir işe düşebilir ve insanların dedikodusuna maruz kalabilirsiniz. Bu işten vazgeçilmesi tavsiye edilir.",
+            "Evlilik Sonucu": "Uygun değildir. Bu evliliği yapmanız hâlinde pişman olur ve mutsuz bir hayat yaşarsınız. Bu evlilikten vazgeçilmesi tavsiye edilir.",
+            " Ticaret/Alışveriş Sonucu": "Bu ticaret için uygun bir fırsat değildir. Başka bir ifadeyle, beklenen ölçüde kazanç veya fayda sağlayacak bir iş değildir. Bu işe girişilmemesi tavsiye edilir."
+        },
+        {
+            "Sure Adı": "Kaf",
+            "Sure No": 50,
+            "Ayet": 16,
+            "Sayfa": 519,
+            "İstihare Sonucu": "Yapma.",
+            "Genel Sonuç": "Uygun değildir. Sizin düşündüğünüzle gerçekte yaşanacak olan arasında büyük fark vardır. Bu işten vazgeçilmesi tavsiye edilir.",
+            "Evlilik Sonucu": "Sıkıntı ve acılarla dolu bir evlilik hayatı yaşarsınız. Bu evliliği yapmayın; aksi hâlde pişman olursunuz.",
+            " Ticaret/Alışveriş Sonucu": "Zarar ve ziyana uğrarsınız; ayrıca itibarınız da zedelenebilir. Bu işe girişmeyin."
+        },
+        {
+            "Sure Adı": "Zariyat",
+            "Sure No": 51,
+            "Ayet": 7,
+            "Sayfa": 521,
+            "İstihare Sonucu": "Asla yapma.",
+            "Genel Sonuç": "Çok kötüdür. Büyük bir çaresizlik içine düşer, “Ne yapacağım?” diye bocalarsınız ve yaptığınızdan derin bir pişmanlık duyarsınız.",
+            "Evlilik Sonucu": "Aranızda hiçbir ortak yön bulunmamaktadır. Sizi çok kötü ve gerginliklerle dolu bir evlilik hayatı beklemektedir. Bu evlilikten kesinlikle vazgeçilmesi tavsiye edilir.",
+            " Ticaret/Alışveriş Sonucu": "Bilgisiz ve söz anlamayan kişilerle karşılaşırsınız. Bu işi yaptığınıza sonradan çok büyük bir pişmanlık duyarsınız. Bu işe kesinlikle girişmeyin."
+        },
+        {
+            "Sure Adı": "Zariyat",
+            "Sure No": 51,
+            "Ayet": 52,
+            "Sayfa": 523,
+            "İstihare Sonucu": "Yapma.",
+            "Genel Sonuç": "Kötüdür. Sizi yalanlayacaklar (sözünüze inanmayacaklar) ve elinizden de bir şey gelmeyecek. Vazgeçilmesi tavsiye edilir.",
+            "Evlilik Sonucu": "Kötüdür. İç yüzü sizi tüketir, dışarıya ise insanlara farklı görünür. Kesinlikle vazgeçilmesi tavsiye edilir.",
+            " Ticaret/Alışveriş Sonucu": "Kötüdür. İş, sizin düşündüğünüz gibi değildir. Vazgeçilmesi tavsiye edilir."
+        },
+        {
+            "Sure Adı": "Tur",
+            "Sure No": 52,
+            "Ayet": 32,
+            "Sayfa": 525,
+            "İstihare Sonucu": "Yapma.",
+            "Genel Sonuç": "Kötüdür. Sizden gizli kalmış bir husus vardır. Eğer onu bilseydiniz, bu işi yapmazdınız. Vazgeçilmesi tavsiye edilir.",
+            "Evlilik Sonucu": "Kötüdür. Daha fazla araştırma yapın. Sizden gizlenmiş veya henüz öğrenmediğiniz önemli bir konu vardır. Vazgeçilmesi tavsiye edilir.",
+            " Ticaret/Alışveriş Sonucu": "Kötüdür. Sizden gizli kalan bir durum vardır. Bu alışverişi yapmanız hâlinde zarara uğrayabilirsiniz. Vazgeçilmesi tavsiye edilir."
+        },
+        {
+            "Sure Adı": "Necm",
+            "Sure No": 53,
+            "Ayet": 27,
+            "Sayfa": 527,
+            "İstihare Sonucu": "Kesinlikle yapma.",
+            "Genel Sonuç": "Çok kötüdür. Sonuç, düşündüğünüzün tam tersi olacaktır. Kesinlikle vazgeçilmesi tavsiye edilir.",
+            "Evlilik Sonucu": "Çok kötüdür. Evlilik hayatınız sürekli kavga ve anlaşmazlıklarla geçecektir. Kesinlikle vazgeçilmesi tavsiye edilir; aksi hâlde büyük pişmanlık yaşanabilir.",
+            " Ticaret/Alışveriş Sonucu": "Büyük bir maddi zarara uğrayabilirsiniz ve itibarınız da zedelenebilir. Kesinlikle vazgeçilmesi tavsiye edilir."
+        },
+        {
+            "Sure Adı": "Kamer",
+            "Sure No": 54,
+            "Ayet": 7,
+            "Sayfa": 529,
+            "İstihare Sonucu": "Kesinlikle yapma.",
+            "Genel Sonuç": "Çok kötüdür. Bundan daha kötü olması mümkün değildir. Kesinlikle vazgeçilmesi tavsiye edilir.",
+            "Evlilik Sonucu": "Çok kötüdür. Sonu olmayan bir kuyu gibidir; öyle bir sıkıntı yaşarsınız ki her an Allah'tan ölümü dileyecek hâle gelebilirsiniz. Kesinlikle vazgeçilmesi tavsiye edilir.",
+            " Ticaret/Alışveriş Sonucu": "Çok kötüdür. Büyük bir maddi zarara uğrayabilirsiniz ve itibarınız ciddi şekilde zedelenebilir. Kesinlikle vazgeçilmesi tavsiye edilir."
+        },
+        {
+            "Sure Adı": "Kamer",
+            "Sure No": 54,
+            "Ayet": 50,
+            "Sayfa": 531,
+            "İstihare Sonucu": "Yapma.",
+            "Genel Sonuç": "Kötüdür. Her ne kadar görünüşte her şey istediğiniz gibi görünse de, sonunda işin aslının bambaşka olduğunu anlayacaksınız. Vazgeçilmesi tavsiye edilir.",
+            "Evlilik Sonucu": "Kötüdür. Her ne kadar dışarıdan öyle görünmese de uygun değildir. Sabredin ve sadaka verin.",
+            " Ticaret/Alışveriş Sonucu": "Kötüdür. Dış görünüşe aldanmayın. Bu alışverişi yapmanız hâlinde zarara uğrayabilirsiniz."
+        },
+        {
+            "Sure Adı": "Rahman",
+            "Sure No": 55,
+            "Ayet": 41,
+            "Sayfa": 533,
+            "İstihare Sonucu": "Kesinlikle yapma.",
+            "Genel Sonuç": "Çok kötüdür. Hiçbir şekilde uygun değildir. Yapmayın; aksi takdirde büyük bir pişmanlık yaşamanız muhtemeldir.",
+            "Evlilik Sonucu": "Hiçbir şekilde uygun bir eş adayı seçmemişsiniz. Bu seçimden pişman olabilirsiniz. Yapmayın.",
+            " Ticaret/Alışveriş Sonucu": "Maddi kayba ve itibar zedelenmesine yol açabilir. İtibarınız ciddi şekilde zarar görebilir. Yapmayın."
+        },
+        {
+            "Sure Adı": "Vakıa",
+            "Sure No": 56,
+            "Ayet": 17,
+            "Sayfa": 535,
+            "İstihare Sonucu": "Mutlaka yap.",
+            "Genel Sonuç": "Çok iyidir. Hedeflediğiniz bütün amaçlara ulaşmanız ve işinizde genişlik, kolaylık ve hayır meydana gelmesi umulur.",
+            "Evlilik Sonucu": "İnşallah hayırlı ve bereketlidir. İyi bir eş adayı seçmişsiniz; bu evlilik size huzur ve sükûnet getirecektir.",
+            " Ticaret/Alışveriş Sonucu": "Size güzel bir kazanç ve fayda nasip olacaktır. Allah'a tevekkül ederek işe başlayın."
+        },
+        {
+            "Sure Adı": "Vakıa",
+            "Sure No": 56,
+            "Ayet": 77,
+            "Sayfa": 537,
+            "İstihare Sonucu": "Mutlaka yap.",
+            "Genel Sonuç": "Çok iyidir. Bütün hedeflerinize ulaşacaksınız. Allah'a tevekkül ederek harekete geçin ve hiçbir durumda Allah'ı anmayı ve O'na güvenmeyi ihmal etmeyin.",
+            "Evlilik Sonucu": "Uygun bir seçimdir. İnşallah hem manevi hem de maddi yönden hayatınıza ferahlık ve bereket getirecektir. Allah'a tevekkül ederek bu adımı atabilirsiniz.",
+            " Ticaret/Alışveriş Sonucu": "Sizi güzel bir kazanç ve fayda beklemektedir. Allah'a tevekkül ederek bu işe girişin ve hiçbir işinizde Allah'ı unutmamaya özen gösterin."
+        },
+        {
+            "Sure Adı": "Hadid",
+            "Sure No": 57,
+            "Ayet": 12,
+            "Sayfa": 539,
+            "İstihare Sonucu": "Mutlaka yap.",
+            "Genel Sonuç": "Çok iyidir. Bundan daha hayırlısı neredeyse düşünülemez. Allah'a tevekkül ederek bu işi yapın; inşallah başarılı olursunuz.",
+            "Evlilik Sonucu": "Bu eş adayı her bakımdan uygundur. İnşallah hayırlı bir sonuca ve güzel bir aile hayatına kavuşursunuz. Gönül rahatlığıyla adım atabilirsiniz.",
+            " Ticaret/Alışveriş Sonucu": "Bu ticarette hedeflediğiniz tüm amaçlara ulaşacak ve güzel bir kazanç elde edeceksiniz. Allah'a tevekkül ederek bu işe başlayın."
+        },
+        {
+            "Sure Adı": "Hadid",
+            "Sure No": 57,
+            "Ayet": 25,
+            "Sayfa": 541,
+            "İstihare Sonucu": "Karar sana kalmış.",
+            "Genel Sonuç": "Orta derecededir. Eğer bütün şartları dikkatlice değerlendirip her şeyin uygun olduğundan emin olursanız yapabilirsiniz; aksi hâlde vazgeçmeniz daha uygundur.",
+            "Evlilik Sonucu": "Orta derecededir. Taraflar arasında konuşulması gereken her konu açıkça konuşulur ve karşılıklı anlaşma sağlanırsa iyi olur; aksi takdirde uygun değildir.",
+            " Ticaret/Alışveriş Sonucu": "İşin bütün yönleri dikkatlice incelenip tecrübeli kişilerle istişare edildikten sonra hareket edilirse hayırlı olabilir; aksi takdirde uygun değildir."
+        },
+        {
+            "Sure Adı": "Mücadele",
+            "Sure No": 58,
+            "Ayet": 7,
+            "Sayfa": 543,
+            "İstihare Sonucu": "Karar sana kalmış.",
+            "Genel Sonuç": "Orta derecededir. Eğer işin bütün yönlerini dikkatlice değerlendirir ve herhangi bir sorun olmadığından emin olursanız yapabilirsiniz; aksi takdirde vazgeçmeniz daha uygundur.",
+            "Evlilik Sonucu": "Evlilikten önce bütün önemli konuları açıkça konuşur ve her meselede karşılıklı anlaşmaya varırsanız hayırlı olur; aksi takdirde uygun değildir.",
+            " Ticaret/Alışveriş Sonucu": "Bütün şartları dikkatlice inceleyin. Eğer herhangi bir sorun yoksa bu işe girişebilirsiniz; aksi takdirde vazgeçmeniz tavsiye edilir."
+        },
+        {
+            "Sure Adı": "Mücadele",
+            "Sure No": 58,
+            "Ayet": 22,
+            "Sayfa": 545,
+            "İstihare Sonucu": "Mutlaka yap.",
+            "Genel Sonuç": "Çok iyidir. Eğer insan her şeyi kendi sınırlı aklıyla tam olarak kavrayabilseydi zaten başka bir şeye ihtiyaç kalmazdı. Allah'a tevekkül ederek bu işi yapın; inşallah arzu ettiğiniz sonuca ulaşırsınız.",
+            "Evlilik Sonucu": "İnşallah hayırlı ve bereketlidir. Allah'a tevekkül ederek bu adımı atın ve asılsız şüphe ve olumsuz düşüncelere kapılmayın.",
+            " Ticaret/Alışveriş Sonucu": "Çok iyidir. Bu ticaretten size güzel bir kazanç ve fayda nasip olacaktır."
+        },
+        {
+            "Sure Adı": "Haşr",
+            "Sure No": 59,
+            "Ayet": 10,
+            "Sayfa": 547,
+            "İstihare Sonucu": "Mutlaka yap.",
+            "Genel Sonuç": "Çok iyidir. Allah'a tevekkül ederek bu işi yapın. İnşallah bütün hedeflerinize ulaşırsınız.",
+            "Evlilik Sonucu": "Her bakımdan uygundur. Allah'a tevekkül ederek bu adımı atın ve her durumda Allah'ı gözetip O'nu hatırınızdan çıkarmayın.",
+            " Ticaret/Alışveriş Sonucu": "Oldukça kazançlı ve bereketli bir ticaret olacaktır. Allah'a tevekkül ederek bu işe girişin ve ihtiyaç sahiplerini (fakirleri) de unutmayın."
+        },
+        {
+            "Sure Adı": "Mümtehine",
+            "Sure No": 60,
+            "Ayet": 1,
+            "Sayfa": 549,
+            "İstihare Sonucu": "Mutlaka yap.",
+            "Genel Sonuç": "Çok iyidir. Biraz zahmeti olacaktır; ancak bu zahmete değer. Allah'a tevekkül ederek bu işi yapın.",
+            "Evlilik Sonucu": "Çok iyidir. Bir miktar zorluk yaşanabilir; fakat Allah'a tevekkül edin ve karşılaşacağınız sıkıntılardan korkmayın.",
+            " Ticaret/Alışveriş Sonucu": "Oldukça kazançlı bir ticaret olacaktır. Allah'a tevekkül ederek bu işe girişin ve kazancınıza haram karışmamasına dikkat edin."
+        },
+        {
+            "Sure Adı": "Mümtehine",
+            "Sure No": 60,
+            "Ayet": 12,
+            "Sayfa": 551,
+            "İstihare Sonucu": "Yap.",
+            "Genel Sonuç": "İyidir. Ancak harama düşmemek şartıyla. Aksi takdirde sizi kötü sonuçlar bekleyebilir.",
+            "Evlilik Sonucu": "İyidir. Evlilikten önce bütün önemli konuları açıkça konuşun ve hiçbir meseleyi göz ardı etmeyin ki sonradan sorun yaşamayasınız.",
+            " Ticaret/Alışveriş Sonucu": "İyidir. Ancak harama düşmemek ve işin bütün yönlerini dikkatle gözetmek şartıyla bu işe girişmeniz uygundur."
+        },
+        {
+            "Sure Adı": "Cuma",
+            "Sure No": 62,
+            "Ayet": 1,
+            "Sayfa": 553,
+            "İstihare Sonucu": "Mutlaka yap.",
+            "Genel Sonuç": "Çok iyidir. İnşallah hedeflediğiniz bütün amaçlara ulaşacaksınız. Allah'a tevekkül ederek bu işe başlayın.",
+            "Evlilik Sonucu": "Her bakımdan uygun bir seçimdir. İnşallah hayırlı ve bereketli olur. Sadaka vermeyi ihmal etmeyin.",
+            " Ticaret/Alışveriş Sonucu": "Sizi güzel bir kazanç beklemektedir. Allah'a tevekkül ederek bu işe girişin ve sadaka vermeyi unutmayın."
+        },
+        {
+            "Sure Adı": "Munafikun",
+            "Sure No": 63,
+            "Ayet": 5,
+            "Sayfa": 555,
+            "İstihare Sonucu": "Kesinlikle yapma.",
+            "Genel Sonuç": "Çok kötüdür. Bu işi yapmanız hâlinde büyük bir pişmanlık yaşayabilirsiniz. Hiçbir şekilde yapmanız tavsiye edilmez.",
+            "Evlilik Sonucu": "Hiç uygun bir seçim değildir. Evlilik hayatınızın sürekli tartışma ve anlaşmazlıklarla geçmesi muhtemeldir. Vazgeçilmesi tavsiye edilir.",
+            " Ticaret/Alışveriş Sonucu": "Büyük bir maddi zarara uğrayabilir ve sonrasında derin bir pişmanlık yaşayabilirsiniz. Bu alışverişten vazgeçmeniz tavsiye edilir."
+        },
+        {
+            "Sure Adı": "Teğabun",
+            "Sure No": 64,
+            "Ayet": 10,
+            "Sayfa": 557,
+            "İstihare Sonucu": "Kesinlikle yapma.",
+            "Genel Sonuç": "Çok kötüdür. Bu işi kesinlikle yapmayın; aksi hâlde büyük bir pişmanlık yaşayabilirsiniz. Mutlaka vazgeçmeniz tavsiye edilir.",
+            "Evlilik Sonucu": "Hiçbir ortak noktanız bulunmamaktadır. Bu evliliği yapmanız hâlinde öyle büyük sıkıntılar yaşayabilirsiniz ki her an Allah'tan ölümü dileyecek duruma gelebilirsiniz. Vazgeçilmesi tavsiye edilir.",
+            " Ticaret/Alışveriş Sonucu": "Büyük maddi kayıplara uğrayabilir, itibarınız da ciddi şekilde zedelenebilir. Kesinlikle vazgeçmeniz tavsiye edilir; aksi takdirde ağır bir pişmanlık yaşayabilirsiniz."
+        },
+        {
+            "Sure Adı": "Talak",
+            "Sure No": 65,
+            "Ayet": 6,
+            "Sayfa": 559,
+            "İstihare Sonucu": "Karar sana kalmış.",
+            "Genel Sonuç": "Orta derecede olumludur. Gerekli şartlara uyar ve bütün koşulları yerine getirirseniz iyi olabilir; aksi takdirde vazgeçmeniz daha uygundur.",
+            "Evlilik Sonucu": "Bu evlilik, belirli şartlar sağlanırsa hayırlı olabilir; aksi hâlde vazgeçmeniz tavsiye edilir.",
+            " Ticaret/Alışveriş Sonucu": "Belirli şartlar yerine getirildiği takdirde iyi olabilir; aksi hâlde uygun değildir."
+        },
+        {
+            "Sure Adı": "Tahrim",
+            "Sure No": 66,
+            "Ayet": 8,
+            "Sayfa": 561,
+            "İstihare Sonucu": "Karar sana kalmış.",
+            "Genel Sonuç": "Orta derecede olumludur. Mevcut şartlara uyulursa hayırlı olur; aksi takdirde vazgeçmek daha isabetli ve daha doğru olacaktır.",
+            "Evlilik Sonucu": "Orta derecede olumludur. Gerekli şartlar yerine getirilirse güzel ve huzurlu bir evlilik hayatınız olabilir; aksi hâlde uygun değildir.",
+            " Ticaret/Alışveriş Sonucu": "Gerekli şartlara uyarsanız güzel bir kazanç elde edebilirsiniz; aksi takdirde bu ticaretten vazgeçmeniz tavsiye edilir."
+        },
+        {
+            "Sure Adı": "Mülk",
+            "Sure No": 67,
+            "Ayet": 13,
+            "Sayfa": 563,
+            "İstihare Sonucu": "Yap.",
+            "Genel Sonuç": "İyidir. Size doğru şekilde yol gösterebilecek ehil ve güvenilir kişilerle istişare edin. Bu konuyu herkesle konuşmayın.",
+            "Evlilik Sonucu": "İyidir. Allah'a tevekkül ederek bu adımı atabilirsiniz. Yukarıdaki tavsiyelere uymanız önerilir.",
+            " Ticaret/Alışveriş Sonucu": "İyidir. Size güzel bir kazanç nasip olacaktır. Yukarıdaki tavsiyelere uymanız tavsiye edilir."
+        },
+        {
+            "Sure Adı": "Kalem",
+            "Sure No": 68,
+            "Ayet": 16,
+            "Sayfa": 565,
+            "İstihare Sonucu": "Kesinlikle yapma.",
+            "Genel Sonuç": "Çok kötüdür. Bu düşünceyi tamamen aklınızdan çıkarın; aksi takdirde ağır bir bedel ödeyebilir, ciddi bir ders alabilirsiniz.",
+            "Evlilik Sonucu": "Kesinlikle yapmayın. Bu evliliği gerçekleştirmeniz hâlinde öyle büyük sıkıntılar yaşayabilirsiniz ki her an Allah'tan ölümü dileyecek duruma gelebilirsiniz.",
+            " Ticaret/Alışveriş Sonucu": "Çok büyük maddi ve itibar kaybına uğrayabilirsiniz; üstelik bunun telafisi de olmayabilir. Kesinlikle vazgeçilmesi tavsiye edilir."
+        },
+        {
+            "Sure Adı": "Hakka",
+            "Sure No": 69,
+            "Ayet": 9,
+            "Sayfa": 567,
+            "İstihare Sonucu": "Kesinlikle yapma.",
+            "Genel Sonuç": "Çok kötüdür. Bu işi yapmanız hâlinde büyük bir pişmanlık yaşayabilirsiniz. Kesinlikle vazgeçilmesi tavsiye edilir.",
+            "Evlilik Sonucu": "Uygun bir seçim değildir. Bu evlilikte birçok ciddi sorunla karşılaşabilirsiniz.",
+            " Ticaret/Alışveriş Sonucu": "Maddi kayıp ve itibar zedelenmesi söz konusu olabilir. Kesinlikle vazgeçilmesi tavsiye edilir."
+        },
+        {
+            "Sure Adı": "Mearic",
+            "Sure No": 70,
+            "Ayet": 11,
+            "Sayfa": 569,
+            "İstihare Sonucu": "Kesinlikle yapma.",
+            "Genel Sonuç": "Çok kötüdür. Bu işi yaparsanız, kendinizi \"Ne yapacağım?\" diye çaresizce çıkış yolu aradığınız zor bir durumda bulabilirsiniz. Kesinlikle vazgeçilmesi tavsiye edilir.",
+            "Evlilik Sonucu": "Hiçbir şekilde uygun bir seçim değildir. Bu evlilik sizi sürekli \"Ne yapacağım?\" diyeceğiniz, çözüm bulmakta zorlanacağınız bir duruma sürükleyebilir. Vazgeçilmesi tavsiye edilir.",
+            " Ticaret/Alışveriş Sonucu": "Bu ticaret sizi çaresiz kalacağınız zor bir duruma düşürebilir. Kesinlikle vazgeçilmesi tavsiye edilir."
+        },
+        {
+            "Sure Adı": "Nuh",
+            "Sure No": 71,
+            "Ayet": 11,
+            "Sayfa": 571,
+            "İstihare Sonucu": "Yap.",
+            "Genel Sonuç": "İyidir. İnşallah hedeflerinize ulaşacaksınız. Allah’a tevekkül ederek harekete geçin.",
+            "Evlilik Sonucu": "Uygun bir kısmettir. İnşallah hayırlı ve mübarektir; her açıdan huzura vesile olacaktır.",
+            " Ticaret/Alışveriş Sonucu": "Güzel bir kazanç elde edeceksiniz. Allah’a tevekkül ederek hareket edin, sadaka vermeyi unutmayın."
+        },
+        {
+            "Sure Adı": "Cin",
+            "Sure No": 72,
+            "Ayet": 14,
+            "Sayfa": 573,
+            "İstihare Sonucu": "Yapma.",
+            "Genel Sonuç": "Kötüdür. Eğer yaparsanız pişman olursunuz. Vazgeçin.",
+            "Evlilik Sonucu": "Kötüdür. İnsanların görünüşüne aldanmayın; çünkü insanların dış görünüşleri ile iç dünyaları arasında büyük farklar olabilir. Vazgeçin.",
+            " Ticaret/Alışveriş Sonucu": "İki yüzlü insanlarla karşılaşacaksınız ve eğer yaparsanız büyük bir zarara uğrayacaksınız. Vazgeçin."
+        },
+        {
+            "Sure Adı": "Müzzemmil",
+            "Sure No": 73,
+            "Ayet": 20,
+            "Sayfa": 575,
+            "İstihare Sonucu": "Kesinlikle yap.",
+            "Genel Sonuç": "Çok iyidir. Zorluklardan korkmayın; bu iş çekilen zahmete değer. Allah’a tevekkül ederek yapın.",
+            "Evlilik Sonucu": "İyi ve uygun bir kısmettir. Zorluklardan korkmayın; buna değer. Evliliğin başlangıcında bazı anlaşmazlıklar görülebilir, ancak hepsi çözülecektir. Allah’a tevekkül ederek harekete geçin.",
+            " Ticaret/Alışveriş Sonucu": "Güzel bir kazanç elde edeceksiniz. Sonrasında çektiğiniz sıkıntılar ve harcadığınız emekler size çok küçük görünecektir. Allah’a tevekkül ederek harekete geçin."
+        },
+        {
+            "Sure Adı": "Müddessir",
+            "Sure No": 74,
+            "Ayet": 48,
+            "Sayfa": 577,
+            "İstihare Sonucu": "Asla yapma.",
+            "Genel Sonuç": "Çok kötüdür. Bu iş rüzgâra dayanmak gibidir; kesinlikle yapmayın.",
+            "Evlilik Sonucu": "Kesinlikle size uygun değiller. Rüzgâra dayanmayın; büyük bir pişmanlık getirir. Mutlaka vazgeçin.",
+            " Ticaret/Alışveriş Sonucu": "Büyük maddi ve itibar kaybına yol açar. Karşınızdaki kişiler sözlerinin arkasında duracak insanlar değildir. Mutlaka vazgeçin."
+        },
+        {
+            "Sure Adı": "İnsan",
+            "Sure No": 75,
+            "Ayet": 6,
+            "Sayfa": 579,
+            "İstihare Sonucu": "Kesinlikle yap.",
+            "Genel Sonuç": "Çok iyidir. Allah’a tevekkül ederek tüm hedeflerinize ulaşacak ve bütün sorunlarınız çözülecektir.",
+            "Evlilik Sonucu": "Her açıdan uygun bir kısmettir. Allah’a tevekkül ederek yapın; size ruhsal huzur ve maddi ilerleme sağlayacaktır. Sadaka vermeyi unutmayın.",
+            " Ticaret/Alışveriş Sonucu": "Güzel bir kazanç elde edeceksiniz. Allah’a tevekkül ederek harekete geçin ve sadaka vermeyi unutmayın."
+        },
+        {
+            "Sure Adı": "Murselat",
+            "Sure No": 76,
+            "Ayet": 20,
+            "Sayfa": 581,
+            "İstihare Sonucu": "Yapma.",
+            "Genel Sonuç": "Kötüdür. Birçok sorunla karşılaşacaksınız ve sonunda hedeflerinize de ulaşamayacaksınız.",
+            "Evlilik Sonucu": "Uygun bir kısmet değildir. Kesinlikle size layık değildir. Vazgeçin.",
+            " Ticaret/Alışveriş Sonucu": "Kötüdür. Çok fazla zahmet çektikten sonra bile sonunda beklediğinizin aksine bir sonuç alacaksınız."
+        },
+        {
+            "Sure Adı": "Nebe",
+            "Sure No": 77,
+            "Ayet": 31,
+            "Sayfa": 583,
+            "İstihare Sonucu": "Kesinlikle yap.",
+            "Genel Sonuç": "Çok iyidir. Size huzur ve rahatlık sağlayacaktır. Allah’a tevekkül ederek harekete geçin.",
+            "Evlilik Sonucu": "Çok uygun bir kısmettir. Size ruhsal huzur ve maddi ilerleme sağlayacaktır. İnşallah hayırlı ve mübarektir.",
+            " Ticaret/Alışveriş Sonucu": "Güzel bir kazanç elde edeceksiniz. Allah’a tevekkül ederek harekete geçin ve sadaka vermeyi unutmayın."
+        },
+        {
+            "Sure Adı": "Abese",
+            "Sure No": 78,
+            "Ayet": 1,
+            "Sayfa": 585,
+            "İstihare Sonucu": "Yap.",
+            "Genel Sonuç": "İyidir. Ancak bazı sorunlar ve zorluklar görülmektedir; sabır ve anlayışla bunlar çözülecek ve istediğiniz sonuca ulaşacaksınız.",
+            "Evlilik Sonucu": "Uygun bir kısmettir. Ancak hayatın zorlukları ve sıkıntıları karşısında sabırlı ve anlayışlı olmanız, öfkeden ve tartışmalardan kaçınmanız şartıyla.",
+            " Ticaret/Alışveriş Sonucu": "Bazı sorunlar görülmektedir. Hepinizin çok emek vermesi gerekecek; fakat sonunda elde edeceğiniz güzel kazanç bu zahmetleri telafi edecektir."
+        },
+        {
+            "Sure Adı": "İnfitar",
+            "Sure No": 82,
+            "Ayet": 1,
+            "Sayfa": 587,
+            "İstihare Sonucu": "Yap.",
+            "Genel Sonuç": "İyidir. Bazı sorunlar vardır; ancak sabır ve anlayışla çözülebilir ve istenilen sonuca ulaşılır.",
+            "Evlilik Sonucu": "Zorluklar ve sıkıntılar hayatın tuzu gibidir. İnsan, hayatının değerini bu tür durumlarla karşılaştığında anlar. Allah’a tevekkül ederek harekete geçin.",
+            " Ticaret/Alışveriş Sonucu": "Sorunlardan korkmamak gerekir; özellikle de çekilen zahmetlerin ve zorlukların sonunda güzel bir sonuç elde edilecekse."
+        },
+        {
+            "Sure Adı": "Mutaffifin",
+            "Sure No": 83,
+            "Ayet": 35,
+            "Sayfa": 589,
+            "İstihare Sonucu": "Asla yapma.",
+            "Genel Sonuç": "Çok kötüdür. Sorunlar ve zorluklarla karşılaşacaksınız; sonunda hedeflerinizin hiçbirine ulaşamayacaksınız.",
+            "Evlilik Sonucu": "Çok kötüdür. Kesinlikle uygun bir kısmet değildir. Ne yapacağınızı bilemez bir hâle düşeceksiniz. Mutlaka vazgeçin.",
+            " Ticaret/Alışveriş Sonucu": "Büyük bir zarara uğrayacaksınız ve itibarınız da sorgulanır hâle gelecektir. Mutlaka vazgeçin."
+        },
+        {
+            "Sure Adı": "Tarık",
+            "Sure No": 86,
+            "Ayet": 1,
+            "Sayfa": 591,
+            "İstihare Sonucu": "Seçim sana ait.",
+            "Genel Sonuç": "Orta derecede iyidir. Şartları göz önünde bulundurup tüm yönleriyle iyice değerlendirirseniz iyidir; aksi hâlde kötüdür.",
+            "Evlilik Sonucu": "Tüm şartlara dikkat edip bütün konuşulması gereken konuları tamamladığınız takdirde iyidir; aksi hâlde kötüdür.",
+            " Ticaret/Alışveriş Sonucu": "Şartlara uyarsanız ve işin tüm yönlerini dikkate alırsanız iyidir; aksi hâlde kötüdür."
+        },
+        {
+            "Sure Adı": "Fecr",
+            "Sure No": 89,
+            "Ayet": 1,
+            "Sayfa": 593,
+            "İstihare Sonucu": "Kesinlikle yap.",
+            "Genel Sonuç": "Çok iyidir. İnşallah bütün hedeflerinize ulaşacaksınız. Allah’a tevekkül ederek yapın.",
+            "Evlilik Sonucu": "Her açıdan uygun bir kısmettir. Size ruhsal huzur ve maddi ilerleme sağlayacaktır. Allah’a tevekkül ederek yapın.",
+            " Ticaret/Alışveriş Sonucu": "Güzel bir kazanç elde edeceksiniz ve bu iş itibarınızın artmasına da katkı sağlayacaktır. Allah’a tevekkül ederek harekete geçin."
+        },
+        {
+            "Sure Adı": "Şems",
+            "Sure No": 91,
+            "Ayet": 1,
+            "Sayfa": 595,
+            "İstihare Sonucu": "Yap.",
+            "Genel Sonuç": "İyidir; ancak biraz zahmet gerektirir. Allah’a tevekkül ederek yapın ve işin ehli kişilerle istişare edin.",
+            "Evlilik Sonucu": "İyidir. Bazı zahmetler ve sorunlar yaşayabilirsiniz; ancak inşallah sonu hayırlı olacaktır.",
+            " Ticaret/Alışveriş Sonucu": "İyidir. Bazı sorunlar görülmektedir; fakat sonunda istediğiniz ve arzuladığınız sonuca ulaşacaksınız. Allah’a tevekkül edin ve yapın."
+        },
+        {
+            "Sure Adı": "Tin",
+            "Sure No": 95,
+            "Ayet": 1,
+            "Sayfa": 597,
+            "İstihare Sonucu": "Yap.",
+            "Genel Sonuç": "İyidir. İnşallah hedeflerinize ulaşacaksınız. Allah’a tevekkül ederek harekete geçin ve zorluklardan korkmayın.",
+            "Evlilik Sonucu": "İnşallah hayırlı ve mübarektir. Allah’a tevekkül ederek harekete geçin ve zorluklardan korkmayın.",
+            " Ticaret/Alışveriş Sonucu": "İnşallah güzel bir kazanç elde edeceksiniz. Allah’a tevekkül edin ve zorluklardan korkmayın."
+        },
+        {
+            "Sure Adı": "Beyyine",
+            "Sure No": 98,
+            "Ayet": 8,
+            "Sayfa": 599,
+            "İstihare Sonucu": "Kesinlikle yap.",
+            "Genel Sonuç": "Çok iyidir. Allah’a tevekkül ederek yapın. İnşallah bütün hedeflerinize ulaşacaksınız.",
+            "Evlilik Sonucu": "Her yönden uygun bir kısmettir. Allah’a tevekkül ederek yapın; size ruhsal huzur ve maddi ferahlık sağlayacaktır.",
+            " Ticaret/Alışveriş Sonucu": "Güzel bir kazanç elde edeceksiniz ve itibarınızın artmasına vesile olacaktır."
+        }
+    ]
+}
