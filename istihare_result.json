@@ -2989,6 +2989,26 @@
             "Genel Sonuç": "Çok iyidir. Allah’a tevekkül ederek yapın. İnşallah bütün hedeflerinize ulaşacaksınız.",
             "Evlilik Sonucu": "Her yönden uygun bir kısmettir. Allah’a tevekkül ederek yapın; size ruhsal huzur ve maddi ferahlık sağlayacaktır.",
             " Ticaret/Alışveriş Sonucu": "Güzel bir kazanç elde edeceksiniz ve itibarınızın artmasına vesile olacaktır."
-        }
+        },
+        {
+        "Sure Adı": "Asr",
+        "Sure No": 103,
+        "Ayet": 1,
+        "Sayfa": 601,
+        "İstihare Sonucu": "Mutlaka yapın.",
+        "Genel Sonuç": "Çok hayırlıdır. Allah'a tevekkül ederek bu işe girişin. İnşallah bütün hedeflerinize ulaşırsınız. Ancak haram işlemekten sakınmaya dikkat edin.",
+        "Evlilik Sonucu": "Bu evlilik uygun ve hayırlı bir seçimdir. Size huzur verecek ve sıkıntılarınızın giderilmesine vesile olacaktır. Allah'a tevekkül ederek bu evliliği gerçekleştirin.",
+        "Ticaret/Alışveriş Sonucu": "Size güzel bir kazanç nasip olacaktır. Hangi işi yaparsanız yapın, Allah'ı unutmamaya özen gösterin."
+      },
+      {
+        "Sure Adı": "Kafirun",
+        "Sure No": 109,
+        "Ayet": 1,
+        "Sayfa": 603,
+        "İstihare Sonucu": "Tercih sana bırakılmıştır.",
+        "Genel Sonuç": "Orta derecede bir sonuçtur. Eğer bütün yönleri dikkatlice değerlendirir ve gerekli şartlara riayet ederseniz hayırlıdır; aksi hâlde uygun değildir.",
+        "Evlilik Sonucu": "Eğer her yönüyle araştırır, gerekli hususlara dikkat eder ve sonunda her şey istediğiniz gibi çıkarsa evliliği gerçekleştirin. Aksi takdirde vazgeçilmesi tavsiye edilir.",
+        "Ticaret/Alışveriş Sonucu": "Daha fazla araştırma yapın. Eğer herhangi bir sorun yoksa işe başlayın; ancak bir problem tespit edilirse bu işten vazgeçin."
+      }
     ]
 }
