@@ -1,0 +1,17 @@
+{
+    "version": 1,
+    "updatedAt": "2026-08-06T12:00:00Z",
+    "data": [
+        {
+            "id": "2026-08-06-1",
+            "title": "Örnek duyuru",
+            "content": "Duyuru metni buraya...",
+            "link": "https://instagram.com/ilimsehri14/",
+            "linkLabel": "Instagram'da gör",
+            "publishedAt": "2026-08-06T10:00:00Z",
+            "pinned": false,
+            "expiresAt": null,
+            "isActive": true
+        }
+    ]
+}
