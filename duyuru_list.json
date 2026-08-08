@@ -1,5 +1,5 @@
 {
-  "version": 6,
+  "version": 7,
   "updatedAt": "2026-08-06T12:00:00Z",
   "data": [
     {
@@ -12,7 +12,7 @@
       "pinned": false,
       "expiresAt": null,
       "isActive": true,
-      "imageUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/notificationImages/denizli%20cami4.png"
+      "imageUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/notificationImages/denizli%20cami%204.png"
     }
   ]
 }
