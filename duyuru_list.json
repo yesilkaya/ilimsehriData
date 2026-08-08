@@ -1,5 +1,5 @@
 {
-  "version": 8,
+  "version": 9,
   "updatedAt": "2026-08-06T12:00:00Z",
   "data": [
     {
@@ -11,8 +11,8 @@
       "publishedAt": "2026-08-07T10:00:00Z",
       "pinned": false,
       "expiresAt": null,
-      "isActive": true,
-      "imageUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/notificationImages/denizli%20cami%204.png"
+      "isActive": true
+      
     }
   ]
 }
