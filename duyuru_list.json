@@ -1,6 +1,6 @@
 {
-  "version": 9,
-  "updatedAt": "2026-08-06T12:00:00Z",
+  "version": 10,
+  "updatedAt": "2026-08-08T12:00:00Z",
   "data": [
     {
       "id": "2026-08-06-1",
@@ -9,9 +9,10 @@
       "link": "https://wa.me/905345767045?text=Selamun%20aleykum%2C%20bir%20tu%C4%9Fla%20da%20ben%20katkı%20sunmak%20istiyorum.",
       "linkLabel": "İletişime Geç",
       "publishedAt": "2026-08-07T10:00:00Z",
-      "pinned": false,
+      "pinned": true,
       "expiresAt": null,
-      "isActive": true
+      "isActive": true,
+      "imageUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/notificationImages/denizli%20cami%204.png"
       
     }
   ]
