@@ -1,5 +1,5 @@
 {
-  "version": 12,
+  "version": 13,
   "updatedAt": "2026-08-08T12:00:00Z",
   "data": [
     {
@@ -14,6 +14,18 @@
       "isActive": true,
       "imageUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/notificationImages/denizli%20cami%204.png"
       
+    },
+    {
+      "id": "2026-08-24-1",
+      "title": "🌙 Medine’ye Hicret | İslam Tarihinde Dönüm Noktası",
+      "content": "GOOGLE MEET SOHBETİ\n\nHicret sadece bir yolculuk değil; imanın, sabrın, fedakârlığın ve yeni bir medeniyetin başlangıcıdır.\n\n📖 Medine’ye Hicret konusunu;\n\n• Neden hicret edildi?\n• Hicret nasıl gerçekleşti?\n• Hicretin İslam tarihi açısından sonuçları neler oldu?\n\nsoruları üzerinden hep birlikte ele alacağız.\n\n🎙️ Konuşmacı: Dr. Serhat Aktaş\n📅 Tarih: 24 Ağustos 2026 Pazartesi\n🕤 Saat: 21.30\n💻 Platform: Google Meet\n\n🤲 “Hicret; imanın zaferi, sabrın mükâfatı ve yeni bir medeniyetin başlangıcıdır.”\n\nTüm kardeşlerimizi bu anlamlı sohbetimize davet ediyoruz. 🌿\n\nNot: Google Meet ders bağlantısı, ders başlamadan 10 dakika önce WhatsApp grubunda paylaşılacaktır.",
+      "link": "https://chat.whatsapp.com/KakNYyVsQct2dprmTU4Ccw",
+      "linkLabel": "WhatsApp Grubuna Katıl",
+      "publishedAt": "2026-08-24T12:00:00Z",
+      "pinned": true,
+      "expiresAt": "2026-08-25T19:30:00Z",
+      "isActive": true,
+      "imageUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/notificationImages/sohbet_medineye_hicret.jpeg"
     }
   ]
 }
