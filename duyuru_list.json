@@ -1,5 +1,5 @@
 {
-  "version": 14,
+  "version": 15,
   "updatedAt": "2026-08-08T12:00:00Z",
   "data": [
     {
@@ -14,6 +14,18 @@
       "isActive": true,
       "imageUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/notificationImages/denizli%20cami%204.png"
       
+    },
+    {
+      "id": "2026-09-05-1",
+      "title": "🌟 İzmir'de Bir İlk: Tükenmez Gençlik Merkezi",
+      "content": "İzmir’de Ehlibeyt gençlerinin ilim, fikir ve güzel ahlak ekseninde bir araya gelebilecekleri Tükenmez Gençlik Merkezi’nin hazırlık çalışmaları devam ediyor.\n\nGençlere güvenli ve verimli bir çalışma ortamı sunmayı; eğitim, kültür, sosyal etkinlik ve kişisel gelişim faaliyetlerine ev sahipliği yapmayı amaçlayan merkezin iç düzenlemesinin tamamlanabilmesi için çeşitli ihtiyaçların karşılanması bekleniyor.\n\nMerkezin ihtiyaçları:\n\n• Kitaplık ve kitaplar\n• Perde, puf ve minderler\n• Masa ve sandalyeler\n• Boya ve elektrik tesisatı\n• Çalışma ve oturma alanı malzemeleri\n• Sosyal medya çekim alanı ekipmanları\n• Büyük boy klima ve ışıklandırma\n• Çay ocağı\n• Bilardo ve masa tenisi ekipmanları\n\nGeleceğin bilinçli ve donanımlı gençlerini yetiştirme hedefiyle hayata geçirilen bu önemli projeye maddi veya ayni destekte bulunabilirsiniz.\n\nİletişim: +90 545 886 69 76\nInstagram: @tukenmez__genclik",
+      "link": "https://wa.me/905458866976?text=Selamun%20aleykum%2C%20T%C3%BCkenmez%20Gen%C3%A7lik%20Merkezi%27ne%20destek%20olmak%20istiyorum.",
+      "linkLabel": "Destek Ol",
+      "publishedAt": "2026-09-05T00:30:00+03:00",
+      "pinned": true,
+      "expiresAt": null,
+      "active": true,
+      "imageUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/notificationImages/tukenmez.png"
     }
   ]
 }
