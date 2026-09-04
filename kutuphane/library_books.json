@@ -1,5 +1,5 @@
 {
-  "version": 7,
+  "version": 8,
   "categories": [
     {
       "id": "all",
@@ -48,20 +48,6 @@
     }
   ],
   "books": [
-    {
-      "id": "book_dogumundan_zuhuruna_imam_mehdi",
-      "title": "Doğumundan Zuhuruna İmam Mehdi",
-      "author": "Seyyid Muhammed Kazım el-Kazvini",
-      "category": "akait",
-      "coverUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kitaplar/imam_mehdinin_hayatindan_hikayeler.jpeg",
-      "pdfUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/Kutuphane/Do%C4%9Fumundan%20Zuhuruna%20%C4%B0mam%20Mehdi.pdf",
-      "pageCount": 0,
-      "description": "Hz. Mehdi'nin (a.f) kutlu doğumu, gaybeti, naibleri, mucizeleri ve zuhur alametlerinin detaylı anlatımı.",
-      "isFeatured": true,
-      "order": 1,
-      "publisher": "Caferider",
-      "language": "tr"
-    },
     {
       "id": "book_hz_huseyinin_gunu",
       "title": "Hz. Hüseyin'in Günü",
