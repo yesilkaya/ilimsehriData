@@ -1,5 +1,5 @@
 {
-  "version": 9,
+  "version": 11,
   "categories": [
     {
       "id": "all",
@@ -49,14 +49,28 @@
   ],
   "books": [
     {
+      "id": "book_dogumundan_zuhuruna_imam_mehdi",
+      "title": "Doğumundan Zuhuruna İmam Mehdi",
+      "author": "Ayetullah Muhammed Kazım Kazvini",
+      "category": "tarih",
+      "coverUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/KutuphaneImages/Caferider/dogumundan_zuhuruna_imam_mehdi.jpg",
+      "pdfUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/Kutuphane/Do%C4%9Fumundan%20Zuhuruna%20%C4%B0mam%20Mehdi.pdf",
+      "pageCount": 0,
+      "description": "İmam Mehdi'nin (a.f) doğumundan zuhuruna kadar hayatını ve gaybet dönemini ele alan klasik eser.",
+      "isFeatured": true,
+      "order": 1,
+      "publisher": "Caferider",
+      "language": "tr"
+    },
+    {
       "id": "book_hz_huseyinin_gunu",
       "title": "Hz. Hüseyin'in Günü",
-      "author": "Caferider",
+      "author": "Gulamrıza Haydari Ebheri",
       "category": "tarih",
-      "coverUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kitaplar/imam_huseynin_hayatindan.jpeg",
+      "coverUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/KutuphaneImages/Caferider/hz_huseyinin_gunu.jpg",
       "pdfUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/Kutuphane/Hz.%20H%C3%BCseyinin%20G%C3%BCn%C3%BC.pdf",
       "pageCount": 0,
-      "description": "Aşura günü saniye saniye yaşananlar, İmam Hüseyin (a.s) ve yaranlarının destansı direnişi.",
+      "description": "Kerbela ve Aşura hakkında ilk söylenenler; Hz. Hüseyin'in (a.s) günü.",
       "isFeatured": true,
       "order": 2,
       "publisher": "Caferider",
@@ -73,18 +87,18 @@
       "description": "Müminlerin Emiri Hz. Ali'nin (a.s) adalet, cömertlik, cesaret ve tevazu dolu hayatından öğretici kesitler.",
       "isFeatured": true,
       "order": 3,
-      "publisher": "Caferider",
+      "publisher": "Hekimane Yayınları",
       "language": "tr"
     },
     {
       "id": "book_kuranin_ogrettigi_yasam_tarzi_c1",
       "title": "Kur'an'ın Öğrettiği Yaşam Tarzı (Cilt 1)",
-      "author": "Caferider",
+      "author": "Muhammed Ebu'l Kasım Dulabi",
       "category": "ahlak",
-      "coverUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kitaplar/dogruYolaDavet.jpeg",
+      "coverUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/KutuphaneImages/Caferider/kuranin_ogrettigi_yasam_tarzi_c1.jpg",
       "pdfUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/Kutuphane/Kur%27an%27%C4%B1n%20%C3%96%C4%9Fretti%C4%9Fi%20Ya%C5%9Fam%20Tarz%C4%B1%20Kitap.pdf",
       "pageCount": 0,
-      "description": "Ayetler ışığında bireysel ve sosyal hayatı inşa eden ilahi kurallar ve edepler.",
+      "description": "Kur'an ayetlerinden çıkarılan bireysel ve sosyal yaşam dersleri (1. cilt).",
       "isFeatured": false,
       "order": 4,
       "publisher": "Caferider",
@@ -93,12 +107,12 @@
     {
       "id": "book_kuranin_ogrettigi_yasam_tarzi_c2",
       "title": "Kur'an'ın Öğrettiği Yaşam Tarzı (Cilt 2)",
-      "author": "Caferider",
+      "author": "Muhammed Ebu'l Kasım Dulabi",
       "category": "ahlak",
-      "coverUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kitaplar/iyilerinKissasi.jpeg",
+      "coverUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/KutuphaneImages/Caferider/kuranin_ogrettigi_yasam_tarzi_c2.jpg",
       "pdfUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/Kutuphane/Kur%27an%27%C4%B1n%20%C3%96%C4%9Fretti%C4%9Fi%20Ya%C5%9Fam%20Tarz%C4%B1%20cilt%202%20Kitap.pdf",
       "pageCount": 0,
-      "description": "Aile ilişkileri, komşuluk, ticaret ve toplumsal dayanışmada Kur'ani ahlak.",
+      "description": "Kur'an ayetlerinden çıkarılan bireysel ve sosyal yaşam dersleri (2. cilt).",
       "isFeatured": false,
       "order": 5,
       "publisher": "Caferider",
@@ -303,7 +317,7 @@
     {
       "id": "book_14_ruhsal_hijyen",
       "title": "Ruhsal Hijyen",
-      "author": "El Mustafa Yayınları",
+      "author": "Muhammed Rıza Salarifer, Muhammed Sadık Şücaî, Seyyid Mehdi Museviasl, Muhammed Devlethah",
       "category": "ahlak",
       "coverUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/KutuphaneImages/El%20Mustafa%20%C3%9Cniversitesi%20Kitap%20Kapaklar%C4%B1/14.png",
       "pdfUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/elmustafa/14-RuhsalHijyen-web.pdf",
@@ -311,13 +325,13 @@
       "description": "Nefis tezkiyesi, iç huzur ve manevi arınma yöntemleri.",
       "isFeatured": true,
       "order": 20,
-      "publisher": "El Mustafa Yayınları",
+      "publisher": "el-Mustafa Yayınları",
       "language": "tr"
     },
     {
       "id": "book_15_tefsir_ekolleri_cilt2",
       "title": "Tefsir Ekolleri (Cilt 2)",
-      "author": "El Mustafa Yayınları",
+      "author": "Ali Ekber Babaî",
       "category": "tefsir",
       "coverUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/KutuphaneImages/El%20Mustafa%20%C3%9Cniversitesi%20Kitap%20Kapaklar%C4%B1/15.png",
       "pdfUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/elmustafa/15-%20TefsirEkolleri-cilt2-WEB.pdf",
@@ -325,13 +339,13 @@
       "description": "Kelami, felsefi ve irfani tefsir akımlarının analizi.",
       "isFeatured": false,
       "order": 21,
-      "publisher": "El Mustafa Yayınları",
+      "publisher": "el-Mustafa Yayınları",
       "language": "tr"
     },
     {
       "id": "book_16_ahlak",
       "title": "Ahlak",
-      "author": "S. Abdullah Şubber",
+      "author": "Seyyid Abdullah Şubber",
       "category": "ahlak",
       "coverUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/KutuphaneImages/El%20Mustafa%20%C3%9Cniversitesi%20Kitap%20Kapaklar%C4%B1/16.png",
       "pdfUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/elmustafa/16-Ahlak-WEB.pdf",
@@ -339,7 +353,7 @@
       "description": "İslam ahlak felsefesi, faziletler ve erdemsizliklerden sakınma yolları.",
       "isFeatured": true,
       "order": 22,
-      "publisher": "El Mustafa Yayınları",
+      "publisher": "el-Mustafa Yayınları",
       "language": "tr"
     },
     {
@@ -373,7 +387,7 @@
     {
       "id": "book_19_hz_alinin_yonetim_tarzi",
       "title": "Hz. Ali'nin Yönetim Tarzı",
-      "author": "Heyet",
+      "author": "Ebu Talip Hidmetî, Abbas Şefiî, Ali Ağapiruz",
       "category": "tarih",
       "coverUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/KutuphaneImages/El%20Mustafa%20%C3%9Cniversitesi%20Kitap%20Kapaklar%C4%B1/19.png",
       "pdfUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/elmustafa/19-HzAlininYonetimTarzi-WEB.pdf",
@@ -387,7 +401,7 @@
     {
       "id": "book_20_teorik_irfanin_temel_prensipleri",
       "title": "Teorik İrfanın Temel Prensipleri",
-      "author": "Heyet",
+      "author": "Muhammed Rıza Gafuriyan",
       "category": "ahlak",
       "coverUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/KutuphaneImages/El%20Mustafa%20%C3%9Cniversitesi%20Kitap%20Kapaklar%C4%B1/20.png",
       "pdfUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/elmustafa/20-TeorikIrfaninTemelPrensipleri-WEB.pdf",
@@ -401,7 +415,7 @@
     {
       "id": "book_21_islam_ve_cinsiyet_farkliliklari",
       "title": "İslam ve Cinsiyet Farklılıkları",
-      "author": "Heyet",
+      "author": "Hüseyin Bustan",
       "category": "toplum",
       "coverUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/KutuphaneImages/El%20Mustafa%20%C3%9Cniversitesi%20Kitap%20Kapaklar%C4%B1/21.png",
       "pdfUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/elmustafa/21-%20IslamVeCiniyetFarkliliklar-web.pdf",
@@ -415,7 +429,7 @@
     {
       "id": "book_22_faiz",
       "title": "Faiz ve İslam İktisadı",
-      "author": "Heyet",
+      "author": "Komisyon",
       "category": "fikih",
       "coverUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/KutuphaneImages/El%20Mustafa%20%C3%9Cniversitesi%20Kitap%20Kapaklar%C4%B1/22.png",
       "pdfUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/elmustafa/22-%20Faiz-web.pdf",
@@ -429,7 +443,7 @@
     {
       "id": "book_23_gaybet_donemi",
       "title": "Gaybet Dönemi",
-      "author": "Heyet",
+      "author": "S. Mecid Tabatabaî",
       "category": "akait",
       "coverUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/KutuphaneImages/El%20Mustafa%20%C3%9Cniversitesi%20Kitap%20Kapaklar%C4%B1/23.png",
       "pdfUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/elmustafa/23-%20GaybetDonemi-web.pdf",
@@ -443,7 +457,7 @@
     {
       "id": "book_24_cemal_aynasi",
       "title": "Cemal Aynası",
-      "author": "Heyet",
+      "author": "İmam Humeyni",
       "category": "ahlak",
       "coverUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/KutuphaneImages/El%20Mustafa%20%C3%9Cniversitesi%20Kitap%20Kapaklar%C4%B1/24.png",
       "pdfUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/elmustafa/24-CemalAynasi-web.pdf",
@@ -457,7 +471,7 @@
     {
       "id": "book_25_sorular_cevaplar_1",
       "title": "Sorular ve Cevaplar (Cilt 1)",
-      "author": "Heyet",
+      "author": "Dr. Resul Abdullahî",
       "category": "akait",
       "coverUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/KutuphaneImages/El%20Mustafa%20%C3%9Cniversitesi%20Kitap%20Kapaklar%C4%B1/25.png",
       "pdfUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/elmustafa/25-SorularCevaplar%201-web.pdf",
@@ -471,7 +485,7 @@
     {
       "id": "book_26_sorular_cevaplar_2",
       "title": "Sorular ve Cevaplar (Cilt 2)",
-      "author": "Heyet",
+      "author": "Dr. Resul Abdullahî",
       "category": "akait",
       "coverUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/KutuphaneImages/El%20Mustafa%20%C3%9Cniversitesi%20Kitap%20Kapaklar%C4%B1/26.png",
       "pdfUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/elmustafa/26-SorularCevaplar%202-web.pdf",
@@ -485,7 +499,7 @@
     {
       "id": "book_27_sorular_cevaplar_3",
       "title": "Sorular ve Cevaplar (Cilt 3)",
-      "author": "Heyet",
+      "author": "Dr. Resul Abdullahî",
       "category": "akait",
       "coverUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/KutuphaneImages/El%20Mustafa%20%C3%9Cniversitesi%20Kitap%20Kapaklar%C4%B1/27.png",
       "pdfUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/elmustafa/27-SorularCevaplar%203-web.pdf",
@@ -499,7 +513,7 @@
     {
       "id": "book_28_tefsir_ekolleri_cilt3",
       "title": "Tefsir Ekolleri (Cilt 3)",
-      "author": "Heyet",
+      "author": "Ali Ekber Babaî",
       "category": "tefsir",
       "coverUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/KutuphaneImages/El%20Mustafa%20%C3%9Cniversitesi%20Kitap%20Kapaklar%C4%B1/28.png",
       "pdfUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/elmustafa/28-%20TefsirEkolleri-cilt3-web.pdf",
@@ -513,7 +527,7 @@
     {
       "id": "book_29_hadis_anlama_metodolojisi",
       "title": "Hadis Anlama Metodolojisi",
-      "author": "Heyet",
+      "author": "Abdulhadi Mesudî",
       "category": "hadis",
       "coverUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/KutuphaneImages/El%20Mustafa%20%C3%9Cniversitesi%20Kitap%20Kapaklar%C4%B1/29.png",
       "pdfUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/elmustafa/29-%20HadisAnlamaMetodolojisi-web.pdf",
@@ -527,7 +541,7 @@
     {
       "id": "book_30_tevhid",
       "title": "Tevhid",
-      "author": "Heyet",
+      "author": "Şeyh Saduk",
       "category": "akait",
       "coverUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/KutuphaneImages/El%20Mustafa%20%C3%9Cniversitesi%20Kitap%20Kapaklar%C4%B1/30.png",
       "pdfUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/elmustafa/30-%20Tevhid.pdf",
@@ -541,7 +555,7 @@
     {
       "id": "book_31_hac",
       "title": "Hac",
-      "author": "Heyet",
+      "author": "Üstad Abdullah Cevadî Âmulî",
       "category": "fikih",
       "coverUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/KutuphaneImages/El%20Mustafa%20%C3%9Cniversitesi%20Kitap%20Kapaklar%C4%B1/31.png",
       "pdfUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/elmustafa/31-%20Hac-web.pdf",
@@ -555,7 +569,7 @@
     {
       "id": "book_32_islam_ve_aile_sosyolojisi",
       "title": "İslam ve Aile Sosyolojisi",
-      "author": "Heyet",
+      "author": "Hüseyin Bustan",
       "category": "toplum",
       "coverUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/KutuphaneImages/El%20Mustafa%20%C3%9Cniversitesi%20Kitap%20Kapaklar%C4%B1/32.png",
       "pdfUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/elmustafa/32-%20IslamVeAileSosyolojisi-web.pdf",
@@ -569,7 +583,7 @@
     {
       "id": "book_33_islami_yasam_tarzi",
       "title": "İslami Yaşam Tarzı",
-      "author": "Heyet",
+      "author": "Ahmed Hüseyin Şerifî",
       "category": "ahlak",
       "coverUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/KutuphaneImages/El%20Mustafa%20%C3%9Cniversitesi%20Kitap%20Kapaklar%C4%B1/33.png",
       "pdfUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/elmustafa/33-%20IslamiYasamTarzi-web.pdf",
@@ -583,10 +597,10 @@
     {
       "id": "book_34_islam_irfani",
       "title": "İslam İrfanı",
-      "author": "Heyet",
+      "author": "Üstad Muhammed Taki Misbah",
       "category": "ahlak",
       "coverUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/KutuphaneImages/El%20Mustafa%20%C3%9Cniversitesi%20Kitap%20Kapaklar%C4%B1/34.png",
-      "pdfUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/elmustafa/34-%20IslamIrfan-web.pdf",
+      "pdfUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/elmustafa/34-%20IslamiIrfan-web.pdf",
       "pageCount": 0,
       "description": "Seyr-u sülûk mertebeleri, kalbin halleri ve marifetullah yolu.",
       "isFeatured": false,
@@ -597,7 +611,7 @@
     {
       "id": "book_35_kuran_ilimleri_metodolojisi",
       "title": "Kur'an İlimleri Metodolojisi",
-      "author": "Heyet",
+      "author": "Dr. İbrahim Fethullahî",
       "category": "tefsir",
       "coverUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/KutuphaneImages/El%20Mustafa%20%C3%9Cniversitesi%20Kitap%20Kapaklar%C4%B1/35.png",
       "pdfUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/elmustafa/35-%20KuranIlimleriMetodolojisi-web.pdf",
@@ -625,7 +639,7 @@
     {
       "id": "book_38_musluman_alimlerin_gorusleri_1",
       "title": "Müslüman Âlimlerin Görüşleri (Cilt 1)",
-      "author": "Heyet",
+      "author": "Muhammed Fethali Hanî",
       "category": "akait",
       "coverUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/KutuphaneImages/El%20Mustafa%20%C3%9Cniversitesi%20Kitap%20Kapaklar%C4%B1/38.png",
       "pdfUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/elmustafa/38-%20MuslumanAlimlerinGorusleri-1-web.pdf",
@@ -639,7 +653,7 @@
     {
       "id": "book_39_musluman_alimlerin_gorusleri_2",
       "title": "Müslüman Âlimlerin Görüşleri (Cilt 2)",
-      "author": "Heyet",
+      "author": "Ali Naki Fakihî",
       "category": "akait",
       "coverUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/KutuphaneImages/El%20Mustafa%20%C3%9Cniversitesi%20Kitap%20Kapaklar%C4%B1/39.png",
       "pdfUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/elmustafa/39-%20MuslumanAlimlerinGorusleri-2-web.pdf",
@@ -653,7 +667,7 @@
     {
       "id": "book_40_musluman_alimlerin_gorusleri_3",
       "title": "Müslüman Âlimlerin Görüşleri (Cilt 3)",
-      "author": "Heyet",
+      "author": "Behruz Refiî",
       "category": "akait",
       "coverUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/KutuphaneImages/El%20Mustafa%20%C3%9Cniversitesi%20Kitap%20Kapaklar%C4%B1/40.png",
       "pdfUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/elmustafa/40-%20MuslumanAlimlerinGorusleri-3%20web.pdf",
@@ -667,7 +681,7 @@
     {
       "id": "book_41_musluman_alimlerin_gorusleri_4",
       "title": "Müslüman Âlimlerin Görüşleri (Cilt 4)",
-      "author": "Heyet",
+      "author": "Muhammed Beheştî",
       "category": "akait",
       "coverUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/KutuphaneImages/El%20Mustafa%20%C3%9Cniversitesi%20Kitap%20Kapaklar%C4%B1/41.png",
       "pdfUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/elmustafa/41-%20MuslumanAlimlerinGorusleri-4-web.pdf",
@@ -681,7 +695,7 @@
     {
       "id": "book_42_yeni_kelam",
       "title": "Yeni Kelam",
-      "author": "Heyet",
+      "author": "Komisyon",
       "category": "akait",
       "coverUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/KutuphaneImages/El%20Mustafa%20%C3%9Cniversitesi%20Kitap%20Kapaklar%C4%B1/42.png",
       "pdfUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/elmustafa/42-%20YeniKelam-web.pdf",
@@ -695,7 +709,7 @@
     {
       "id": "book_43_tefsir_metotlari",
       "title": "Tefsir Metotları",
-      "author": "Heyet",
+      "author": "Hüseyin Alevimehr",
       "category": "tefsir",
       "coverUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/KutuphaneImages/El%20Mustafa%20%C3%9Cniversitesi%20Kitap%20Kapaklar%C4%B1/43.png",
       "pdfUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/elmustafa/43-%20TefsirMetotlari-web.pdf",
@@ -723,7 +737,7 @@
     {
       "id": "book_46_islamda_mehdi_inanci",
       "title": "İslam'da Mehdi İnancı",
-      "author": "Heyet",
+      "author": "Dr. Cafer Yusufi Heşterudi",
       "category": "akait",
       "coverUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/KutuphaneImages/El%20Mustafa%20%C3%9Cniversitesi%20Kitap%20Kapaklar%C4%B1/46.png",
       "pdfUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/elmustafa/46-%20IslamdaMehdiInanci.pdf",
@@ -737,7 +751,7 @@
     {
       "id": "book_47_guluv",
       "title": "Gulüv (Aşırılık ve İtidal)",
-      "author": "Heyet",
+      "author": "Dr. Cafer Yusufî",
       "category": "akait",
       "coverUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/KutuphaneImages/El%20Mustafa%20%C3%9Cniversitesi%20Kitap%20Kapaklar%C4%B1/47.png",
       "pdfUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/elmustafa/47-%20Guluv.pdf",
@@ -751,7 +765,7 @@
     {
       "id": "book_59_aksa_tufani",
       "title": "Aksa Tufanı",
-      "author": "Heyet",
+      "author": "el-Mustafa Üniversitesi Türkiye Temsilciliği",
       "category": "tarih",
       "coverUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/KutuphaneImages/El%20Mustafa%20%C3%9Cniversitesi%20Kitap%20Kapaklar%C4%B1/59.png",
       "pdfUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/elmustafa/59-%20AksaTufani.pdf",
@@ -779,9 +793,9 @@
     {
       "id": "book_63_molla_sadra_felsefesi",
       "title": "Molla Sadra ve Felsefi Düşünceleri",
-      "author": "Heyet",
+      "author": "el-Mustafa Üniversitesi Türkiye Temsilciliği",
       "category": "akait",
-      "coverUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/KutuphaneImages/El%20Mustafa%20%C3%9Cniversitesi%20Kitap%20Kapaklar%C4%B1/47.png",
+      "coverUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/KutuphaneImages/El%20Mustafa%20%C3%9Cniversitesi%20Kitap%20Kapaklar%C4%B1/63.jpg",
       "pdfUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/elmustafa/63-%20MollaSadraVeFelsefiDusunceleri-INTERAKTIF.pdf",
       "pageCount": 0,
       "description": "Hikmet-i Mütealiye kurucusu Molla Sadra'nın varlık felsefesi ve ruhun cismanî tekâmülü.",
