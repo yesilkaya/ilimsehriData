@@ -1,5 +1,5 @@
 {
-  "version": 8,
+  "version": 9,
   "categories": [
     {
       "id": "all",
@@ -51,7 +51,7 @@
     {
       "id": "book_hz_huseyinin_gunu",
       "title": "Hz. Hüseyin'in Günü",
-      "author": "Heyet",
+      "author": "Caferider",
       "category": "tarih",
       "coverUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kitaplar/imam_huseynin_hayatindan.jpeg",
       "pdfUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/Kutuphane/Hz.%20H%C3%BCseyinin%20G%C3%BCn%C3%BC.pdf",
@@ -79,7 +79,7 @@
     {
       "id": "book_kuranin_ogrettigi_yasam_tarzi_c1",
       "title": "Kur'an'ın Öğrettiği Yaşam Tarzı (Cilt 1)",
-      "author": "Heyet",
+      "author": "Caferider",
       "category": "ahlak",
       "coverUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kitaplar/dogruYolaDavet.jpeg",
       "pdfUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/Kutuphane/Kur%27an%27%C4%B1n%20%C3%96%C4%9Fretti%C4%9Fi%20Ya%C5%9Fam%20Tarz%C4%B1%20Kitap.pdf",
@@ -93,7 +93,7 @@
     {
       "id": "book_kuranin_ogrettigi_yasam_tarzi_c2",
       "title": "Kur'an'ın Öğrettiği Yaşam Tarzı (Cilt 2)",
-      "author": "Heyet",
+      "author": "Caferider",
       "category": "ahlak",
       "coverUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kitaplar/iyilerinKissasi.jpeg",
       "pdfUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/Kutuphane/Kur%27an%27%C4%B1n%20%C3%96%C4%9Fretti%C4%9Fi%20Ya%C5%9Fam%20Tarz%C4%B1%20cilt%202%20Kitap.pdf",
@@ -135,7 +135,7 @@
     {
       "id": "book_02_egitimde_yanlis_yontemler",
       "title": "Eğitimde Yanlış Yöntemler",
-      "author": "Heyet",
+      "author": "Dr. M. Rıza Kaimi Mukaddem",
       "category": "toplum",
       "coverUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/KutuphaneImages/El%20Mustafa%20%C3%9Cniversitesi%20Kitap%20Kapaklar%C4%B1/2.png",
       "pdfUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/elmustafa/2-%20EgitimdeYanlisYontemler-web.pdf",
@@ -149,7 +149,7 @@
     {
       "id": "book_03_liderlik_tarzi",
       "title": "Liderlik Tarzı",
-      "author": "Heyet",
+      "author": "Dr. Abbas Şefii",
       "category": "toplum",
       "coverUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/KutuphaneImages/El%20Mustafa%20%C3%9Cniversitesi%20Kitap%20Kapaklar%C4%B1/3.png",
       "pdfUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/elmustafa/3-Liderlik%20tarzi.pdf",
@@ -163,7 +163,7 @@
     {
       "id": "book_04_islami_acidan_genclik_psikolojisi",
       "title": "İslami Açıdan Gençlik Psikolojisi",
-      "author": "Heyet",
+      "author": "Dr. M. Ali Haci Dehebadi & Dr. S. Ali Huseynizade",
       "category": "toplum",
       "coverUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/KutuphaneImages/El%20Mustafa%20%C3%9Cniversitesi%20Kitap%20Kapaklar%C4%B1/4.png",
       "pdfUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/elmustafa/4-%20IslamiAcidanGenclikPsikolojisi-web.pdf",
@@ -177,7 +177,7 @@
     {
       "id": "book_05_kuran_tefsiri_metodolojisi",
       "title": "Kur'an Tefsiri Metodolojisi",
-      "author": "Heyet",
+      "author": "Ali Ekber Babai & Gulam Ali Azizi Kia & Mucteba Ruhani Rad",
       "category": "tefsir",
       "coverUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/KutuphaneImages/El%20Mustafa%20%C3%9Cniversitesi%20Kitap%20Kapaklar%C4%B1/5.png",
       "pdfUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/elmustafa/5-%20KuranTefsiriMetodolojisi-WEB.pdf",
@@ -191,7 +191,7 @@
     {
       "id": "book_06_buyuk_dinleri_tanimak",
       "title": "Büyük Dinleri Tanımak",
-      "author": "Heyet",
+      "author": "Hüseyin Tevfiki",
       "category": "akait",
       "coverUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/KutuphaneImages/El%20Mustafa%20%C3%9Cniversitesi%20Kitap%20Kapaklar%C4%B1/6.png",
       "pdfUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/elmustafa/6-%20BuyukDinleriTanimak-WEB.pdf",
@@ -205,7 +205,7 @@
     {
       "id": "book_07_siyer_1",
       "title": "Siyer 1",
-      "author": "Heyet",
+      "author": "Dr. S. Ali Huseynizade",
       "category": "tarih",
       "coverUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/KutuphaneImages/El%20Mustafa%20%C3%9Cniversitesi%20Kitap%20Kapaklar%C4%B1/7.png",
       "pdfUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/elmustafa/7-%20Siyer%201.pdf",
@@ -219,7 +219,7 @@
     {
       "id": "book_08_siyer_2",
       "title": "Siyer 2",
-      "author": "Heyet",
+      "author": "Dr. Muhammed Davudi",
       "category": "tarih",
       "coverUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/KutuphaneImages/El%20Mustafa%20%C3%9Cniversitesi%20Kitap%20Kapaklar%C4%B1/8.png",
       "pdfUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/elmustafa/8-%20Siyer%202.pdf",
@@ -233,7 +233,7 @@
     {
       "id": "book_09_siyer_3",
       "title": "Siyer 3",
-      "author": "Heyet",
+      "author": "Dr. Muhammed Davudi",
       "category": "tarih",
       "coverUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/KutuphaneImages/El%20Mustafa%20%C3%9Cniversitesi%20Kitap%20Kapaklar%C4%B1/9.png",
       "pdfUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/elmustafa/9-%20Siyer%203.pdf",
@@ -247,7 +247,7 @@
     {
       "id": "book_10_kurandan_esintiler",
       "title": "Kur'an'dan Esintiler",
-      "author": "Heyet",
+      "author": "Üstad Muhsin Kıraati",
       "category": "tefsir",
       "coverUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/KutuphaneImages/El%20Mustafa%20%C3%9Cniversitesi%20Kitap%20Kapaklar%C4%B1/10.png",
       "pdfUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/elmustafa/10-%20KurandanEsintiler-web.pdf",
@@ -261,7 +261,7 @@
     {
       "id": "book_11_iki_sure",
       "title": "İki Sûre Tefsiri",
-      "author": "Heyet",
+      "author": "Üstad Cafer Subhani & Üstad Nasır Mekarim Şirazi",
       "category": "tefsir",
       "coverUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/KutuphaneImages/El%20Mustafa%20%C3%9Cniversitesi%20Kitap%20Kapaklar%C4%B1/11.png",
       "pdfUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/elmustafa/11-IkiSure-web.pdf",
@@ -275,7 +275,7 @@
     {
       "id": "book_12_kuran_ilimleri",
       "title": "Kur'an İlimleri",
-      "author": "Heyet",
+      "author": "Üstad Muhammed Hadi Marifet",
       "category": "tefsir",
       "coverUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/KutuphaneImages/El%20Mustafa%20%C3%9Cniversitesi%20Kitap%20Kapaklar%C4%B1/12.png",
       "pdfUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/elmustafa/12-KuranIlimleri-web.pdf",
@@ -289,7 +289,7 @@
     {
       "id": "book_13_tefsir_ekolleri_cilt1",
       "title": "Tefsir Ekolleri (Cilt 1)",
-      "author": "Heyet",
+      "author": "Üstad Ali Ekber Babai",
       "category": "tefsir",
       "coverUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/KutuphaneImages/El%20Mustafa%20%C3%9Cniversitesi%20Kitap%20Kapaklar%C4%B1/13.png",
       "pdfUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/elmustafa/13-TefsirEkolleri-cilt1-web.pdf",
@@ -303,7 +303,7 @@
     {
       "id": "book_14_ruhsal_hijyen",
       "title": "Ruhsal Hijyen",
-      "author": "Heyet",
+      "author": "El Mustafa Yayınları",
       "category": "ahlak",
       "coverUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/KutuphaneImages/El%20Mustafa%20%C3%9Cniversitesi%20Kitap%20Kapaklar%C4%B1/14.png",
       "pdfUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/elmustafa/14-RuhsalHijyen-web.pdf",
@@ -317,7 +317,7 @@
     {
       "id": "book_15_tefsir_ekolleri_cilt2",
       "title": "Tefsir Ekolleri (Cilt 2)",
-      "author": "Heyet",
+      "author": "El Mustafa Yayınları",
       "category": "tefsir",
       "coverUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/KutuphaneImages/El%20Mustafa%20%C3%9Cniversitesi%20Kitap%20Kapaklar%C4%B1/15.png",
       "pdfUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/elmustafa/15-%20TefsirEkolleri-cilt2-WEB.pdf",
@@ -331,7 +331,7 @@
     {
       "id": "book_16_ahlak",
       "title": "Ahlak",
-      "author": "Heyet",
+      "author": "S. Abdullah Şubber",
       "category": "ahlak",
       "coverUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/KutuphaneImages/El%20Mustafa%20%C3%9Cniversitesi%20Kitap%20Kapaklar%C4%B1/16.png",
       "pdfUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/elmustafa/16-Ahlak-WEB.pdf",
@@ -345,7 +345,7 @@
     {
       "id": "book_17_hadis_ilimlerine_giris",
       "title": "Hadis İlimlerine Giriş",
-      "author": "Heyet",
+      "author": "Üstad Ali Nasıri",
       "category": "hadis",
       "coverUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/KutuphaneImages/El%20Mustafa%20%C3%9Cniversitesi%20Kitap%20Kapaklar%C4%B1/17.png",
       "pdfUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/elmustafa/17-HadisIlimlerineGiris-WEB.pdf",
@@ -359,7 +359,7 @@
     {
       "id": "book_18_kelami_firkalar_ve_mezhepler",
       "title": "Kelamî Fırkalar ve Mezhepler",
-      "author": "Heyet",
+      "author": "Üstad Ali Rabbani Gulpaygani",
       "category": "akait",
       "coverUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/KutuphaneImages/El%20Mustafa%20%C3%9Cniversitesi%20Kitap%20Kapaklar%C4%B1/18.png",
       "pdfUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/elmustafa/18-KelamiFirkalarVeMehepler-WEB.pdf",
