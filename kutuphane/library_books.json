@@ -1,5 +1,5 @@
 {
-  "version": 13,
+  "version": 14,
   "categories": [
     {
       "id": "all",
@@ -53,7 +53,7 @@
       "title": "Hz. Hüseyin'in Günü",
       "author": "Gulamrıza Haydari Ebheri",
       "category": "tarih",
-      "coverUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/KutuphaneImages/Caferider/hz_huseyinin_gunu.jpg",
+      "coverUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/KutuphaneImages/Caferider/Hz.%20Hüseyin'in%20Günü.png",
       "pdfUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/Kutuphane/Hz.%20H%C3%BCseyinin%20G%C3%BCn%C3%BC.pdf",
       "pageCount": 0,
       "description": "Kerbela ve Aşura hakkında ilk söylenenler; Hz. Hüseyin'in (a.s) günü.",
@@ -81,7 +81,7 @@
       "title": "Kur'an'ın Öğrettiği Yaşam Tarzı (Cilt 1)",
       "author": "Muhammed Ebu'l Kasım Dulabi",
       "category": "ahlak",
-      "coverUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/KutuphaneImages/Caferider/kuranin_ogrettigi_yasam_tarzi_c1.jpg",
+      "coverUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/KutuphaneImages/Caferider/Kuranın%20Öğrettiği%20Yaşam%20Tarzı%201.png",
       "pdfUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/Kutuphane/Kur%27an%27%C4%B1n%20%C3%96%C4%9Fretti%C4%9Fi%20Ya%C5%9Fam%20Tarz%C4%B1%20Kitap.pdf",
       "pageCount": 0,
       "description": "Kur'an ayetlerinden çıkarılan bireysel ve sosyal yaşam dersleri (1. cilt).",
@@ -95,7 +95,7 @@
       "title": "Kur'an'ın Öğrettiği Yaşam Tarzı (Cilt 2)",
       "author": "Muhammed Ebu'l Kasım Dulabi",
       "category": "ahlak",
-      "coverUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/KutuphaneImages/Caferider/kuranin_ogrettigi_yasam_tarzi_c2.jpg",
+      "coverUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/KutuphaneImages/Caferider/Kuranın%20Öğrettiği%20Yaşam%20Tarzı%202.png",
       "pdfUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/Kutuphane/Kur%27an%27%C4%B1n%20%C3%96%C4%9Fretti%C4%9Fi%20Ya%C5%9Fam%20Tarz%C4%B1%20cilt%202%20Kitap.pdf",
       "pageCount": 0,
       "description": "Kur'an ayetlerinden çıkarılan bireysel ve sosyal yaşam dersleri (2. cilt).",
