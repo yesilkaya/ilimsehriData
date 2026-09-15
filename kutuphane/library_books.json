@@ -1,5 +1,5 @@
 {
-  "version": 14,
+  "version": 15,
   "categories": [
     {
       "id": "all",
@@ -809,7 +809,7 @@
       "title": "Hayat Pınarı (Cilt 1)",
       "author": "Ayetullah Cafer Sübhani",
       "category": "akait",
-      "coverUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/KutuphaneImages/El%20Mustafa%20%C3%9Cniversitesi%20Kitap%20Kapaklar%C4%B1/53.png",
+      "coverUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/KutuphaneImages/El%20Mustafa%20Üniversitesi%20Kitap%20Kapakları/hayat-pinari.png",
       "pdfUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/elmustafa/Hayat%20P%C4%B1nar%C4%B1%20c.1.pdf",
       "pageCount": 0,
       "description": "İslam inanç esaslarının akli ve nakli delillerle ayrıntılı izahı.",
@@ -823,7 +823,7 @@
       "title": "Hayat Pınarı (Cilt 2)",
       "author": "Ayetullah Cafer Sübhani",
       "category": "akait",
-      "coverUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/KutuphaneImages/El%20Mustafa%20%C3%9Cniversitesi%20Kitap%20Kapaklar%C4%B1/53.png",
+      "coverUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/KutuphaneImages/El%20Mustafa%20Üniversitesi%20Kitap%20Kapakları/hayat-pinari.png",
       "pdfUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/elmustafa/Hayat%20P%C4%B1nar%C4%B1%20c.2.pdf",
       "pageCount": 0,
       "description": "Nübüvvet, peygamberlerin ismeti ve mucizelerin felsefesi.",
@@ -837,7 +837,7 @@
       "title": "Hayat Pınarı (Cilt 3)",
       "author": "Ayetullah Cafer Sübhani",
       "category": "akait",
-      "coverUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/KutuphaneImages/El%20Mustafa%20%C3%9Cniversitesi%20Kitap%20Kapaklar%C4%B1/53.png",
+      "coverUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/KutuphaneImages/El%20Mustafa%20Üniversitesi%20Kitap%20Kapakları/hayat-pinari.png",
       "pdfUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/elmustafa/Hayat%20P%C4%B1nar%C4%B1%20c.3.pdf",
       "pageCount": 0,
       "description": "İmamet ve velayet makamının Kur'an ve hadislerle ispatı.",
@@ -851,7 +851,7 @@
       "title": "Hayat Pınarı (Cilt 4)",
       "author": "Ayetullah Cafer Sübhani",
       "category": "akait",
-      "coverUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/KutuphaneImages/El%20Mustafa%20%C3%9Cniversitesi%20Kitap%20Kapaklar%C4%B1/53.png",
+      "coverUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/KutuphaneImages/El%20Mustafa%20Üniversitesi%20Kitap%20Kapakları/hayat-pinari.png",
       "pdfUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/elmustafa/Hayat%20P%C4%B1nar%C4%B1%20c.4.pdf",
       "pageCount": 0,
       "description": "Mead, ahiret hayatı, berzah alemi ve dirilişin akli delilleri.",
