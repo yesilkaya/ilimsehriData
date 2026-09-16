@@ -1,5 +1,5 @@
 {
-  "version": 20,
+  "version": 21,
   "categories": [
     {
       "id": "all",
@@ -81,7 +81,7 @@
       "title": "Kur'an'ın Öğrettiği Yaşam Tarzı (Cilt 1)",
       "author": "Muhammed Ebu'l Kasım Dulabi",
       "category": "ahlak",
-      "coverUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/KutuphaneImages/Caferider/kuranin_ogrettigi_yasam_tarzi1.png",
+      "coverUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/KutuphaneImages/Caferider/kuranin_ogrettigi_yasam_tarzi2.png",
       "pdfUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/Kutuphane/Kur%27an%27%C4%B1n%20%C3%96%C4%9Fretti%C4%9Fi%20Ya%C5%9Fam%20Tarz%C4%B1%20Kitap.pdf",
       "pageCount": 0,
       "description": "Kur'an ayetlerinden çıkarılan bireysel ve sosyal yaşam dersleri (1. cilt).",
@@ -95,7 +95,7 @@
       "title": "Kur'an'ın Öğrettiği Yaşam Tarzı (Cilt 2)",
       "author": "Muhammed Ebu'l Kasım Dulabi",
       "category": "ahlak",
-      "coverUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/KutuphaneImages/Caferider/kuranin_ogrettigi_yasam_tarzi2.png",
+      "coverUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/KutuphaneImages/Caferider/kuranin_ogrettigi_yasam_tarzi1.png",
       "pdfUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/Kutuphane/Kur%27an%27%C4%B1n%20%C3%96%C4%9Fretti%C4%9Fi%20Ya%C5%9Fam%20Tarz%C4%B1%20cilt%202%20Kitap.pdf",
       "pageCount": 0,
       "description": "Kur'an ayetlerinden çıkarılan bireysel ve sosyal yaşam dersleri (2. cilt).",
