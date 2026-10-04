@@ -1,5 +1,5 @@
 {
-  "version": 21,
+  "version": 22,
   "categories": [
     {
       "id": "all",
@@ -143,20 +143,6 @@
       "description": "İslami pedagoji ve çocuk/genç eğitiminde sıkça yapılan pedagojik hatalar.",
       "isFeatured": false,
       "order": 8,
-      "publisher": "El Mustafa Yayınları",
-      "language": "tr"
-    },
-    {
-      "id": "book_03_liderlik_tarzi",
-      "title": "İmam Humenyni'nin Liderlik Tarzı",
-      "author": "Dr. Abbas Şefii",
-      "category": "toplum",
-      "coverUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/KutuphaneImages/El%20Mustafa%20%C3%9Cniversitesi%20Kitap%20Kapaklar%C4%B1/3.png",
-      "pdfUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/elmustafa/3-Liderlik%20tarzi.pdf",
-      "pageCount": 0,
-      "description": "İslam toplumlarında liderlik, yönetim ilkeleri ve adalet esasları.",
-      "isFeatured": false,
-      "order": 9,
       "publisher": "El Mustafa Yayınları",
       "language": "tr"
     },
@@ -399,20 +385,6 @@
       "language": "tr"
     },
     {
-      "id": "book_20_teorik_irfanin_temel_prensipleri",
-      "title": "Teorik İrfanın Temelleri",
-      "author": "Muhammed Rıza Gafuriyan",
-      "category": "ahlak",
-      "coverUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/KutuphaneImages/El%20Mustafa%20%C3%9Cniversitesi%20Kitap%20Kapaklar%C4%B1/20.png",
-      "pdfUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/elmustafa/20-TeorikIrfaninTemelPrensipleri-WEB.pdf",
-      "pageCount": 0,
-      "description": "Varlık mertebeleri, vahdet-i vücud ve irfani ontolojiye giriş.",
-      "isFeatured": false,
-      "order": 26,
-      "publisher": "El Mustafa Yayınları",
-      "language": "tr"
-    },
-    {
       "id": "book_21_islam_ve_cinsiyet_farkliliklari",
       "title": "İslam ve Cinsiyet Farklılıkları",
       "author": "Hüseyin Bustan",
@@ -451,20 +423,6 @@
       "description": "İmam Mehdi'nin (a.f) küçük ve büyük gaybet süreçleri, intizar şuuru ve sorumluluklar.",
       "isFeatured": true,
       "order": 29,
-      "publisher": "El Mustafa Yayınları",
-      "language": "tr"
-    },
-    {
-      "id": "book_24_cemal_aynasi",
-      "title": "Cemal Aynası",
-      "author": "İmam Humeyni",
-      "category": "ahlak",
-      "coverUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/KutuphaneImages/El%20Mustafa%20%C3%9Cniversitesi%20Kitap%20Kapaklar%C4%B1/24.png",
-      "pdfUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/elmustafa/24-CemalAynasi-web.pdf",
-      "pageCount": 0,
-      "description": "İlahi isim ve sıfatların tecellileri ve kalbi arındırma dersleri.",
-      "isFeatured": false,
-      "order": 30,
       "publisher": "El Mustafa Yayınları",
       "language": "tr"
     },
@@ -759,20 +717,6 @@
       "description": "Filistin direnişi, Kudüs davası ve Aksa Tufanı harekatının İslami ve jeopolitik boyutları.",
       "isFeatured": true,
       "order": 52,
-      "publisher": "El Mustafa Yayınları",
-      "language": "tr"
-    },
-    {
-      "id": "book_62_irfani_mektuplar",
-      "title": "İrfanî Mektuplar",
-      "author": "Seyyid Ali Kadı Tabatabaî",
-      "category": "ahlak",
-      "coverUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/KutuphaneImages/El%20Mustafa%20%C3%9Cniversitesi%20Kitap%20Kapaklar%C4%B1/%C4%B0rfani%20Mektuplar%20Kapak.png",
-      "pdfUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/kutuphane/elmustafa/62-%20%C4%B0rfani%20Mektuplar.pdf",
-      "pageCount": 0,
-      "description": "Büyük ariflerin talebelerine yazdığı manevi nasihatler ve kalbi terbiye mektupları.",
-      "isFeatured": true,
-      "order": 53,
       "publisher": "El Mustafa Yayınları",
       "language": "tr"
     },
