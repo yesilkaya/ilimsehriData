@@ -1,5 +1,5 @@
 {
-  "version": 16,
+  "version": 17,
   "updatedAt": "2026-08-08T12:00:00Z",
   "data": [
     {
@@ -26,6 +26,18 @@
       "expiresAt": null,
       "active": true,
       "imageUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/notificationImages/tukenmez.png"
+    },
+    {
+      "id": "2026-10-08-1",
+      "title": "🎭 Evrensel Aşura Tiyatrosu Senaryo Yarışması",
+      "content": "Adaletin ve insanlık onurunun sesi olan Kerbelâ, sizin kaleminizle sahneye taşınıyor...\n\nCAFERİDER tarafından düzenlenen ödüllü “Evrensel Aşura Tiyatrosu Senaryo Yarışması”, Kerbelâ’nın evrensel mesajlarını tiyatro sahnesine taşıyacak özgün senaryoları bekliyor.\n\n📅 Başvuru Takvimi\n\n• Başvuruların başlangıcı: 1 Eylül 2026\n• Son başvuru tarihi: 31 Ocak 2027\n• Kazananların açıklanması: 1 Mart 2027\n\n🏆 Ödül töreni, İstanbul’da gerçekleştirilecek 2027 Evrensel Aşura Merasimi Töreni kapsamında düzenlenecektir.\n\n📌 Yarışma detayları ve başvuru için aşağıdaki bağlantıyı ziyaret edebilirsiniz.",
+      "link": "https://halkalidaasura.com/tr",
+      "linkLabel": "Yarışma Detayları ve Başvuru",
+      "publishedAt": "2026-10-08T00:45:00+03:00",
+      "pinned": true,
+      "expiresAt": "2027-02-01T00:00:00+03:00",
+      "active": true,
+      "imageUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/notificationImages/kerbelanin_sesi.jpeg"
     }
   ]
 }
