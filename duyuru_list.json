@@ -1,7 +1,19 @@
 {
-  "version": 17,
-  "updatedAt": "2026-08-08T12:00:00Z",
+  "version": 18,
+  "updatedAt": "2026-11-16T17:30:00Z",
   "data": [
+    {
+      "id": "2026-11-16-1",
+      "title": "📚 Çocuğumuzu Nasıl Eğitmeliyiz? Çıktı",
+      "content": "Dr. Mehdi Hadi ve Dr. Seyyid Ali Musevi Baruk'un kaleme aldığı \"Çocuğumuzu Nasıl Eğitmeliyiz?\" kitabı çıktı.\n\n100 Nokta ve 100 Çözüm\n\nÇocuk yetiştirmek, yalnızca doğru davranışları öğretmekten ibaret değildir; onu anlamayı, dinlemeyi, duygularına değer vermeyi ve gelişim döneminin ihtiyaçlarını bilmeyi gerektirir.\n\nSipariş için WhatsApp: 0552 346 53 37",
+      "link": "https://wa.me/905523465337?text=Selamun%20aleykum%2C%20%C3%87ocu%C4%9Fumuzu%20Nas%C4%B1l%20E%C4%9Fitmeliyiz%20kitab%C4%B1n%C4%B1%20sipari%C5%9F%20etmek%20istiyorum.",
+      "linkLabel": "Sipariş Ver",
+      "publishedAt": "2026-11-16T17:30:00Z",
+      "pinned": true,
+      "expiresAt": null,
+      "isActive": true,
+      "imageUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/notificationImages/cocukkitap.jpeg"
+    },
     {
       "id": "2026-08-06-1",
       "title": "🌿 Denizli'de İlk Ehlibeyt Mescidimizin İnşasına Başlıyoruz",
@@ -13,7 +25,6 @@
       "expiresAt": null,
       "isActive": true,
       "imageUrl": "https://raw.githubusercontent.com/yesilkaya/ilimsehriData/main/notificationImages/denizli%20cami%204.png"
-      
     },
     {
       "id": "2026-09-05-1",
