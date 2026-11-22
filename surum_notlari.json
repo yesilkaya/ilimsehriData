@@ -4,12 +4,10 @@
       "version": "3.2.19",
       "versionCode": 61,
       "notes": [
-        "Ayarlar’dan Açık, Koyu ve Klasik tema. İlk açılış açık temadadır.",
-        "Kart, arama, bildirim çubuğu ve sonuç yazıları temada okunur.",
-        "Dua araması Ayların Amelleri ve diğer dua bölümlerini de tarar.",
-        "Ana sayfada yeni sürüm kartı.",
-        "Bildirimlerde görsel.",
-        "Çocuk bilgi yarışmasının sonuç ekranı düzeltildi."
+        "Açık, Koyu ve Klasik tema eklendi.",
+        "Dua ve Münacat menüsüne arama özelliği eklendi",
+        "Ana sayfaya yeni sürüm kartı eklendi.",
+        "Bildirimlerde görsel görüntüleme eklendi."
       ]
     }
   ]
