@@ -1,38 +1,6 @@
 {
   "videos": [
     {
-      "title": "Hüseyn Ya Mevlâ",
-      "url": "https://youtu.be/u95Zt38VF5U"
-    },
-    {
-      "title": "Ağam Hüseyn",
-      "url": "https://youtu.be/dGIkkGgjFf4"
-    },
-    {
-      "title": "Hasan ile Hüseyin Nurdur",
-      "url": "https://youtu.be/v1v7EJUZp84"
-    },
-    {
-      "title": "Ali Ali",
-      "url": "https://youtu.be/3l7cjG3L-Hg"
-    },
-    {
-      "title": "Şah-ı Merdan Şir-i Yezdan",
-      "url": "https://youtu.be/IROXik9CDZw"
-    },
-    {
-      "title": "Hüseyn Adına Kurban Olam",
-      "url": "https://youtu.be/xCJewKpX-2E"
-    },
-    {
-      "title": "Aşkın Yüreği",
-      "url": "https://youtu.be/plQFMZzIHas"
-    },
-    {
-      "title": "Gönlümün Sultanı Hüseyin",
-      "url": "https://youtu.be/U7SRdxryPSM"
-    },
-    {
       "title": "Vay Mənə",
       "url": "https://youtu.be/wrodlAmFeuQ"
     },
@@ -95,6 +63,38 @@
     {
       "title": "Dur Gedek Eli Ekber",
       "url": "https://youtu.be/q18s8QjI3vw"
+    },
+    {
+      "title": "Hüseyn Ya Mevlâ",
+      "url": "https://youtu.be/u95Zt38VF5U"
+    },
+    {
+      "title": "Ağam Hüseyn",
+      "url": "https://youtu.be/dGIkkGgjFf4"
+    },
+    {
+      "title": "Hasan ile Hüseyin Nurdur",
+      "url": "https://youtu.be/v1v7EJUZp84"
+    },
+    {
+      "title": "Ali Ali",
+      "url": "https://youtu.be/3l7cjG3L-Hg"
+    },
+    {
+      "title": "Şah-ı Merdan Şir-i Yezdan",
+      "url": "https://youtu.be/IROXik9CDZw"
+    },
+    {
+      "title": "Hüseyn Adına Kurban Olam",
+      "url": "https://youtu.be/xCJewKpX-2E"
+    },
+    {
+      "title": "Aşkın Yüreği",
+      "url": "https://youtu.be/plQFMZzIHas"
+    },
+    {
+      "title": "Gönlümün Sultanı Hüseyin",
+      "url": "https://youtu.be/U7SRdxryPSM"
     }
   ]
 }
