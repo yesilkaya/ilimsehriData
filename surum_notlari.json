@@ -4,9 +4,8 @@
       "version": "3.2.20",
       "versionCode": 62,
       "notes": [
-        "Soru & Cevap modülü yenilendi: soru listesi, arama, soru sorma ve detay sayfası.",
+        "Soru & Cevap modülü eklendi: soru listesi, arama, soru sorma ve detay sayfası.",
         "Kur'an mealinde favori sureler ve kaldığınız yerden devam etme eklendi.",
-        "Meal okuma ekranında metin kontrastı ve açılış deneyimi iyileştirildi.",
         "Sinezenler listesine yeni videolar eklendi."
       ]
     },
