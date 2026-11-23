@@ -4,10 +4,9 @@
       "version": "3.2.20",
       "versionCode": 62,
       "notes": [
-        Sürüm notları
-        - Soru & Cevap bölümünde sorulara göz atabilir, arama yapabilir, yanıtları okuyabilir ve kendi sorunuzu sorabilirsiniz.
-        - Kur’an meali bölümünde sureleri favorilerinize ekleyebilir ve okumaya kaldığınız yerden devam edebilirsiniz.
-        - Sinezenler bölümünde yeni eklenen sinezenleri izleyebilirsiniz.
+        "Soru & Cevap bölümünde sorulara göz atabilir, arama yapabilir, yanıtları okuyabilir ve kendi sorunuzu sorabilirsiniz.",
+        "Kur’an meali bölümünde sureleri favorilerinize ekleyebilir ve okumaya kaldığınız yerden devam edebilirsiniz.",
+        "Sinezenler bölümünde yeni eklenen videoları izleyebilirsiniz."
       ]
     },
     {
@@ -15,7 +14,7 @@
       "versionCode": 61,
       "notes": [
         "Açık, Koyu ve Klasik tema eklendi.",
-        "Dua ve Münacat menüsüne arama özelliği eklendi",
+        "Dua ve Münacat menüsüne arama özelliği eklendi.",
         "Ana sayfaya yeni sürüm kartı eklendi.",
         "Bildirimlerde görsel görüntüleme eklendi."
       ]
