@@ -4,9 +4,10 @@
       "version": "3.2.20",
       "versionCode": 62,
       "notes": [
-        "Soru & Cevap modülü eklendi: soru listesi, arama, soru sorma ve detay sayfası.",
-        "Kur'an mealinde favori sureler ve kaldığınız yerden devam etme eklendi.",
-        "Sinezenler listesine yeni videolar eklendi."
+        Sürüm notları
+        - Soru & Cevap bölümünde sorulara göz atabilir, arama yapabilir, yanıtları okuyabilir ve kendi sorunuzu sorabilirsiniz.
+        - Kur’an meali bölümünde sureleri favorilerinize ekleyebilir ve okumaya kaldığınız yerden devam edebilirsiniz.
+        - Sinezenler bölümünde yeni eklenen sinezenleri izleyebilirsiniz.
       ]
     },
     {
