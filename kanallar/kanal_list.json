@@ -6,12 +6,12 @@
   },
   {
     "title": "ON4 TV",
-    "image": "https://www.on4.com.tr/imgs/180x80x2/logoon44.png",
+    "image": "https://on4.com.tr/on4tv_logo.png",
     "url": "https://live.artidijitalmedya.com/artidijital_on4tv/on4tv/playlist.m3u8"
   },
   {
     "title": "Kudüs TV",
-    "image": "https://kudustv.com.tr/images/logo/logo.png",
+    "image": "https://www.kudustv.com.tr/assets/img/logo.png",
     "url": "https://yayin3.haber100.com/kudustvapp/kudustv/playlist.m3u8"
   }
 ]
